@@ -1,0 +1,2932 @@
+[
+  {
+    "id": "antibaryon",
+    "monsterId": "8011020",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8011020",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8011020",
+    "indexPath": ".cache/monster-models/hoyotoon-antibaryon-files.json",
+    "indexSha256": "309a9928c1323bf1033f932b36b9d62d73ff13cb611166e6ab594d8a3f7a8413",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/antibaryon/source/Default/Art_AML_Minion01_01.fbx",
+        "sourcePath": "Monsters/Antibaryon/Default/Art_AML_Minion01_01.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAntibaryon%2FDefault%2FArt_AML_Minion01_01.fbx&v=00c7e76a43302f452d8e595aea8a3b4f",
+        "size": 136404,
+        "sha256": "dff345426b06d3aa2b858f6a2d03863682fc3c9c750a7c94aa2adf95a4bb757b",
+        "etag": "00c7e76a43302f452d8e595aea8a3b4f"
+      },
+      {
+        "path": "public/assets/models/antibaryon/source/Default/Materials/Monster_AML_Minion01_01_Mat.json",
+        "sourcePath": "Monsters/Antibaryon/Default/Materials/Monster_AML_Minion01_01_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAntibaryon%2FDefault%2FMaterials%2FMonster_AML_Minion01_01_Mat.json&v=1fed5af12713219366e709cdcaf581f3",
+        "size": 4974,
+        "sha256": "b3531be90655826b89308a4da4681e15b00e1e6cdf701d26dddbc8c46f0ec985",
+        "etag": "1fed5af12713219366e709cdcaf581f3"
+      },
+      {
+        "path": "public/assets/models/antibaryon/source/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion01_01_Mat.png",
+        "sourcePath": "Monsters/Antibaryon/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion01_01_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAntibaryon%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Minion01_01_Mat.png&v=d96ac9e93a88d843678f495c86c6e881",
+        "size": 197,
+        "sha256": "78caf530341e73a590719174fac2773908bc1c4c0762f88fbea1f6294517090c",
+        "etag": "d96ac9e93a88d843678f495c86c6e881"
+      },
+      {
+        "path": "public/assets/models/antibaryon/source/Default/Textures/Monster_AML_Minion01_01_Color.png",
+        "sourcePath": "Monsters/Antibaryon/Default/Textures/Monster_AML_Minion01_01_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAntibaryon%2FDefault%2FTextures%2FMonster_AML_Minion01_01_Color.png&v=957e327b31d1ff45a703817a3e60bbb1",
+        "size": 1150161,
+        "sha256": "91c28a8be84ee64d0488c87e64860c9c3e361d247bb2fc4819ba3cedbbdc74f8",
+        "etag": "957e327b31d1ff45a703817a3e60bbb1"
+      },
+      {
+        "path": "public/assets/models/antibaryon/source/Default/Textures/Monster_AML_Minion01_01_Cool_Ramp.png",
+        "sourcePath": "Monsters/Antibaryon/Default/Textures/Monster_AML_Minion01_01_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAntibaryon%2FDefault%2FTextures%2FMonster_AML_Minion01_01_Cool_Ramp.png&v=b228c111cdb71428cb616ad36bd232df",
+        "size": 305,
+        "sha256": "e473cc0ceb2a6a7df8f6a043d8ebbab7478a1e4c52371a993a7adaa3d0526e94",
+        "etag": "b228c111cdb71428cb616ad36bd232df"
+      },
+      {
+        "path": "public/assets/models/antibaryon/source/Default/Textures/Monster_AML_Minion01_01_LightMap.png",
+        "sourcePath": "Monsters/Antibaryon/Default/Textures/Monster_AML_Minion01_01_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAntibaryon%2FDefault%2FTextures%2FMonster_AML_Minion01_01_LightMap.png&v=75a52ed7b4d3804c6e591d7f4574343a",
+        "size": 408272,
+        "sha256": "3ffcb40d0be373c7cebc4f94270530af6017df400c16b9d0df680cccaa863775",
+        "etag": "75a52ed7b4d3804c6e591d7f4574343a"
+      },
+      {
+        "path": "public/assets/models/antibaryon/source/Default/Textures/Monster_AML_Minion01_01_Warm_Ramp.png",
+        "sourcePath": "Monsters/Antibaryon/Default/Textures/Monster_AML_Minion01_01_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAntibaryon%2FDefault%2FTextures%2FMonster_AML_Minion01_01_Warm_Ramp.png&v=ebe61c2a390ca873f1e683974054e6f1",
+        "size": 317,
+        "sha256": "5d010411de53c6a705ce9f70b28e1186f836c0ba5d003d02e5123aae81f44e3f",
+        "etag": "ebe61c2a390ca873f1e683974054e6f1"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:8011020:cf86dee07dc5",
+        "entityId": "8011020",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_AML_Minion01_01",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Antibaryon",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_8011020.webp",
+        "outputRelativePath": "Monsters/Antibaryon/Default/Art_AML_Minion01_01.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/antibaryon/source/Default/Art_AML_Minion01_01.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Antibaryon",
+    "primaryArtName": "Art_AML_Minion01_01",
+    "sourceChineseName": "反重子",
+    "fbxPath": "public/assets/models/antibaryon/source/Default/Art_AML_Minion01_01.fbx",
+    "fbxSha256": "dff345426b06d3aa2b858f6a2d03863682fc3c9c750a7c94aa2adf95a4bb757b",
+    "bundlePath": "public/assets/models/antibaryon/bundle.json",
+    "bundleSha256": "520a290e9b412a6c651e3d16e43188d082e6b5683139c9ca3dc1c5107e54a240",
+    "glbSha256": "341d36234fd76ad69b44a07fa162accf1f38b0c8ea1717e05defb61c7f6532d5",
+    "vertices": 1102,
+    "triangles": 1132,
+    "bones": 0,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "dff345426b06d3aa2b858f6a2d03863682fc3c9c750a7c94aa2adf95a4bb757b",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/antibaryon-source-snapshot.zip",
+    "archiveSha256": "5984ba4735a9d68ce9659be4d3fe182a83999c5c70ad4df59c096b22f3b9f67c",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "baryon",
+    "monsterId": "8011010",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8011010",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8011010",
+    "indexPath": ".cache/monster-models/hoyotoon-baryon-files.json",
+    "indexSha256": "18c76db4c3b513ba4bfb9928f9a01cf6f108ef6ee79eb54f52f2a8dd2db7ca48",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/baryon/source/Default/Art_AML_Minion01_00.fbx",
+        "sourcePath": "Monsters/Baryon/Default/Art_AML_Minion01_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBaryon%2FDefault%2FArt_AML_Minion01_00.fbx&v=f3f03111ee292c30170887fdc3fad2e3",
+        "size": 123764,
+        "sha256": "cd4b5cce7d0a0535bb29d0de3b498ab3fdf6916b651c52fd8cbabd66b6edaee7",
+        "etag": "f3f03111ee292c30170887fdc3fad2e3"
+      },
+      {
+        "path": "public/assets/models/baryon/source/Default/Materials/Monster_AML_Minion01_00_Mat.json",
+        "sourcePath": "Monsters/Baryon/Default/Materials/Monster_AML_Minion01_00_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBaryon%2FDefault%2FMaterials%2FMonster_AML_Minion01_00_Mat.json&v=568cb708c229d10d40fbabda5596f3f3",
+        "size": 5784,
+        "sha256": "48ecc88ef3d927dbffa9d7af4fc25f312079afdbc03d140b088cdf8b2919da20",
+        "etag": "568cb708c229d10d40fbabda5596f3f3"
+      },
+      {
+        "path": "public/assets/models/baryon/source/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion01_00_Mat.png",
+        "sourcePath": "Monsters/Baryon/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion01_00_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBaryon%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Minion01_00_Mat.png&v=cb84bc821d43acfb187c9975ca726488",
+        "size": 237,
+        "sha256": "b0210875f4f48ba78df9e1df7797781a746f00b0ac33c227caa0da0114587dba",
+        "etag": "cb84bc821d43acfb187c9975ca726488"
+      },
+      {
+        "path": "public/assets/models/baryon/source/Default/Textures/Monster_AML_Minion01_00_Color.png",
+        "sourcePath": "Monsters/Baryon/Default/Textures/Monster_AML_Minion01_00_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBaryon%2FDefault%2FTextures%2FMonster_AML_Minion01_00_Color.png&v=15935d960122322656cf19bab6a14a2f",
+        "size": 1377210,
+        "sha256": "4c004798fcc9a130aeee7720cf3ecaf37d0e9daba74828c1be57241722de67e6",
+        "etag": "15935d960122322656cf19bab6a14a2f"
+      },
+      {
+        "path": "public/assets/models/baryon/source/Default/Textures/Monster_AML_Minion01_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Baryon/Default/Textures/Monster_AML_Minion01_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBaryon%2FDefault%2FTextures%2FMonster_AML_Minion01_00_Cool_Ramp.png&v=ece59cac9fddaee30f328fdb4b468206",
+        "size": 342,
+        "sha256": "3420b85e044ccb5850ba2a25de94c304b63a9c60ec94df945c61c899cbf3593e",
+        "etag": "ece59cac9fddaee30f328fdb4b468206"
+      },
+      {
+        "path": "public/assets/models/baryon/source/Default/Textures/Monster_AML_Minion01_00_LightMap.png",
+        "sourcePath": "Monsters/Baryon/Default/Textures/Monster_AML_Minion01_00_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBaryon%2FDefault%2FTextures%2FMonster_AML_Minion01_00_LightMap.png&v=cce7c00f1326fe0623e7cffb6991e46c",
+        "size": 305402,
+        "sha256": "130ac0e4baa6be08fa56a58d71d2d538d203e658124b36cf6583b6a1402fc930",
+        "etag": "cce7c00f1326fe0623e7cffb6991e46c"
+      },
+      {
+        "path": "public/assets/models/baryon/source/Default/Textures/Monster_AML_Minion01_00_Warm_Ramp.png",
+        "sourcePath": "Monsters/Baryon/Default/Textures/Monster_AML_Minion01_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBaryon%2FDefault%2FTextures%2FMonster_AML_Minion01_00_Warm_Ramp.png&v=25a3393a6fb130b9efe032d223648226",
+        "size": 383,
+        "sha256": "82ba3eb8279d878b91815a2015838f7e2b96e49a1587d1a4d1fedfe3a03ad91b",
+        "etag": "25a3393a6fb130b9efe032d223648226"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:8011010:53294fa68577",
+        "entityId": "8011010",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_AML_Minion01_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Baryon",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_8011010.webp",
+        "outputRelativePath": "Monsters/Baryon/Default/Art_AML_Minion01_00.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/baryon/source/Default/Art_AML_Minion01_00.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Baryon",
+    "primaryArtName": "Art_AML_Minion01_00",
+    "sourceChineseName": "重子",
+    "fbxPath": "public/assets/models/baryon/source/Default/Art_AML_Minion01_00.fbx",
+    "fbxSha256": "cd4b5cce7d0a0535bb29d0de3b498ab3fdf6916b651c52fd8cbabd66b6edaee7",
+    "bundlePath": "public/assets/models/baryon/bundle.json",
+    "bundleSha256": "81f82e2747f7a64d97b985aa710f70d0cb9437d77568badd6bfd00fcd641c30e",
+    "glbSha256": "956d023458c17556b66e64fe8f2f46c5f0d3c1cdf703cd02b416150711adadb0",
+    "vertices": 1538,
+    "triangles": 952,
+    "bones": 0,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "cd4b5cce7d0a0535bb29d0de3b498ab3fdf6916b651c52fd8cbabd66b6edaee7",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/baryon-source-snapshot.zip",
+    "archiveSha256": "4e899ce78b2a4d2c60ad57d46a43effceb3b0a2ebd0ba31332a7418ad247a9fd",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "distorter",
+    "monsterId": "8012020",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012020",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012020",
+    "indexPath": ".cache/monster-models/hoyotoon-distorter-files.json",
+    "indexSha256": "88d517d795f59809f4fd5f4fcce852f7d54ad97f6fd28594f49e06df33c2cc40",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/distorter/source/Default/Art_AML_Minion03_00.fbx",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Art_AML_Minion03_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FArt_AML_Minion03_00.fbx&v=f131e88d1bcb9ce9b880d9dd68ae3bd6",
+        "size": 951812,
+        "sha256": "7d6a8cdd02d5a9c801d325dd36576fc627677daf737917067c807b0091a10663",
+        "etag": "f131e88d1bcb9ce9b880d9dd68ae3bd6"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Materials/Monster_AML_Minion03_00_Body_Mat.json",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Materials/Monster_AML_Minion03_00_Body_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FMaterials%2FMonster_AML_Minion03_00_Body_Mat.json&v=e7eaada140475b79ebb3b648b62665dd",
+        "size": 5633,
+        "sha256": "46743ad9524a65029e46ffec071901f742ece18d8f277f69cf9385b7ed8f2bc6",
+        "etag": "e7eaada140475b79ebb3b648b62665dd"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Materials/Monster_AML_Minion03_00_Weapon_Mat.json",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Materials/Monster_AML_Minion03_00_Weapon_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FMaterials%2FMonster_AML_Minion03_00_Weapon_Mat.json&v=0dfabd21d8da0d535d6484ac802fd656",
+        "size": 5447,
+        "sha256": "d24143796904da86e19b34b36bff3475a5aacea2ff9e4777882f68ba16db682a",
+        "etag": "0dfabd21d8da0d535d6484ac802fd656"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion03_00_Body_Mat.png",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion03_00_Body_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Minion03_00_Body_Mat.png&v=c477fce01dcfc4c4ca967c2658f15559",
+        "size": 231,
+        "sha256": "ba9efcd70aee364af5b47857f88508eb95bf14c9d52d62bd9d0c4437c45dee19",
+        "etag": "c477fce01dcfc4c4ca967c2658f15559"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion03_00_Weapon_Mat.png",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion03_00_Weapon_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Minion03_00_Weapon_Mat.png&v=9fefce637bd3b8175020ecac8284abda",
+        "size": 210,
+        "sha256": "b560a035b85ae233f14834a10fb4663e4fb389a5bc0176270a1bcc4f2790a2f7",
+        "etag": "9fefce637bd3b8175020ecac8284abda"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Textures/Monster_AML_Minion03_00_Body_Color_A.png",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Textures/Monster_AML_Minion03_00_Body_Color_A.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FTextures%2FMonster_AML_Minion03_00_Body_Color_A.png&v=5d800fbd98fcdc2f01c8b4fd0fa15310",
+        "size": 988561,
+        "sha256": "ac09ea8de08170dd772543965aca53444a8ce26b7a982913238cf4e078a3a6d7",
+        "etag": "5d800fbd98fcdc2f01c8b4fd0fa15310"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Textures/Monster_AML_Minion03_00_Body_LightMap.png",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Textures/Monster_AML_Minion03_00_Body_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FTextures%2FMonster_AML_Minion03_00_Body_LightMap.png&v=d43e17610e857ff1dbaf004261efbdf6",
+        "size": 488079,
+        "sha256": "df3049ae91b87cb780be19d577fdb7440f712d5fed23e72b8c42660cbc97be6e",
+        "etag": "d43e17610e857ff1dbaf004261efbdf6"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Textures/Monster_AML_Minion03_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Textures/Monster_AML_Minion03_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FTextures%2FMonster_AML_Minion03_00_Cool_Ramp.png&v=0fd0196ee7ad3976023bd05dc0950877",
+        "size": 740,
+        "sha256": "c5ac713393663d465925cee8c76853abf6f18cf7fda4eb56e8a148634f098bca",
+        "etag": "0fd0196ee7ad3976023bd05dc0950877"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Textures/Monster_AML_Minion03_00_Cool_Weapon_Ramp.png",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Textures/Monster_AML_Minion03_00_Cool_Weapon_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FTextures%2FMonster_AML_Minion03_00_Cool_Weapon_Ramp.png&v=b55dfb08c25a9974db78002fcff37f85",
+        "size": 1003,
+        "sha256": "62ddd4d2be1417b5c604add5b39b88be9e7953d91eed4b6c7c003e19bb4c9e0d",
+        "etag": "b55dfb08c25a9974db78002fcff37f85"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Textures/Monster_AML_Minion03_00_Warm_Ramp.png",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Textures/Monster_AML_Minion03_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FTextures%2FMonster_AML_Minion03_00_Warm_Ramp.png&v=7c6fe7956bc9b5b2369eb96aa2b27718",
+        "size": 732,
+        "sha256": "d2030c963530a5d00713d8950f009046626ce712d83a03df996ab329c64cbc50",
+        "etag": "7c6fe7956bc9b5b2369eb96aa2b27718"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Textures/Monster_AML_Minion03_00_Weapon_Color.png",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Textures/Monster_AML_Minion03_00_Weapon_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FTextures%2FMonster_AML_Minion03_00_Weapon_Color.png&v=46cd9180b28c6928890304ffab982ce5",
+        "size": 146353,
+        "sha256": "1bab3353b92c1a3064a5c4ca78aa34327b383db3489bab785ec0437af65e388e",
+        "etag": "46cd9180b28c6928890304ffab982ce5"
+      },
+      {
+        "path": "public/assets/models/distorter/source/Default/Textures/Monster_AML_Minion03_00_Weapon_LightMap.png",
+        "sourcePath": "Monsters/Voidranger Distorter/Default/Textures/Monster_AML_Minion03_00_Weapon_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Distorter%2FDefault%2FTextures%2FMonster_AML_Minion03_00_Weapon_LightMap.png&v=dffa9c064875f67fe21800c23a553293",
+        "size": 330021,
+        "sha256": "abb982fd3dea3259357d9db4e861efdbc1347fa75ce7e13ddbc246c782989fc4",
+        "etag": "dffa9c064875f67fe21800c23a553293"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:8012020:f5e33b957575",
+        "entityId": "8012020",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_AML_Minion03_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Voidranger Distorter",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_8012020.webp",
+        "outputRelativePath": "Monsters/Voidranger Distorter/Default/Art_AML_Minion03_00.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/distorter/source/Default/Art_AML_Minion03_00.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Voidranger: Distorter",
+    "primaryArtName": "Art_AML_Minion03_00",
+    "sourceChineseName": "虚卒•篡改者",
+    "fbxPath": "public/assets/models/distorter/source/Default/Art_AML_Minion03_00.fbx",
+    "fbxSha256": "7d6a8cdd02d5a9c801d325dd36576fc627677daf737917067c807b0091a10663",
+    "bundlePath": "public/assets/models/distorter/bundle.json",
+    "bundleSha256": "2fde9085602dbf352cbf0b6af3554a320231675cfea0288c5ec0d32b44c4cf8d",
+    "glbSha256": "68ce1f019da9102d724df680966ecbb6d5afb62fc758bfb14c8a1869a14e3508",
+    "vertices": 8340,
+    "triangles": 9299,
+    "bones": 66,
+    "textureCount": 2,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "7d6a8cdd02d5a9c801d325dd36576fc627677daf737917067c807b0091a10663",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/distorter-source-snapshot.zip",
+    "archiveSha256": "e58a3720ee2c0f00e563a8e643e2c6effe1ecd343d7bfe82266e7a5686022094",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "reaver",
+    "monsterId": "8012010",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012010",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012010",
+    "indexPath": ".cache/monster-models/hoyotoon-reaver-files.json",
+    "indexSha256": "fc27c6cbc2b1777a394a04e7b759b5c14dd3af130a83195041f98ff9c2cfd22c",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/reaver/source/Default/Art_AML_Minion02_00.fbx",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Art_AML_Minion02_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FArt_AML_Minion02_00.fbx&v=d7339fc8388d794092ccad80e1eda3ea",
+        "size": 899396,
+        "sha256": "d5605fc934b984e83748db1bb77e14324ea12e63d5c58bae97e4a1bc220b4711",
+        "etag": "d7339fc8388d794092ccad80e1eda3ea"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Materials/Monster_AML_Minion02_00_Body_Mat.json",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Materials/Monster_AML_Minion02_00_Body_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FMaterials%2FMonster_AML_Minion02_00_Body_Mat.json&v=734add779f8ccb1a23a90ff8bff3a38a",
+        "size": 7617,
+        "sha256": "018828055871db0c1dd715205d51b21ddfda9d5071ac4e71d63b75696898a12f",
+        "etag": "734add779f8ccb1a23a90ff8bff3a38a"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Materials/Monster_AML_Minion02_00_Weapon_Mat.json",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Materials/Monster_AML_Minion02_00_Weapon_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FMaterials%2FMonster_AML_Minion02_00_Weapon_Mat.json&v=b98c984398d93e6ff8f7ca6aa200cfcd",
+        "size": 7363,
+        "sha256": "6e5284db042f2639fb2e527ef44a82f609a06213a89cb3928a607d35141f24a5",
+        "etag": "b98c984398d93e6ff8f7ca6aa200cfcd"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion02_00_Body_Mat.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion02_00_Body_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Minion02_00_Body_Mat.png&v=8a62ba12a96e5678d9824dc4bff37293",
+        "size": 239,
+        "sha256": "95439cb0b4db7817fce5d2f74bf99c8a8cb52e3999835a78cf139191290a8ff7",
+        "etag": "8a62ba12a96e5678d9824dc4bff37293"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion02_00_Weapon_Mat.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/MaterialIDValuesLUTMonster_AML_Minion02_00_Weapon_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Minion02_00_Weapon_Mat.png&v=5c046e4cc026413e64d827b749e32508",
+        "size": 226,
+        "sha256": "88172fa361143ab883d709dfd314eb56b32d97de553e5db3a9141ec802302ed5",
+        "etag": "5c046e4cc026413e64d827b749e32508"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/Monster_AML_Minion02_00_Body_Color_A.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/Monster_AML_Minion02_00_Body_Color_A.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FMonster_AML_Minion02_00_Body_Color_A.png&v=ef9a774f381e66f5cc8380e40a0e5368",
+        "size": 1139317,
+        "sha256": "b1414e2f4f9cff1dc61b9d0a5112feb5a13b88e754bfef22b6eb01b12651c3ff",
+        "etag": "ef9a774f381e66f5cc8380e40a0e5368"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/Monster_AML_Minion02_00_Body_LightMap.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/Monster_AML_Minion02_00_Body_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FMonster_AML_Minion02_00_Body_LightMap.png&v=cb7d3a3b03132bda7d5d279e8a3bbff9",
+        "size": 470326,
+        "sha256": "feb645f1478058944c8228f0142acbbe6bc3eaeb707b25d3e9661fe040fcb6d5",
+        "etag": "cb7d3a3b03132bda7d5d279e8a3bbff9"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/Monster_AML_Minion02_00_Body_Mask.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/Monster_AML_Minion02_00_Body_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FMonster_AML_Minion02_00_Body_Mask.png&v=d0b1deddc0fb0e64321f6d613e181561",
+        "size": 8438,
+        "sha256": "328b51dd4727d22bd628cc073b0be7b38cc9e45d18ee4382d531c07fc139f897",
+        "etag": "d0b1deddc0fb0e64321f6d613e181561"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/Monster_AML_Minion02_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/Monster_AML_Minion02_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FMonster_AML_Minion02_00_Cool_Ramp.png&v=378d0a0a781902d4362a47774fa8b007",
+        "size": 1369,
+        "sha256": "e3046c895aa083f3bab17badc086ec2c8ffaf064a2a2f8f576b3cd8602380a3d",
+        "etag": "378d0a0a781902d4362a47774fa8b007"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/Monster_AML_Minion02_00_Warm_Ramp.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/Monster_AML_Minion02_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FMonster_AML_Minion02_00_Warm_Ramp.png&v=b585a8cb2bc8c0d5e565318d242f6d27",
+        "size": 1141,
+        "sha256": "14723f35aec5e21be469d070c4cc6b36335c8ae6f8c2108c23a7f23df6248620",
+        "etag": "b585a8cb2bc8c0d5e565318d242f6d27"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/Monster_AML_Minion02_00_Weapon_Color.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/Monster_AML_Minion02_00_Weapon_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FMonster_AML_Minion02_00_Weapon_Color.png&v=b84fa0c13d28f396dee11c8e10693e56",
+        "size": 1081691,
+        "sha256": "0515df794ce82e77b42219901a2917c66c67eba7bdaf1aeb8595d1f286bf3bcf",
+        "etag": "b84fa0c13d28f396dee11c8e10693e56"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/Monster_AML_Minion02_00_Weapon_LightMap.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/Monster_AML_Minion02_00_Weapon_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FMonster_AML_Minion02_00_Weapon_LightMap.png&v=379285888395407a0e07d974b7a6d7bd",
+        "size": 357125,
+        "sha256": "81c145713b7413c035c5ce1777bf237b6a0aa8b2f9d40a08d41b64eb5cd57102",
+        "etag": "379285888395407a0e07d974b7a6d7bd"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/Monster_AML_Minion02_00_Weapon_Mask.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/Monster_AML_Minion02_00_Weapon_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FMonster_AML_Minion02_00_Weapon_Mask.png&v=e59e4e7191382e4230ace2903a71901f",
+        "size": 26469,
+        "sha256": "462b468677b885fb6884e712b5dbaf798b32f6873f4893a3d7d7612641827612",
+        "etag": "e59e4e7191382e4230ace2903a71901f"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/UI3D_Enviro_MilkyWay_Noise.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/UI3D_Enviro_MilkyWay_Noise.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FUI3D_Enviro_MilkyWay_Noise.png&v=02a559a4b1d3de10b59a7b4a6080554b",
+        "size": 182550,
+        "sha256": "1008e23b529a0e23f2db4052eedd8ae59c725dbb815a70acb18833a439fe2aa0",
+        "etag": "02a559a4b1d3de10b59a7b4a6080554b"
+      },
+      {
+        "path": "public/assets/models/reaver/source/Default/Textures/UI3D_Enviro_Stars_Big_2Channel.png",
+        "sourcePath": "Monsters/Voidranger Reaver/Default/Textures/UI3D_Enviro_Stars_Big_2Channel.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Reaver%2FDefault%2FTextures%2FUI3D_Enviro_Stars_Big_2Channel.png&v=507fb36f75db7c0fb7b1cfa0fc81abcb",
+        "size": 230332,
+        "sha256": "85172bfdd9b8b5daf49f2edc102f6db8de34e9db97b318b5417a0bae54fc8e71",
+        "etag": "507fb36f75db7c0fb7b1cfa0fc81abcb"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:8012010:740afa663752",
+        "entityId": "8012010",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_AML_Minion02_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Voidranger Reaver",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_8012010.webp",
+        "outputRelativePath": "Monsters/Voidranger Reaver/Default/Art_AML_Minion02_00.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/reaver/source/Default/Art_AML_Minion02_00.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Voidranger: Reaver",
+    "primaryArtName": "Art_AML_Minion02_00",
+    "sourceChineseName": "虚卒•掠夺者",
+    "fbxPath": "public/assets/models/reaver/source/Default/Art_AML_Minion02_00.fbx",
+    "fbxSha256": "d5605fc934b984e83748db1bb77e14324ea12e63d5c58bae97e4a1bc220b4711",
+    "bundlePath": "public/assets/models/reaver/bundle.json",
+    "bundleSha256": "f2a2aeaafc1baf2a8367d9ad27bfc4cc9597cd73a6b7e21e74e4b43cb37d1365",
+    "glbSha256": "92ee4aeb2670f9186cd019464063e19b78943d75c713de4f6ce4cb0aa9b37d2a",
+    "vertices": 7191,
+    "triangles": 8240,
+    "bones": 61,
+    "textureCount": 2,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "d5605fc934b984e83748db1bb77e14324ea12e63d5c58bae97e4a1bc220b4711",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/reaver-source-snapshot.zip",
+    "archiveSha256": "28e00bb99783be3be22f6cd8f43fb123533d9a8f8f3835d9cf70cacd09f9c387",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "trampler",
+    "monsterId": "8013010",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8013010",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8013010",
+    "indexPath": ".cache/monster-models/hoyotoon-trampler-files.json",
+    "indexSha256": "d61c2bf84c2ee4378091aaa7fede4fad01e0070cf9f6488b7733e3796da8126e",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/trampler/source/Default/Art_AML_Elite01_00.fbx",
+        "sourcePath": "Monsters/Voidranger Trampler/Default/Art_AML_Elite01_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Trampler%2FDefault%2FArt_AML_Elite01_00.fbx&v=0aaa9fa49ff24ae795717383ad930a76",
+        "size": 952068,
+        "sha256": "30d83816ffca8bfe4756ce1f1de1fc1c66cca4ebe792a8145a9ad772afd5bd34",
+        "etag": "0aaa9fa49ff24ae795717383ad930a76"
+      },
+      {
+        "path": "public/assets/models/trampler/source/Default/Art_AML_Elite01_02.fbx",
+        "sourcePath": "Monsters/Voidranger Trampler/Default/Art_AML_Elite01_02.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Trampler%2FDefault%2FArt_AML_Elite01_02.fbx&v=c64ff92dc4b6ce06007ebff3f026695d",
+        "size": 957268,
+        "sha256": "e18119e06b8237900285be6bf717e106d53ea42148244b8651d4fd9acf1d4c0a",
+        "etag": "c64ff92dc4b6ce06007ebff3f026695d"
+      },
+      {
+        "path": "public/assets/models/trampler/source/Default/Materials/Monster_AML_Elite01_00_Mat.json",
+        "sourcePath": "Monsters/Voidranger Trampler/Default/Materials/Monster_AML_Elite01_00_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Trampler%2FDefault%2FMaterials%2FMonster_AML_Elite01_00_Mat.json&v=eba278d3bf7f0be9236d5283010a30f5",
+        "size": 5172,
+        "sha256": "fbfce1063019243e018468bdaddccfe5541e36578260a0c3ceb4c7611084495a",
+        "etag": "eba278d3bf7f0be9236d5283010a30f5"
+      },
+      {
+        "path": "public/assets/models/trampler/source/Default/Textures/MaterialIDValuesLUTMonster_AML_Elite01_00_Mat.png",
+        "sourcePath": "Monsters/Voidranger Trampler/Default/Textures/MaterialIDValuesLUTMonster_AML_Elite01_00_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Trampler%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Elite01_00_Mat.png&v=115cc354bde8323777c0e4300c977441",
+        "size": 267,
+        "sha256": "f82089e910f8c98bdecc0e292edd9f2fef93bc915dac311b587ed6f6a7e10cb2",
+        "etag": "115cc354bde8323777c0e4300c977441"
+      },
+      {
+        "path": "public/assets/models/trampler/source/Default/Textures/Monster_AML_Elite01_00_Color.png",
+        "sourcePath": "Monsters/Voidranger Trampler/Default/Textures/Monster_AML_Elite01_00_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Trampler%2FDefault%2FTextures%2FMonster_AML_Elite01_00_Color.png&v=1d3bb62f6e2d3b6973f43ff5162b57bc",
+        "size": 3346418,
+        "sha256": "7776edc0e7545eeb6ed34ff2059be0c197d5e9a95976514138443a0211bcf030",
+        "etag": "1d3bb62f6e2d3b6973f43ff5162b57bc"
+      },
+      {
+        "path": "public/assets/models/trampler/source/Default/Textures/Monster_AML_Elite01_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Voidranger Trampler/Default/Textures/Monster_AML_Elite01_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Trampler%2FDefault%2FTextures%2FMonster_AML_Elite01_00_Cool_Ramp.png&v=8b04789986c321ab3e54c8ca32d5ea8c",
+        "size": 681,
+        "sha256": "3d6e3791a6ccc6fedfb5f72c982f1e67519bed21866fe91dd1660f652b1128c6",
+        "etag": "8b04789986c321ab3e54c8ca32d5ea8c"
+      },
+      {
+        "path": "public/assets/models/trampler/source/Default/Textures/Monster_AML_Elite01_00_LightMap.png",
+        "sourcePath": "Monsters/Voidranger Trampler/Default/Textures/Monster_AML_Elite01_00_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Trampler%2FDefault%2FTextures%2FMonster_AML_Elite01_00_LightMap.png&v=8f754da19c60c59279789b1ce2426349",
+        "size": 2650494,
+        "sha256": "6826414c4c1e9b1df2e4bbae6984488c1ce96acb69e87984bcf9da3269c06d9e",
+        "etag": "8f754da19c60c59279789b1ce2426349"
+      },
+      {
+        "path": "public/assets/models/trampler/source/Default/Textures/Monster_AML_Elite01_00_Warm_Ramp.png",
+        "sourcePath": "Monsters/Voidranger Trampler/Default/Textures/Monster_AML_Elite01_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FVoidranger+Trampler%2FDefault%2FTextures%2FMonster_AML_Elite01_00_Warm_Ramp.png&v=e2ac80051196bcbfd4f3bd95f8fe6957",
+        "size": 671,
+        "sha256": "cc2bd74f0ae83d0025f38c2da70055a456785e4100b9a8513d5d8585fea6afb5",
+        "etag": "e2ac80051196bcbfd4f3bd95f8fe6957"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:8013010:3e08b6934829",
+        "entityId": "8013010",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_AML_Elite01_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Voidranger Trampler",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_8013010.webp",
+        "outputRelativePath": "Monsters/Voidranger Trampler/Default/Art_AML_Elite01_00.fbx",
+        "status": "current"
+      },
+      {
+        "targetKey": "hsr:target:Monsters:8013010:9181f1396d8a",
+        "entityId": "8013010",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_AML_Elite01_02",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Voidranger Trampler",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_8013010.webp",
+        "outputRelativePath": "Monsters/Voidranger Trampler/Default/Art_AML_Elite01_02.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/trampler/source/Default/Art_AML_Elite01_00.fbx",
+      "public/assets/models/trampler/source/Default/Art_AML_Elite01_02.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Voidranger: Trampler",
+    "primaryArtName": "Art_AML_Elite01_00",
+    "sourceChineseName": "虚卒•践踏者",
+    "fbxPath": "public/assets/models/trampler/source/Default/Art_AML_Elite01_00.fbx",
+    "fbxSha256": "30d83816ffca8bfe4756ce1f1de1fc1c66cca4ebe792a8145a9ad772afd5bd34",
+    "bundlePath": "public/assets/models/trampler/bundle.json",
+    "bundleSha256": "5da0b950c91398e624e4da3a8a2da4ca9d3f69a3e5fb12fb68418721556ac884",
+    "glbSha256": "bb4e0e5ff996525f60646de3c06df3477c9ce5f415b5533fd76a9bbbb1385bb9",
+    "vertices": 9312,
+    "triangles": 8676,
+    "bones": 87,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "30d83816ffca8bfe4756ce1f1de1fc1c66cca4ebe792a8145a9ad772afd5bd34",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/trampler-source-snapshot.zip",
+    "archiveSha256": "0c15d3cc1bc43cc22935e8b94c8b0d4638b30d1f048cc5a77594f19c2b5a216e",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "maraSoldier",
+    "monsterId": "2022010",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2022010",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2022010",
+    "indexPath": ".cache/monster-models/hoyotoon-maraSoldier-files.json",
+    "indexSha256": "58fd8d231423042322b39266ee3b0db094f812b425dfc5b027046a853dfb4738",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/maraSoldier/source/Default/Art_W2_Abomi01_00.fbx",
+        "sourcePath": "Monsters/Mara-Struck Soldier/Default/Art_W2_Abomi01_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FMara-Struck+Soldier%2FDefault%2FArt_W2_Abomi01_00.fbx&v=eb3030fd9e79b91ccdeddb81c964c0e6",
+        "size": 1257988,
+        "sha256": "52dc255a354e25f3fa19f1c6569beebbdfce2446bd50a81565eccb75e56f66e2",
+        "etag": "eb3030fd9e79b91ccdeddb81c964c0e6"
+      },
+      {
+        "path": "public/assets/models/maraSoldier/source/Default/Materials/W2_Abomi01_00_Mat_D.json",
+        "sourcePath": "Monsters/Mara-Struck Soldier/Default/Materials/W2_Abomi01_00_Mat_D.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FMara-Struck+Soldier%2FDefault%2FMaterials%2FW2_Abomi01_00_Mat_D.json&v=7e5f5777a616b95c581901cbe91aa581",
+        "size": 5957,
+        "sha256": "0334ec5202025d41fb72db41a267479827f6c10d9c3527af3c28b85588379cc7",
+        "etag": "7e5f5777a616b95c581901cbe91aa581"
+      },
+      {
+        "path": "public/assets/models/maraSoldier/source/Default/Materials/W2_Abomi01_00_Mat_S.json",
+        "sourcePath": "Monsters/Mara-Struck Soldier/Default/Materials/W2_Abomi01_00_Mat_S.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FMara-Struck+Soldier%2FDefault%2FMaterials%2FW2_Abomi01_00_Mat_S.json&v=ca7f466eebead649cec7fb8474fc673c",
+        "size": 5900,
+        "sha256": "f6296a5ebe39d850c9837bfba188918a9d50202663e9d07831b9c09fb0a05dfa",
+        "etag": "ca7f466eebead649cec7fb8474fc673c"
+      },
+      {
+        "path": "public/assets/models/maraSoldier/source/Default/Textures/MaterialIDValuesLUTW2_Abomi01_00_Mat_D.png",
+        "sourcePath": "Monsters/Mara-Struck Soldier/Default/Textures/MaterialIDValuesLUTW2_Abomi01_00_Mat_D.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FMara-Struck+Soldier%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Abomi01_00_Mat_D.png&v=e8cbd5ebf29eeaa00e3590d2e383161b",
+        "size": 288,
+        "sha256": "0b2b8647ce4efebc0a53b0ab5714daa8cb4a5d0e36a6765acd5a1032c928ec49",
+        "etag": "e8cbd5ebf29eeaa00e3590d2e383161b"
+      },
+      {
+        "path": "public/assets/models/maraSoldier/source/Default/Textures/MaterialIDValuesLUTW2_Abomi01_00_Mat_S.png",
+        "sourcePath": "Monsters/Mara-Struck Soldier/Default/Textures/MaterialIDValuesLUTW2_Abomi01_00_Mat_S.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FMara-Struck+Soldier%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Abomi01_00_Mat_S.png&v=e8cbd5ebf29eeaa00e3590d2e383161b",
+        "size": 288,
+        "sha256": "0b2b8647ce4efebc0a53b0ab5714daa8cb4a5d0e36a6765acd5a1032c928ec49",
+        "etag": "e8cbd5ebf29eeaa00e3590d2e383161b"
+      },
+      {
+        "path": "public/assets/models/maraSoldier/source/Default/Textures/Monster_W2_Abomi01_00_Color_A.png",
+        "sourcePath": "Monsters/Mara-Struck Soldier/Default/Textures/Monster_W2_Abomi01_00_Color_A.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FMara-Struck+Soldier%2FDefault%2FTextures%2FMonster_W2_Abomi01_00_Color_A.png&v=799cc21a3706cf626393b9a451fecabe",
+        "size": 3973455,
+        "sha256": "eee31a25c1537b007585ad12c59f401bccbcef07695ceebec417ed282eb42a19",
+        "etag": "799cc21a3706cf626393b9a451fecabe"
+      },
+      {
+        "path": "public/assets/models/maraSoldier/source/Default/Textures/Monster_W2_Abomi01_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Mara-Struck Soldier/Default/Textures/Monster_W2_Abomi01_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FMara-Struck+Soldier%2FDefault%2FTextures%2FMonster_W2_Abomi01_00_Cool_Ramp.png&v=3ccded609ef24a32b52808075362baae",
+        "size": 1190,
+        "sha256": "0d0f21d3325d23075017706bb6edcc0cb2888e797c1dab8422e8cc64f41bcac2",
+        "etag": "3ccded609ef24a32b52808075362baae"
+      },
+      {
+        "path": "public/assets/models/maraSoldier/source/Default/Textures/Monster_W2_Abomi01_00_LightMap.png",
+        "sourcePath": "Monsters/Mara-Struck Soldier/Default/Textures/Monster_W2_Abomi01_00_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FMara-Struck+Soldier%2FDefault%2FTextures%2FMonster_W2_Abomi01_00_LightMap.png&v=02092a766a208338358acb06e2a7cbfa",
+        "size": 3268382,
+        "sha256": "e7e73868b2cc32970e36ef59dbe7cd661783510ff255bb8a5b72df07d3f9f77e",
+        "etag": "02092a766a208338358acb06e2a7cbfa"
+      },
+      {
+        "path": "public/assets/models/maraSoldier/source/Default/Textures/Monster_W2_Abomi01_00_Warm_Ramp.png",
+        "sourcePath": "Monsters/Mara-Struck Soldier/Default/Textures/Monster_W2_Abomi01_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FMara-Struck+Soldier%2FDefault%2FTextures%2FMonster_W2_Abomi01_00_Warm_Ramp.png&v=6fc479ba490e2a5c1b65de054b70f90e",
+        "size": 1191,
+        "sha256": "457e4efb55019c4d40ca4a2b27101e2bbc6d137937c132041e537255e1231ad1",
+        "etag": "6fc479ba490e2a5c1b65de054b70f90e"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:2022010:a1a612ea722f",
+        "entityId": "2022010",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W2_Abomi01_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Mara-Struck Soldier",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_2022010.webp",
+        "outputRelativePath": "Monsters/Mara-Struck Soldier/Default/Art_W2_Abomi01_00.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/maraSoldier/source/Default/Art_W2_Abomi01_00.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Mara-Struck Soldier",
+    "primaryArtName": "Art_W2_Abomi01_00",
+    "sourceChineseName": "魔阴身士卒",
+    "fbxPath": "public/assets/models/maraSoldier/source/Default/Art_W2_Abomi01_00.fbx",
+    "fbxSha256": "52dc255a354e25f3fa19f1c6569beebbdfce2446bd50a81565eccb75e56f66e2",
+    "bundlePath": "public/assets/models/maraSoldier/bundle.json",
+    "bundleSha256": "fd004e1783b2595c30528e50e7ba4e2239d8e6f3ec8f0e39e9e7c729c7984fe7",
+    "glbSha256": "e2b6f9a4f3d64d6b86bbba5d5ac20fb36108d87813c31e9370d9cf05051475d8",
+    "vertices": 12377,
+    "triangles": 12017,
+    "bones": 66,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "allPrimitivesHaveExplicitMaterials": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "52dc255a354e25f3fa19f1c6569beebbdfce2446bd50a81565eccb75e56f66e2",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/maraSoldier-source-snapshot.zip",
+    "archiveSha256": "d39a9080010c5140c92f53ce2521483ee38600cc8897bb9947925f592d3710b2",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "hiddenAuxiliaryMeshes": [
+      {
+        "mesh": "Effect",
+        "material": "wulong_hidden_unbound_Effect",
+        "sourceMaterialSlots": 0,
+        "vertices": 217,
+        "triangles": 360,
+        "sourceVertexColors": [
+          {
+            "name": "Attribute",
+            "domain": "CORNER",
+            "dataType": "BYTE_COLOR",
+            "count": 1080,
+            "alphaMin": 1.0,
+            "alphaMax": 1.0
+          }
+        ],
+        "geometryRetained": true,
+        "reason": "Original FBX Effect mesh has no material slot; package supplies only Body/Leaf material records. Nontrivial vertex RGB and alpha=1 are present, but do not establish the missing game shader appearance. Kept transparent in this preview without inventing a diffuse texture or deleting geometry.",
+        "evidence": "docs/model-material-evidence-monsters.json",
+        "sourceSha256": "52dc255a354e25f3fa19f1c6569beebbdfce2446bd50a81565eccb75e56f66e2"
+      }
+    ],
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "dragonfish",
+    "monsterId": "2012010",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2012010",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2012010",
+    "indexPath": ".cache/monster-models/hoyotoon-dragonfish-files.json",
+    "indexSha256": "d22f6b022c4027bf31ee2a77dca1ef6d7bff85d0a89fbf97b2405b9c23ae58f6",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/dragonfish/source/Default/Art_W2_Mecha02_00.fbx",
+        "sourcePath": "Monsters/Entranced Ingenium Illumination Dragonfish/Default/Art_W2_Mecha02_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FEntranced+Ingenium+Illumination+Dragonfish%2FDefault%2FArt_W2_Mecha02_00.fbx&v=04d7e6a516067696b5a1aedc00a0ca14",
+        "size": 1128468,
+        "sha256": "f31c289f857e3be0f9f18f1d947dd13df3072cceaa7607689591cebbde9acd41",
+        "etag": "04d7e6a516067696b5a1aedc00a0ca14"
+      },
+      {
+        "path": "public/assets/models/dragonfish/source/Default/Materials/W2_Mecha02_00_Mat.json",
+        "sourcePath": "Monsters/Entranced Ingenium Illumination Dragonfish/Default/Materials/W2_Mecha02_00_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FEntranced+Ingenium+Illumination+Dragonfish%2FDefault%2FMaterials%2FW2_Mecha02_00_Mat.json&v=d274bd806f2ee0c24187a8509e6e50bd",
+        "size": 6185,
+        "sha256": "059bc99f368b6ee8fe923179fa6a8db2617ee682ff22bf0d012c3fe3623a4882",
+        "etag": "d274bd806f2ee0c24187a8509e6e50bd"
+      },
+      {
+        "path": "public/assets/models/dragonfish/source/Default/Textures/MaterialIDValuesLUTW2_Mecha02_00_Mat.png",
+        "sourcePath": "Monsters/Entranced Ingenium Illumination Dragonfish/Default/Textures/MaterialIDValuesLUTW2_Mecha02_00_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FEntranced+Ingenium+Illumination+Dragonfish%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Mecha02_00_Mat.png&v=e1d088f2f22154c8f7e1fb6906a26ec5",
+        "size": 301,
+        "sha256": "e44d729b28a8f6565ccd7ac310971735c1a50c2c8f81d9d663dc8208c203b76c",
+        "etag": "e1d088f2f22154c8f7e1fb6906a26ec5"
+      },
+      {
+        "path": "public/assets/models/dragonfish/source/Default/Textures/Monster_W2_Mecha02_00_Color_A.png",
+        "sourcePath": "Monsters/Entranced Ingenium Illumination Dragonfish/Default/Textures/Monster_W2_Mecha02_00_Color_A.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FEntranced+Ingenium+Illumination+Dragonfish%2FDefault%2FTextures%2FMonster_W2_Mecha02_00_Color_A.png&v=4407f8402ba676668037b382e8809eb1",
+        "size": 1633672,
+        "sha256": "7b71aa0adf53bcb935c1e6512e580a79c52ad0296777dbd2e9fbdc579b5fc7a0",
+        "etag": "4407f8402ba676668037b382e8809eb1"
+      },
+      {
+        "path": "public/assets/models/dragonfish/source/Default/Textures/Monster_W2_Mecha02_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Entranced Ingenium Illumination Dragonfish/Default/Textures/Monster_W2_Mecha02_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FEntranced+Ingenium+Illumination+Dragonfish%2FDefault%2FTextures%2FMonster_W2_Mecha02_00_Cool_Ramp.png&v=7792871f3a2fef92e5aceb51004c1b45",
+        "size": 1122,
+        "sha256": "cdae5bc27ba538e058b213a0fe6de814898b84a49065630840b5442fe70590f8",
+        "etag": "7792871f3a2fef92e5aceb51004c1b45"
+      },
+      {
+        "path": "public/assets/models/dragonfish/source/Default/Textures/Monster_W2_Mecha02_00_LightMap.png",
+        "sourcePath": "Monsters/Entranced Ingenium Illumination Dragonfish/Default/Textures/Monster_W2_Mecha02_00_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FEntranced+Ingenium+Illumination+Dragonfish%2FDefault%2FTextures%2FMonster_W2_Mecha02_00_LightMap.png&v=ae7006b04099180c0e51401830c7290c",
+        "size": 2229043,
+        "sha256": "d42ea189f662944b0c1ebf692427323b3545cfd28cb4cdc91553aa094c4bcabc",
+        "etag": "ae7006b04099180c0e51401830c7290c"
+      },
+      {
+        "path": "public/assets/models/dragonfish/source/Default/Textures/Monster_W2_Mecha02_00_Warm_Ramp.png",
+        "sourcePath": "Monsters/Entranced Ingenium Illumination Dragonfish/Default/Textures/Monster_W2_Mecha02_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FEntranced+Ingenium+Illumination+Dragonfish%2FDefault%2FTextures%2FMonster_W2_Mecha02_00_Warm_Ramp.png&v=0169fbde3618d04243e394ddcefb765a",
+        "size": 1295,
+        "sha256": "aec14c011828678352f0d0a70a3f8543747fd93fb06087e42a587cf7339ea13d",
+        "etag": "0169fbde3618d04243e394ddcefb765a"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:2012010:240acada528f",
+        "entityId": "2012010",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W2_Mecha02_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Entranced Ingenium Illumination Dragonfish",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_2012010.webp",
+        "outputRelativePath": "Monsters/Entranced Ingenium Illumination Dragonfish/Default/Art_W2_Mecha02_00.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/dragonfish/source/Default/Art_W2_Mecha02_00.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Entranced Ingenium: Illumination Dragonfish",
+    "primaryArtName": "Art_W2_Mecha02_00",
+    "sourceChineseName": "入魔机巧 • 灯昼龙鱼",
+    "fbxPath": "public/assets/models/dragonfish/source/Default/Art_W2_Mecha02_00.fbx",
+    "fbxSha256": "f31c289f857e3be0f9f18f1d947dd13df3072cceaa7607689591cebbde9acd41",
+    "bundlePath": "public/assets/models/dragonfish/bundle.json",
+    "bundleSha256": "fbed5a56d2c59b8b387e53fbd7a6d87730fe7c46cdafde4ccb9a0e50a28d0b39",
+    "glbSha256": "2163b1b5c1b7384d3ba861030ee08b8081c48281f17c5dddfd7776faef221458",
+    "vertices": 11615,
+    "triangles": 11808,
+    "bones": 57,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "f31c289f857e3be0f9f18f1d947dd13df3072cceaa7607689591cebbde9acd41",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/dragonfish-source-snapshot.zip",
+    "archiveSha256": "462e7f0c6353be88dd1ee653e314fd2cda3f2ea4a816b66cb5fdf2c567995260",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "bubbleHound",
+    "monsterId": "3002030",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3002030",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3002030",
+    "indexPath": ".cache/monster-models/hoyotoon-bubbleHound-files.json",
+    "indexSha256": "0d75c775e6b3981a958f38d89851c461583a5a5947b87a2bfcbe5cb2bcd295cf",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/bubbleHound/source/Default/Art_W2_Beast01_03.fbx",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Bubble Hound/Default/Art_W2_Beast01_03.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Bubble+Hound%2FDefault%2FArt_W2_Beast01_03.fbx&v=668729980a5356d9414ea75345aaddee",
+        "size": 1327556,
+        "sha256": "84d13704c1113e848c3a5a512b0ade5cab10cd7697fdf6dfcb66f20e8a6a5952",
+        "etag": "668729980a5356d9414ea75345aaddee"
+      },
+      {
+        "path": "public/assets/models/bubbleHound/source/Default/Materials/W2_Beast01_03_Mat.json",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Bubble Hound/Default/Materials/W2_Beast01_03_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Bubble+Hound%2FDefault%2FMaterials%2FW2_Beast01_03_Mat.json&v=6ee2bbf17a40aa1a5f1b82da75713866",
+        "size": 6175,
+        "sha256": "c91bc54908b1d57b73172b382b7e42851afdc12609016ea7535412a22655ecea",
+        "etag": "6ee2bbf17a40aa1a5f1b82da75713866"
+      },
+      {
+        "path": "public/assets/models/bubbleHound/source/Default/Textures/MaterialIDValuesLUTW2_Beast01_03_Mat.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Bubble Hound/Default/Textures/MaterialIDValuesLUTW2_Beast01_03_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Bubble+Hound%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Beast01_03_Mat.png&v=f8b9a241c097f818e9b81a37fa886b96",
+        "size": 302,
+        "sha256": "b5f8f405aae7c58eab4fcbb7a03135bb7defb35a04a68df87406db40a9b56e04",
+        "etag": "f8b9a241c097f818e9b81a37fa886b96"
+      },
+      {
+        "path": "public/assets/models/bubbleHound/source/Default/Textures/Monster_W2_Beast01_03_Color.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Bubble Hound/Default/Textures/Monster_W2_Beast01_03_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Bubble+Hound%2FDefault%2FTextures%2FMonster_W2_Beast01_03_Color.png&v=48d57dcf9dc79fcc1a1d4c4367293e88",
+        "size": 2803712,
+        "sha256": "2d18348d8164aa6305f339af9c4af8bc4774dde4ad78a6056e5adab7b5e8ecd2",
+        "etag": "48d57dcf9dc79fcc1a1d4c4367293e88"
+      },
+      {
+        "path": "public/assets/models/bubbleHound/source/Default/Textures/Monster_W2_Beast01_03_Cool_Ramp.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Bubble Hound/Default/Textures/Monster_W2_Beast01_03_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Bubble+Hound%2FDefault%2FTextures%2FMonster_W2_Beast01_03_Cool_Ramp.png&v=e34fdfc3fe302b9f1a6854a9c13ae6f4",
+        "size": 1338,
+        "sha256": "3bddcc6b0ae9626994b5e31c4ef8d2ea31e02e71381d58e514572f1c91e2b0c9",
+        "etag": "e34fdfc3fe302b9f1a6854a9c13ae6f4"
+      },
+      {
+        "path": "public/assets/models/bubbleHound/source/Default/Textures/Monster_W2_Beast01_03_LightMap.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Bubble Hound/Default/Textures/Monster_W2_Beast01_03_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Bubble+Hound%2FDefault%2FTextures%2FMonster_W2_Beast01_03_LightMap.png&v=9531b5e7ab7c0f5337490f193fa5f36e",
+        "size": 2494067,
+        "sha256": "6a9157d2dfeb2a94a3e5e33c633957c334b86cd18973893a05712d91ec8e26a9",
+        "etag": "9531b5e7ab7c0f5337490f193fa5f36e"
+      },
+      {
+        "path": "public/assets/models/bubbleHound/source/Default/Textures/Monster_W2_Beast01_03_Warm_Ramp.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Bubble Hound/Default/Textures/Monster_W2_Beast01_03_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Bubble+Hound%2FDefault%2FTextures%2FMonster_W2_Beast01_03_Warm_Ramp.png&v=917c0f3c465626d1b337ae1c76dc6f42",
+        "size": 1428,
+        "sha256": "834f64f687c1085cf36c3cf91d8074dea03130d922822deec828ee36c57603b1",
+        "etag": "917c0f3c465626d1b337ae1c76dc6f42"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:3002030:6639822be988",
+        "entityId": "3002030",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W2_Beast01_03",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Dreamjolt Troupe's Bubble Hound",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_3002030.webp",
+        "outputRelativePath": "Monsters/Dreamjolt Troupe's Bubble Hound/Default/Art_W2_Beast01_03.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/bubbleHound/source/Default/Art_W2_Beast01_03.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Dreamjolt Troupe's Bubble Hound",
+    "primaryArtName": "Art_W2_Beast01_03",
+    "sourceChineseName": "惊梦剧团的气泡锂犬",
+    "fbxPath": "public/assets/models/bubbleHound/source/Default/Art_W2_Beast01_03.fbx",
+    "fbxSha256": "84d13704c1113e848c3a5a512b0ade5cab10cd7697fdf6dfcb66f20e8a6a5952",
+    "bundlePath": "public/assets/models/bubbleHound/bundle.json",
+    "bundleSha256": "25888655a248d91fd51f59ce61441d7760cc4f8273ecf103907400d9003f9eec",
+    "glbSha256": "20ab490ed465320041990c61b80c8070b580a6d7a37a1571cc557915e91e4a44",
+    "vertices": 13973,
+    "triangles": 13922,
+    "bones": 41,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "84d13704c1113e848c3a5a512b0ade5cab10cd7697fdf6dfcb66f20e8a6a5952",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/bubbleHound-source-snapshot.zip",
+    "archiveSha256": "4e0b03b0333d8719061f4b7e66780e8a908a89008632e569414bc6a19e1581fd",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "woodLupus",
+    "monsterId": "2022050",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2022050",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2022050",
+    "indexPath": ".cache/monster-models/hoyotoon-woodLupus-files.json",
+    "indexSha256": "0daaa6b7c35911e100290c1ba3847a1cb2f077e55ec4e2cdfc451f17a0cc5c2c",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Art_W2_Beast01_01.fbx",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Art_W2_Beast01_01.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FArt_W2_Beast01_01.fbx&v=5fee5f683fbfa9d9542adfb73ac970dc",
+        "size": 1180452,
+        "sha256": "fa995a13e37fb61bfc1826d63ac004fb385a3966be0fd67ba69d859a0c046759",
+        "etag": "5fee5f683fbfa9d9542adfb73ac970dc"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Materials/W2_Beast01_01_Body1_Mat.json",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Materials/W2_Beast01_01_Body1_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FMaterials%2FW2_Beast01_01_Body1_Mat.json&v=5e13f013f9de4c3fd8d0b199f57c8129",
+        "size": 7602,
+        "sha256": "ea6fb893e0bc521e561786b470c188c08688e1c6e27029f1ca15b7946648a301",
+        "etag": "5e13f013f9de4c3fd8d0b199f57c8129"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Materials/W2_Beast01_01_Body2_Mat.json",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Materials/W2_Beast01_01_Body2_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FMaterials%2FW2_Beast01_01_Body2_Mat.json&v=14cd28efbefcea6693f14b264a16a6df",
+        "size": 7443,
+        "sha256": "2a90d642c60fe94657dc8176ced3af69d07bba133c6c9a9e4423cf5269e17805",
+        "etag": "14cd28efbefcea6693f14b264a16a6df"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/MaterialIDValuesLUTW2_Beast01_01_Body1_Mat.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/MaterialIDValuesLUTW2_Beast01_01_Body1_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Beast01_01_Body1_Mat.png&v=12fbd9090c27b0f44a203c428fe5a226",
+        "size": 232,
+        "sha256": "386d545793487dc1668e527b14e45f30dab943fef6ee38508a66db46d3f6039b",
+        "etag": "12fbd9090c27b0f44a203c428fe5a226"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/MaterialIDValuesLUTW2_Beast01_01_Body2_Mat.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/MaterialIDValuesLUTW2_Beast01_01_Body2_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Beast01_01_Body2_Mat.png&v=a56cf88f56cf9282602d32988c695d6d",
+        "size": 259,
+        "sha256": "8524eb67a5b415051b2eb9cfea33fe1ddf6ae1d2e8fdb7624921ece80cd9650a",
+        "etag": "a56cf88f56cf9282602d32988c695d6d"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/Monster_W2_Beast01_00_Color.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/Monster_W2_Beast01_00_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FMonster_W2_Beast01_00_Color.png&v=7720b993a4acd504e8e9339a469a2cb4",
+        "size": 2312530,
+        "sha256": "50d359fdee711cf3a4a254a0c9cc4bb5c3a37e7e84db102f75b0e2236e2d0eff",
+        "etag": "7720b993a4acd504e8e9339a469a2cb4"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/Monster_W2_Beast01_00_Mask.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/Monster_W2_Beast01_00_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FMonster_W2_Beast01_00_Mask.png&v=5e0babc71015e8b161f77d654b3a540f",
+        "size": 166869,
+        "sha256": "a8a63cda3661d171e343f5f601d5821686907d800df18a490de9fca5a0b64efb",
+        "etag": "5e0babc71015e8b161f77d654b3a540f"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/Monster_W2_Beast01_01_Body1_Color.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/Monster_W2_Beast01_01_Body1_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FMonster_W2_Beast01_01_Body1_Color.png&v=2a020435a53cb6e55c44286c16d10353",
+        "size": 1537347,
+        "sha256": "27b48f0d4603324e6522b5ea61625a55df3a003b1614bce73a42218124b9cab0",
+        "etag": "2a020435a53cb6e55c44286c16d10353"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/Monster_W2_Beast01_01_Body1_LightMap.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/Monster_W2_Beast01_01_Body1_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FMonster_W2_Beast01_01_Body1_LightMap.png&v=f7975cf692b3b569fa23f975bf9057df",
+        "size": 725727,
+        "sha256": "29d1b432661b38cc4dcf02a1eff764420ff4dbda4b32cf3ba4eda7e19b242021",
+        "etag": "f7975cf692b3b569fa23f975bf9057df"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/Monster_W2_Beast01_01_Body2_Color.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/Monster_W2_Beast01_01_Body2_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FMonster_W2_Beast01_01_Body2_Color.png&v=bf0c60e482ce71dc7e203880e2dc1c3b",
+        "size": 1773919,
+        "sha256": "37d954c5a0eff7471fd7f4aef251560d0c4a54cf36561f8e06251648b2c90c2b",
+        "etag": "bf0c60e482ce71dc7e203880e2dc1c3b"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/Monster_W2_Beast01_01_Body2_LightMap.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/Monster_W2_Beast01_01_Body2_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FMonster_W2_Beast01_01_Body2_LightMap.png&v=efc32df7fd1374da9a41280aab7db6a4",
+        "size": 887346,
+        "sha256": "d8ae214e78b1233651858c95ee695a94cb47738e6c5d500e513148649de841bf",
+        "etag": "efc32df7fd1374da9a41280aab7db6a4"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/Monster_W2_Beast01_01_Cool_Ramp.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/Monster_W2_Beast01_01_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FMonster_W2_Beast01_01_Cool_Ramp.png&v=e09b1dae1ead04d5645dce5642bb59ef",
+        "size": 972,
+        "sha256": "71155ad3325d902aa6a3625e4f8efab26340845730adb741055d60b3acb08bf7",
+        "etag": "e09b1dae1ead04d5645dce5642bb59ef"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/Monster_W2_Beast01_01_Warm_Ramp.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/Monster_W2_Beast01_01_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FMonster_W2_Beast01_01_Warm_Ramp.png&v=c664126ca5e01702bce5f22ad91af2c5",
+        "size": 975,
+        "sha256": "f559ef832e91081519594e91cc21e90eb58556db3678ae274bb84fbfe4dfee66",
+        "etag": "c664126ca5e01702bce5f22ad91af2c5"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/UI3D_Enviro_MilkyWay_Cloud.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/UI3D_Enviro_MilkyWay_Cloud.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FUI3D_Enviro_MilkyWay_Cloud.png&v=afc01d28f520a6d60ac1e404241747e9",
+        "size": 159541,
+        "sha256": "9794ba9633a454bbe501637b806b108a1fce96b53f722332411985bd79b55aef",
+        "etag": "afc01d28f520a6d60ac1e404241747e9"
+      },
+      {
+        "path": "public/assets/models/woodLupus/source/Default/Textures/UI3D_Enviro_Stars_Big_2Channel.png",
+        "sourcePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Textures/UI3D_Enviro_Stars_Big_2Channel.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Wooden+Lupus%2FDefault%2FTextures%2FUI3D_Enviro_Stars_Big_2Channel.png&v=507fb36f75db7c0fb7b1cfa0fc81abcb",
+        "size": 230332,
+        "sha256": "85172bfdd9b8b5daf49f2edc102f6db8de34e9db97b318b5417a0bae54fc8e71",
+        "etag": "507fb36f75db7c0fb7b1cfa0fc81abcb"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:2022050:e33ddd5729ef",
+        "entityId": "2022050",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W2_Beast01_01",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Abundance Sprite Wooden Lupus",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_2022050.webp",
+        "outputRelativePath": "Monsters/Abundance Sprite Wooden Lupus/Default/Art_W2_Beast01_01.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/woodLupus/source/Default/Art_W2_Beast01_01.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Abundance Sprite: Wooden Lupus",
+    "primaryArtName": "Art_W2_Beast01_01",
+    "sourceChineseName": "丰饶灵兽•奎木",
+    "fbxPath": "public/assets/models/woodLupus/source/Default/Art_W2_Beast01_01.fbx",
+    "fbxSha256": "fa995a13e37fb61bfc1826d63ac004fb385a3966be0fd67ba69d859a0c046759",
+    "bundlePath": "public/assets/models/woodLupus/bundle.json",
+    "bundleSha256": "f8e7d70eacf58f464e0dd147f538608a185637033afc2ac5909efbdf5b4b4653",
+    "glbSha256": "acf5a6144d9644b76ce51c396fd977a93c5d786acce678691246eb78f982fbd9",
+    "vertices": 9807,
+    "triangles": 11849,
+    "bones": 48,
+    "textureCount": 2,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "fa995a13e37fb61bfc1826d63ac004fb385a3966be0fd67ba69d859a0c046759",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/woodLupus-source-snapshot.zip",
+    "archiveSha256": "cfcc6a7503e5d0b9efd5c1f6f168fe90449dba144631963cc5e9c611ac887569",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "goldenHound",
+    "monsterId": "2022040",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2022040",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2022040",
+    "indexPath": ".cache/monster-models/hoyotoon-goldenHound-files.json",
+    "indexSha256": "e26996a434d321acdccd5d59da368e4fdfed39dc5d2ba33ee227a8e2f7d3f0f0",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Art_W2_Beast01_00.fbx",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Art_W2_Beast01_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FArt_W2_Beast01_00.fbx&v=772c09e9993f6ae5e02ce903242a77ec",
+        "size": 886548,
+        "sha256": "b9b2668cfa9f526f81d91ab7535a30b74d288cca2d943090f36c36f16a526dd4",
+        "etag": "772c09e9993f6ae5e02ce903242a77ec"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Materials/W2_Beast01_00_Body_Mat_Trans.json",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Materials/W2_Beast01_00_Body_Mat_Trans.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FMaterials%2FW2_Beast01_00_Body_Mat_Trans.json&v=c7c846fb45c48ddd416123a610a98d2c",
+        "size": 6225,
+        "sha256": "d1f6ac639d10bbcaccfa08d8280a060a2c777ff432af9bbb677c8b6f33a05961",
+        "etag": "c7c846fb45c48ddd416123a610a98d2c"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Materials/W2_Beast01_00_Body_Mat.json",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Materials/W2_Beast01_00_Body_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FMaterials%2FW2_Beast01_00_Body_Mat.json&v=6f6379e40a3c9d384eaf775266320193",
+        "size": 7728,
+        "sha256": "e0666045d4b8413edff74d802bf7874ad237e5d04fb9d5b300a4d98c5ca449c3",
+        "etag": "6f6379e40a3c9d384eaf775266320193"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Textures/MaterialIDValuesLUTW2_Beast01_00_Body_Mat_Trans.png",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Textures/MaterialIDValuesLUTW2_Beast01_00_Body_Mat_Trans.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Beast01_00_Body_Mat_Trans.png&v=e0ac6f0f1f1c511d2419a2bf6beaf1d0",
+        "size": 235,
+        "sha256": "e5fcc77c8adfc076429d622a6950444c4f79ae5852778ae660eeaf4c62059002",
+        "etag": "e0ac6f0f1f1c511d2419a2bf6beaf1d0"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Textures/MaterialIDValuesLUTW2_Beast01_00_Body_Mat.png",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Textures/MaterialIDValuesLUTW2_Beast01_00_Body_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Beast01_00_Body_Mat.png&v=ed1c94e0e235cebb382bc47e4d332187",
+        "size": 253,
+        "sha256": "b5acd85599c0e7fe3bf80ec8e8706d4463ba154b3774ad29d0e61a966ed97ea5",
+        "etag": "ed1c94e0e235cebb382bc47e4d332187"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Textures/Monster_W2_Beast01_00_Color.png",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Textures/Monster_W2_Beast01_00_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FTextures%2FMonster_W2_Beast01_00_Color.png&v=7720b993a4acd504e8e9339a469a2cb4",
+        "size": 2312530,
+        "sha256": "50d359fdee711cf3a4a254a0c9cc4bb5c3a37e7e84db102f75b0e2236e2d0eff",
+        "etag": "7720b993a4acd504e8e9339a469a2cb4"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Textures/Monster_W2_Beast01_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Textures/Monster_W2_Beast01_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FTextures%2FMonster_W2_Beast01_00_Cool_Ramp.png&v=6442f2a556838ca2d306f8d2ce5ebcb8",
+        "size": 1002,
+        "sha256": "bee32df0c554cd0994a9c03ba5bb641d7e95845533f6fb80486c6966e02c2042",
+        "etag": "6442f2a556838ca2d306f8d2ce5ebcb8"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Textures/Monster_W2_Beast01_00_LightMap.png",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Textures/Monster_W2_Beast01_00_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FTextures%2FMonster_W2_Beast01_00_LightMap.png&v=38daff84c651ca336f932993d7bbe946",
+        "size": 1506831,
+        "sha256": "9ea1e6a1c328c47b298a69db89d94cd50caa4a68e93f99d099d6fc99c76d708c",
+        "etag": "38daff84c651ca336f932993d7bbe946"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Textures/Monster_W2_Beast01_00_Mask.png",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Textures/Monster_W2_Beast01_00_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FTextures%2FMonster_W2_Beast01_00_Mask.png&v=5e0babc71015e8b161f77d654b3a540f",
+        "size": 166869,
+        "sha256": "a8a63cda3661d171e343f5f601d5821686907d800df18a490de9fca5a0b64efb",
+        "etag": "5e0babc71015e8b161f77d654b3a540f"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Textures/Monster_W2_Beast01_00_Warm_Ramp.png",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Textures/Monster_W2_Beast01_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FTextures%2FMonster_W2_Beast01_00_Warm_Ramp.png&v=6442f2a556838ca2d306f8d2ce5ebcb8",
+        "size": 1002,
+        "sha256": "bee32df0c554cd0994a9c03ba5bb641d7e95845533f6fb80486c6966e02c2042",
+        "etag": "6442f2a556838ca2d306f8d2ce5ebcb8"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Textures/Monster_W2_Xuanlu_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Textures/Monster_W2_Xuanlu_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FTextures%2FMonster_W2_Xuanlu_00_Cool_Ramp.png&v=6950e481e706363502abc4f9b4005e0c",
+        "size": 806,
+        "sha256": "a9d84eb8c7e40327531dbf9cf873128758cff674d2cb6ac6a33287234dfaa548",
+        "etag": "6950e481e706363502abc4f9b4005e0c"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Textures/UI3D_Enviro_MilkyWay_Cloud.png",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Textures/UI3D_Enviro_MilkyWay_Cloud.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FTextures%2FUI3D_Enviro_MilkyWay_Cloud.png&v=afc01d28f520a6d60ac1e404241747e9",
+        "size": 159541,
+        "sha256": "9794ba9633a454bbe501637b806b108a1fce96b53f722332411985bd79b55aef",
+        "etag": "afc01d28f520a6d60ac1e404241747e9"
+      },
+      {
+        "path": "public/assets/models/goldenHound/source/Default/Textures/UI3D_Enviro_Stars_Big_2Channel.png",
+        "sourcePath": "Monsters/Abundance Sprite Golden Hound/Default/Textures/UI3D_Enviro_Stars_Big_2Channel.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Sprite+Golden+Hound%2FDefault%2FTextures%2FUI3D_Enviro_Stars_Big_2Channel.png&v=507fb36f75db7c0fb7b1cfa0fc81abcb",
+        "size": 230332,
+        "sha256": "85172bfdd9b8b5daf49f2edc102f6db8de34e9db97b318b5417a0bae54fc8e71",
+        "etag": "507fb36f75db7c0fb7b1cfa0fc81abcb"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:2022040:477d52a882d1",
+        "entityId": "2022040",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W2_Beast01_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Abundance Sprite Golden Hound",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_2022040.webp",
+        "outputRelativePath": "Monsters/Abundance Sprite Golden Hound/Default/Art_W2_Beast01_00.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/goldenHound/source/Default/Art_W2_Beast01_00.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Abundance Sprite: Golden Hound",
+    "primaryArtName": "Art_W2_Beast01_00",
+    "sourceChineseName": "丰饶灵兽•娄金",
+    "fbxPath": "public/assets/models/goldenHound/source/Default/Art_W2_Beast01_00.fbx",
+    "fbxSha256": "b9b2668cfa9f526f81d91ab7535a30b74d288cca2d943090f36c36f16a526dd4",
+    "bundlePath": "public/assets/models/goldenHound/bundle.json",
+    "bundleSha256": "8c3233908477fbb4ee456c4e624e9861be9e94f96c1a0c7ab8f79b704348ac35",
+    "glbSha256": "f64207b9c1a268d0f3e2d18bfcc8a5d9e2cc5e7a316cf8e176554538836ce088",
+    "vertices": 8116,
+    "triangles": 9506,
+    "bones": 48,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "b9b2668cfa9f526f81d91ab7535a30b74d288cca2d943090f36c36f16a526dd4",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/goldenHound-source-snapshot.zip",
+    "archiveSha256": "08475f66266070e303d8f819c976cc429c6899001ed92786dee008d63ad988c8",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "domescreen",
+    "monsterId": "3002010",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3002010",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3002010",
+    "indexPath": ".cache/monster-models/hoyotoon-domescreen-files.json",
+    "indexSha256": "b19bb3a7d300c0fa05e569b5dae46118b6e8165d9e6575e861667ec7ec9b3ce5",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/domescreen/source/Default/Art_W3_TV_00.fbx",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Mr. Domescreen/Default/Art_W3_TV_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Mr.+Domescreen%2FDefault%2FArt_W3_TV_00.fbx&v=d3d782dbb0f5886c7dffd50129ed2811",
+        "size": 1150788,
+        "sha256": "3aa57c29cd06d336cba374675959beba538e02a6b045edd085a0af67ee9f9dda",
+        "etag": "d3d782dbb0f5886c7dffd50129ed2811"
+      },
+      {
+        "path": "public/assets/models/domescreen/source/Default/Materials/W3_TV_00_Body_Mat.json",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Mr. Domescreen/Default/Materials/W3_TV_00_Body_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Mr.+Domescreen%2FDefault%2FMaterials%2FW3_TV_00_Body_Mat.json&v=f7da750fa2e373f0911c11d14528d0fa",
+        "size": 6808,
+        "sha256": "a2dba7e59f04a6ff6a2a3c1695ab9f9b7415ba46c82dbb829121a2ec5677ee48",
+        "etag": "f7da750fa2e373f0911c11d14528d0fa"
+      },
+      {
+        "path": "public/assets/models/domescreen/source/Default/Materials/W3_TV_00_Effect_Mat.json",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Mr. Domescreen/Default/Materials/W3_TV_00_Effect_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Mr.+Domescreen%2FDefault%2FMaterials%2FW3_TV_00_Effect_Mat.json&v=23d6680b0afd8a39d3c81221bdff7627",
+        "size": 2120,
+        "sha256": "e958a5fe5ca71e14d74116f6280591264467f8c3fd155d8777d0caa181cbd78d",
+        "etag": "23d6680b0afd8a39d3c81221bdff7627"
+      },
+      {
+        "path": "public/assets/models/domescreen/source/Default/Textures/MaterialIDValuesLUTW3_TV_00_Body_Mat.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Mr. Domescreen/Default/Textures/MaterialIDValuesLUTW3_TV_00_Body_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Mr.+Domescreen%2FDefault%2FTextures%2FMaterialIDValuesLUTW3_TV_00_Body_Mat.png&v=3efdc744c0d45e2719783eab8f506b25",
+        "size": 296,
+        "sha256": "2bd8a75e96283d5e83c66616394992202389f9fe3d02abf3a4a2aca25dd024e9",
+        "etag": "3efdc744c0d45e2719783eab8f506b25"
+      },
+      {
+        "path": "public/assets/models/domescreen/source/Default/Textures/Monster_W3_TV_00_Color.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Mr. Domescreen/Default/Textures/Monster_W3_TV_00_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Mr.+Domescreen%2FDefault%2FTextures%2FMonster_W3_TV_00_Color.png&v=d22049b3a4d2f42580989f524fecf80b",
+        "size": 1335305,
+        "sha256": "93473afff84f4794deae5293438590cee34f60d7073320f65d046f60cc033417",
+        "etag": "d22049b3a4d2f42580989f524fecf80b"
+      },
+      {
+        "path": "public/assets/models/domescreen/source/Default/Textures/Monster_W3_TV_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Mr. Domescreen/Default/Textures/Monster_W3_TV_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Mr.+Domescreen%2FDefault%2FTextures%2FMonster_W3_TV_00_Cool_Ramp.png&v=e34fdfc3fe302b9f1a6854a9c13ae6f4",
+        "size": 1338,
+        "sha256": "3bddcc6b0ae9626994b5e31c4ef8d2ea31e02e71381d58e514572f1c91e2b0c9",
+        "etag": "e34fdfc3fe302b9f1a6854a9c13ae6f4"
+      },
+      {
+        "path": "public/assets/models/domescreen/source/Default/Textures/Monster_W3_TV_00_Effect_Color.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Mr. Domescreen/Default/Textures/Monster_W3_TV_00_Effect_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Mr.+Domescreen%2FDefault%2FTextures%2FMonster_W3_TV_00_Effect_Color.png&v=1a34d537fe41b6a494e2e917d7c08686",
+        "size": 2479602,
+        "sha256": "1cc8d41b97f01815c7e8de561f6ec12230253c0370a83e5f4262a6416a3aa4c9",
+        "etag": "1a34d537fe41b6a494e2e917d7c08686"
+      },
+      {
+        "path": "public/assets/models/domescreen/source/Default/Textures/Monster_W3_TV_00_LightMap.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Mr. Domescreen/Default/Textures/Monster_W3_TV_00_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Mr.+Domescreen%2FDefault%2FTextures%2FMonster_W3_TV_00_LightMap.png&v=9d6bd7a0f294134d3a8beae7151e3379",
+        "size": 748346,
+        "sha256": "ca2911a403435ed654425916ff65c4b969c831dd6886ed778348b699b90939e7",
+        "etag": "9d6bd7a0f294134d3a8beae7151e3379"
+      },
+      {
+        "path": "public/assets/models/domescreen/source/Default/Textures/Monster_W3_TV_00_Warm_Ramp.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Mr. Domescreen/Default/Textures/Monster_W3_TV_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Mr.+Domescreen%2FDefault%2FTextures%2FMonster_W3_TV_00_Warm_Ramp.png&v=f6268bd6e2acef92254b8b1bb9ea58d2",
+        "size": 1420,
+        "sha256": "c7f426b8540112e2827911ac52b0c0254ec415ce7225c4c82fe900426091b752",
+        "etag": "f6268bd6e2acef92254b8b1bb9ea58d2"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:3002010:ca151e4498cf",
+        "entityId": "3002010",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W3_TV_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Dreamjolt Troupe's Mr. Domescreen",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_3002010.webp",
+        "outputRelativePath": "Monsters/Dreamjolt Troupe's Mr. Domescreen/Default/Art_W3_TV_00.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/domescreen/source/Default/Art_W3_TV_00.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Dreamjolt Troupe's Mr. Domescreen",
+    "primaryArtName": "Art_W3_TV_00",
+    "sourceChineseName": "惊梦剧团的圆幕先生",
+    "fbxPath": "public/assets/models/domescreen/source/Default/Art_W3_TV_00.fbx",
+    "fbxSha256": "3aa57c29cd06d336cba374675959beba538e02a6b045edd085a0af67ee9f9dda",
+    "bundlePath": "public/assets/models/domescreen/bundle.json",
+    "bundleSha256": "e7d14b429b36bf444697c15c7b1cddcbd2f267732d7e722181c7704de47b2d76",
+    "glbSha256": "d81b1c920bbca1a4dc7989c75ece65c5122a7e43bb3854b71258ba14ca77447b",
+    "vertices": 10500,
+    "triangles": 13897,
+    "bones": 67,
+    "textureCount": 2,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "3aa57c29cd06d336cba374675959beba538e02a6b045edd085a0af67ee9f9dda",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/domescreen-source-snapshot.zip",
+    "archiveSha256": "e814d78f66dee6d75462010c44b425b86885aea5e83eeedd66c32773f1aeb984",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "springDealer",
+    "monsterId": "3001010",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3001010",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3001010",
+    "indexPath": ".cache/monster-models/hoyotoon-springDealer-files.json",
+    "indexSha256": "08f727e098d7b019f3070a0cc2d46a729172ea07fdda7c06925f6ec82a00c95a",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/springDealer/source/Default/Art_W2_Mecha01_02.fbx",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Spring Loader/Default/Art_W2_Mecha01_02.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Spring+Loader%2FDefault%2FArt_W2_Mecha01_02.fbx&v=64128e244f542a2aa749e0e429b0b1ce",
+        "size": 789060,
+        "sha256": "24807847ff85e319094224631550886d43ccd183ab054fdb4547ffc018f4828a",
+        "etag": "64128e244f542a2aa749e0e429b0b1ce"
+      },
+      {
+        "path": "public/assets/models/springDealer/source/Default/Materials/W2_Mecha01_02_Mat.json",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Spring Loader/Default/Materials/W2_Mecha01_02_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Spring+Loader%2FDefault%2FMaterials%2FW2_Mecha01_02_Mat.json&v=68d15ebcaebd17b04307ca89ddd0ba24",
+        "size": 5684,
+        "sha256": "68e6e7552b61db09afaff06c2a4a22bf0f4b96f3337c7c8aa00b682a6a0f0fcd",
+        "etag": "68d15ebcaebd17b04307ca89ddd0ba24"
+      },
+      {
+        "path": "public/assets/models/springDealer/source/Default/Textures/MaterialIDValuesLUTW2_Mecha01_02_Mat.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Spring Loader/Default/Textures/MaterialIDValuesLUTW2_Mecha01_02_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Spring+Loader%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Mecha01_02_Mat.png&v=e65900d078198ac77dda8e036e5b8858",
+        "size": 274,
+        "sha256": "8641c44f20a56b751cc5bc59b6f1f0494dbd9effa2382c9f7324d28316601bfe",
+        "etag": "e65900d078198ac77dda8e036e5b8858"
+      },
+      {
+        "path": "public/assets/models/springDealer/source/Default/Textures/Monster_W2_Mecha01_02_Color_A.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Spring Loader/Default/Textures/Monster_W2_Mecha01_02_Color_A.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Spring+Loader%2FDefault%2FTextures%2FMonster_W2_Mecha01_02_Color_A.png&v=a307366364c83b2a7b75b598b359aebe",
+        "size": 1651625,
+        "sha256": "dfc0f2133e8618f704b1494e4923b6fcbbc7d18b3e9177bcfc31eea47d495d13",
+        "etag": "a307366364c83b2a7b75b598b359aebe"
+      },
+      {
+        "path": "public/assets/models/springDealer/source/Default/Textures/Monster_W2_Mecha01_02_Cool_Ramp.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Spring Loader/Default/Textures/Monster_W2_Mecha01_02_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Spring+Loader%2FDefault%2FTextures%2FMonster_W2_Mecha01_02_Cool_Ramp.png&v=b84b20c5794341a769a938e5e6678277",
+        "size": 1292,
+        "sha256": "830425f15146576a8542d8235c0e5af435709588ad04195567b9be8d29af98fa",
+        "etag": "b84b20c5794341a769a938e5e6678277"
+      },
+      {
+        "path": "public/assets/models/springDealer/source/Default/Textures/Monster_W2_Mecha01_02_LightMap.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Spring Loader/Default/Textures/Monster_W2_Mecha01_02_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Spring+Loader%2FDefault%2FTextures%2FMonster_W2_Mecha01_02_LightMap.png&v=cf5165639041d4cb6847c09820b401fb",
+        "size": 2094076,
+        "sha256": "607b42bcf73084a178efe97f158fca49bd25b4ff4729379c96444c0262547c3d",
+        "etag": "cf5165639041d4cb6847c09820b401fb"
+      },
+      {
+        "path": "public/assets/models/springDealer/source/Default/Textures/Monster_W2_Mecha01_02_Warm_Ramp.png",
+        "sourcePath": "Monsters/Dreamjolt Troupe's Spring Loader/Default/Textures/Monster_W2_Mecha01_02_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FDreamjolt+Troupe%27s+Spring+Loader%2FDefault%2FTextures%2FMonster_W2_Mecha01_02_Warm_Ramp.png&v=f6770417c43d71461f48038df039a456",
+        "size": 1228,
+        "sha256": "6a58676c7025aff0d1ad8c5bfa3a86c0561b3809984f52fc5b2f7e94082f7e40",
+        "etag": "f6770417c43d71461f48038df039a456"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:3001010:cf76e92676b9",
+        "entityId": "3001010",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W2_Mecha01_02",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Dreamjolt Troupe's Spring Loader",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_3001010.webp",
+        "outputRelativePath": "Monsters/Dreamjolt Troupe's Spring Loader/Default/Art_W2_Mecha01_02.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/springDealer/source/Default/Art_W2_Mecha01_02.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Dreamjolt Troupe's Spring Loader",
+    "primaryArtName": "Art_W2_Mecha01_02",
+    "sourceChineseName": "惊梦剧团的弹簧荷官",
+    "fbxPath": "public/assets/models/springDealer/source/Default/Art_W2_Mecha01_02.fbx",
+    "fbxSha256": "24807847ff85e319094224631550886d43ccd183ab054fdb4547ffc018f4828a",
+    "bundlePath": "public/assets/models/springDealer/bundle.json",
+    "bundleSha256": "c510159d062e2b30ddc44b739382dabef6df6456e118956a91fc647a3049ff18",
+    "glbSha256": "ba504b3e392b022e79914af744cabe7845e0f9bb456f4871d4f8d11989afb10e",
+    "vertices": 7913,
+    "triangles": 9022,
+    "bones": 49,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "24807847ff85e319094224631550886d43ccd183ab054fdb4547ffc018f4828a",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/springDealer-source-snapshot.zip",
+    "archiveSha256": "7635c64a5dc73d5a66f5f0465fe3b3718451417433dd7fd2d2bbe4af0c0a5048",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "tideBlade",
+    "monsterId": "4032010",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032010",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032010",
+    "indexPath": ".cache/monster-models/hoyotoon-tideBlade-files.json",
+    "indexSha256": "b203634ed3ab18e074aca780447919da521a6e7e19394ae66524326bb25b0467",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/tideBlade/source/Default/Art_AML_Minion02_01.fbx",
+        "sourcePath": "Monsters/Tide-Eroded Blade/Default/Art_AML_Minion02_01.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FTide-Eroded+Blade%2FDefault%2FArt_AML_Minion02_01.fbx&v=70c438bde47659db88c537b856449bbc",
+        "size": 1578148,
+        "sha256": "91c2a96ce457c42aafab22ef06525501eee0760c4d333af41c3fe2fbd117e8e2",
+        "etag": "70c438bde47659db88c537b856449bbc"
+      },
+      {
+        "path": "public/assets/models/tideBlade/source/Default/Materials/AML_Minion02_01_Mat.json",
+        "sourcePath": "Monsters/Tide-Eroded Blade/Default/Materials/AML_Minion02_01_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FTide-Eroded+Blade%2FDefault%2FMaterials%2FAML_Minion02_01_Mat.json&v=f2e579eff49491c95b334adab6335954",
+        "size": 7808,
+        "sha256": "79d8d54374a2fe67f54db71f403c482e1a8d9d198eb6f0c840e6a4be1dacb960",
+        "etag": "f2e579eff49491c95b334adab6335954"
+      },
+      {
+        "path": "public/assets/models/tideBlade/source/Default/Textures/AML_Minion02_01_Color.png",
+        "sourcePath": "Monsters/Tide-Eroded Blade/Default/Textures/AML_Minion02_01_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FTide-Eroded+Blade%2FDefault%2FTextures%2FAML_Minion02_01_Color.png&v=f8c8888abc49cd241214f0232d646276",
+        "size": 3468175,
+        "sha256": "02701babc60a0285cf4fd057b6e989f19d94e2e5da2c51e30952b182cc6eb9bd",
+        "etag": "f8c8888abc49cd241214f0232d646276"
+      },
+      {
+        "path": "public/assets/models/tideBlade/source/Default/Textures/AML_Minion02_01_Cool_Ramp.png",
+        "sourcePath": "Monsters/Tide-Eroded Blade/Default/Textures/AML_Minion02_01_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FTide-Eroded+Blade%2FDefault%2FTextures%2FAML_Minion02_01_Cool_Ramp.png&v=2af1e5f25f8446d06d0f7bbe7423d9b2",
+        "size": 897,
+        "sha256": "8c2137e596146ed807d0dbc84f2afee35ea9bb08e4d7f1325d7158d367bedf01",
+        "etag": "2af1e5f25f8446d06d0f7bbe7423d9b2"
+      },
+      {
+        "path": "public/assets/models/tideBlade/source/Default/Textures/AML_Minion02_01_LightMap.png",
+        "sourcePath": "Monsters/Tide-Eroded Blade/Default/Textures/AML_Minion02_01_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FTide-Eroded+Blade%2FDefault%2FTextures%2FAML_Minion02_01_LightMap.png&v=106f04869d1a92160698b453687e1bd8",
+        "size": 2384005,
+        "sha256": "779ff6cd17863436f075863ef71c5a1c71a709d5b4c935dc2ae2c965c80ddb3d",
+        "etag": "106f04869d1a92160698b453687e1bd8"
+      },
+      {
+        "path": "public/assets/models/tideBlade/source/Default/Textures/AML_Minion02_01_Mask.png",
+        "sourcePath": "Monsters/Tide-Eroded Blade/Default/Textures/AML_Minion02_01_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FTide-Eroded+Blade%2FDefault%2FTextures%2FAML_Minion02_01_Mask.png&v=3c0269368a527d14a63b08dd9a6dd9f0",
+        "size": 11262,
+        "sha256": "4e3cd7da815bbfe6206dea0424015e4fc075febaa40fce92a8d751b320a2af5a",
+        "etag": "3c0269368a527d14a63b08dd9a6dd9f0"
+      },
+      {
+        "path": "public/assets/models/tideBlade/source/Default/Textures/AML_Minion02_01_Warm_Ramp.png",
+        "sourcePath": "Monsters/Tide-Eroded Blade/Default/Textures/AML_Minion02_01_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FTide-Eroded+Blade%2FDefault%2FTextures%2FAML_Minion02_01_Warm_Ramp.png&v=b07a451f9caed80580e62b83b040591c",
+        "size": 935,
+        "sha256": "0c228ba2298be6bd748e31460b240bf840f41bb66fa412df440356b60a19b661",
+        "etag": "b07a451f9caed80580e62b83b040591c"
+      },
+      {
+        "path": "public/assets/models/tideBlade/source/Default/Textures/Matcap_06.png",
+        "sourcePath": "Monsters/Tide-Eroded Blade/Default/Textures/Matcap_06.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FTide-Eroded+Blade%2FDefault%2FTextures%2FMatcap_06.png&v=eeaaec1075ab28a3878338860a0b1798",
+        "size": 356528,
+        "sha256": "2d7073ea684868e28327404e3029f851ec3907dfedb085688959af11e9c4efda",
+        "etag": "eeaaec1075ab28a3878338860a0b1798"
+      },
+      {
+        "path": "public/assets/models/tideBlade/source/Default/Textures/MaterialIDValuesLUTAML_Minion02_01_Mat.png",
+        "sourcePath": "Monsters/Tide-Eroded Blade/Default/Textures/MaterialIDValuesLUTAML_Minion02_01_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FTide-Eroded+Blade%2FDefault%2FTextures%2FMaterialIDValuesLUTAML_Minion02_01_Mat.png&v=0064e3d673a5dad0d4e18bd5f889dc0b",
+        "size": 327,
+        "sha256": "6dfccc565086ba8e29589f71d6a5be35b1cea4f398b2f48df424c8a37d267162",
+        "etag": "0064e3d673a5dad0d4e18bd5f889dc0b"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:4032010:a6df014398f8",
+        "entityId": "4032010",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_AML_Minion02_01",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Tide-Eroded Blade",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_4032010.webp",
+        "outputRelativePath": "Monsters/Tide-Eroded Blade/Default/Art_AML_Minion02_01.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/tideBlade/source/Default/Art_AML_Minion02_01.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Tide-Eroded Blade",
+    "primaryArtName": "Art_AML_Minion02_01",
+    "sourceChineseName": "黑潮蚀刃",
+    "fbxPath": "public/assets/models/tideBlade/source/Default/Art_AML_Minion02_01.fbx",
+    "fbxSha256": "91c2a96ce457c42aafab22ef06525501eee0760c4d333af41c3fe2fbd117e8e2",
+    "bundlePath": "public/assets/models/tideBlade/bundle.json",
+    "bundleSha256": "3db261b6f9886f872a33c08a87cd5419dd2bddb3054ceb8b0c1a7fd0cf007651",
+    "glbSha256": "ac2a3e4719926a19e891f56794d9fab64fd7894103185532986f96652f3a70af",
+    "vertices": 14281,
+    "triangles": 15246,
+    "bones": 61,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "91c2a96ce457c42aafab22ef06525501eee0760c4d333af41c3fe2fbd117e8e2",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/tideBlade-source-snapshot.zip",
+    "archiveSha256": "d7f41b8d50ffca2ec7acba98a4334c9d3a1f112061433232278782eb67d0bb48",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "tideBow",
+    "monsterId": "4032050",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032050",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032050",
+    "indexPath": ".cache/monster-models/hoyotoon-tideBow-files.json",
+    "indexSha256": "85bf32fc4db04df4451d6bb222fced54ddba929b06fdca3c098d49e2f52d1b43",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/tideBow/source/Default/Art_W4_Shooter_01.fbx",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Art_W4_Shooter_01.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FArt_W4_Shooter_01.fbx&v=523c66f8c10d3300a5994c43a9ff7c4f",
+        "size": 1839236,
+        "sha256": "585c2c32d2948a75fe51532b836525aea96376b21c21c245df13225d19f8c622",
+        "etag": "523c66f8c10d3300a5994c43a9ff7c4f"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Materials/W4_Shooter_01_Mat_S.json",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Materials/W4_Shooter_01_Mat_S.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FMaterials%2FW4_Shooter_01_Mat_S.json&v=f611abe1ca5517f648d5feadc40d5442",
+        "size": 7932,
+        "sha256": "e7909f2d7042e3adeac795748b5f42393802eb452b11f06eea1e450ad296a813",
+        "etag": "f611abe1ca5517f648d5feadc40d5442"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Materials/W4_Shooter_01_Weapon_Mat.json",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Materials/W4_Shooter_01_Weapon_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FMaterials%2FW4_Shooter_01_Weapon_Mat.json&v=0c07d0a61de4a707bfa57e3f9c44dfb3",
+        "size": 8148,
+        "sha256": "53303ca1bfd1b70b7e0867b10d6f0aa1ba3b4e6ec3b7b598a0ae958700842883",
+        "etag": "0c07d0a61de4a707bfa57e3f9c44dfb3"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Textures/Matcap_06.png",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Textures/Matcap_06.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FTextures%2FMatcap_06.png&v=eeaaec1075ab28a3878338860a0b1798",
+        "size": 356528,
+        "sha256": "2d7073ea684868e28327404e3029f851ec3907dfedb085688959af11e9c4efda",
+        "etag": "eeaaec1075ab28a3878338860a0b1798"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Textures/MaterialIDValuesLUTW4_Shooter_01_Mat_S.png",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Textures/MaterialIDValuesLUTW4_Shooter_01_Mat_S.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FTextures%2FMaterialIDValuesLUTW4_Shooter_01_Mat_S.png&v=1d86f956052f535ca2d678dbc69aee2e",
+        "size": 327,
+        "sha256": "825dbc15ef41f65848c39de7cec6d3bed648c039bf9989ba1d86e9c73c746d0e",
+        "etag": "1d86f956052f535ca2d678dbc69aee2e"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Textures/MaterialIDValuesLUTW4_Shooter_01_Weapon_Mat.png",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Textures/MaterialIDValuesLUTW4_Shooter_01_Weapon_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FTextures%2FMaterialIDValuesLUTW4_Shooter_01_Weapon_Mat.png&v=44b2cd22034a847b039bbbbfb8d5aec4",
+        "size": 335,
+        "sha256": "0623549739c0dfa384216d42ff026d038b8a3308667419c8b0c9963d923e5cda",
+        "etag": "44b2cd22034a847b039bbbbfb8d5aec4"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Textures/Monster_W4_Scholar_01_Cool_Ramp.png",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Textures/Monster_W4_Scholar_01_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FTextures%2FMonster_W4_Scholar_01_Cool_Ramp.png&v=2af1e5f25f8446d06d0f7bbe7423d9b2",
+        "size": 897,
+        "sha256": "8c2137e596146ed807d0dbc84f2afee35ea9bb08e4d7f1325d7158d367bedf01",
+        "etag": "2af1e5f25f8446d06d0f7bbe7423d9b2"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Textures/Monster_W4_Scholar_01_Mask.png",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Textures/Monster_W4_Scholar_01_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FTextures%2FMonster_W4_Scholar_01_Mask.png&v=b81064b9a690126a51aed691736106d2",
+        "size": 11227,
+        "sha256": "f4f687da11c7f673a0f9d4edff5f5d8058ada3a7a33944577e73f6d6186e1850",
+        "etag": "b81064b9a690126a51aed691736106d2"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Textures/Monster_W4_Scholar_01_Warm_Ramp.png",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Textures/Monster_W4_Scholar_01_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FTextures%2FMonster_W4_Scholar_01_Warm_Ramp.png&v=b07a451f9caed80580e62b83b040591c",
+        "size": 935,
+        "sha256": "0c228ba2298be6bd748e31460b240bf840f41bb66fa412df440356b60a19b661",
+        "etag": "b07a451f9caed80580e62b83b040591c"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Textures/Monster_W4_Shooter_01_Color.png",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Textures/Monster_W4_Shooter_01_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FTextures%2FMonster_W4_Shooter_01_Color.png&v=3c8f698202a2595fd5e4e41780127bdf",
+        "size": 3094462,
+        "sha256": "605c665dbf247180f8deccc74f5ef996caae7b8e21debdb315e7203233b6ff34",
+        "etag": "3c8f698202a2595fd5e4e41780127bdf"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Textures/Monster_W4_Shooter_01_LightMap.png",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Textures/Monster_W4_Shooter_01_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FTextures%2FMonster_W4_Shooter_01_LightMap.png&v=44625cf73190d7da7719af01b6d467e5",
+        "size": 1807562,
+        "sha256": "b53ddc5d80d0de4617732f61a34fd6afbdf4f3ec368907a12a48b6a57ec644e8",
+        "etag": "44625cf73190d7da7719af01b6d467e5"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Textures/Monster_W4_Shooter_01_Weapon_Color.png",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Textures/Monster_W4_Shooter_01_Weapon_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FTextures%2FMonster_W4_Shooter_01_Weapon_Color.png&v=eb9240736a7953383be62d6492a2969b",
+        "size": 806013,
+        "sha256": "8a89f0e1a332f4e16a0fd9212b823e9caf3e6c859f04c0b2f287052cf2d93537",
+        "etag": "eb9240736a7953383be62d6492a2969b"
+      },
+      {
+        "path": "public/assets/models/tideBow/source/Default/Textures/Monster_W4_Shooter_01_Weapon_LightMap.png",
+        "sourcePath": "Monsters/Black Tide's Decrepit Bow/Default/Textures/Monster_W4_Shooter_01_Weapon_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Decrepit+Bow%2FDefault%2FTextures%2FMonster_W4_Shooter_01_Weapon_LightMap.png&v=b938043d5377f48abf2076e98f0bd4b3",
+        "size": 451830,
+        "sha256": "52a0f8d3f41354e540d1e5d989f63a344ba2d314c4025ebc692d80e34cc0f504",
+        "etag": "b938043d5377f48abf2076e98f0bd4b3"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:4032050:bb508b8991b2",
+        "entityId": "4032050",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W4_Shooter_01",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Black Tide's Decrepit Bow",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_4032050.webp",
+        "outputRelativePath": "Monsters/Black Tide's Decrepit Bow/Default/Art_W4_Shooter_01.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/tideBow/source/Default/Art_W4_Shooter_01.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Black Tide's Decrepit Bow",
+    "primaryArtName": "Art_W4_Shooter_01",
+    "sourceChineseName": "黑潮朽弓",
+    "fbxPath": "public/assets/models/tideBow/source/Default/Art_W4_Shooter_01.fbx",
+    "fbxSha256": "585c2c32d2948a75fe51532b836525aea96376b21c21c245df13225d19f8c622",
+    "bundlePath": "public/assets/models/tideBow/bundle.json",
+    "bundleSha256": "3d5e2f756cd2cbf53fd521e77bb62a248afd84f77b9a97032b0c6e25d804f35e",
+    "glbSha256": "7216c4c1d29cb2a157de8e268e72a0f40329e0391b3f9133a2f44eba74bf3aa8",
+    "vertices": 20372,
+    "triangles": 16574,
+    "bones": 74,
+    "textureCount": 2,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "585c2c32d2948a75fe51532b836525aea96376b21c21c245df13225d19f8c622",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/tideBow-source-snapshot.zip",
+    "archiveSha256": "0c9af122e57027c39a77a40d227c43023cc43ce5b941b78aef95b0987216c486",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "tideCouncil",
+    "monsterId": "4032040",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032040",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032040",
+    "indexPath": ".cache/monster-models/hoyotoon-tideCouncil-files.json",
+    "indexSha256": "3db82dffe0db4fcb788976cc95869d68eb2e6f70a38f4160672544b7773dff60",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Art_W4_Scholar_01.fbx",
+        "sourcePath": "Monsters/Black Tide Council/Default/Art_W4_Scholar_01.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FArt_W4_Scholar_01.fbx&v=d588dfd6e17e01444e244946f7fa064b",
+        "size": 1552852,
+        "sha256": "83765b362119a7c87bbd11df21392d2462638ab6f877c3717089f059a8e33f37",
+        "etag": "d588dfd6e17e01444e244946f7fa064b"
+      },
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Materials/W4_Scholar_01_Mat_D.json",
+        "sourcePath": "Monsters/Black Tide Council/Default/Materials/W4_Scholar_01_Mat_D.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FMaterials%2FW4_Scholar_01_Mat_D.json&v=f7b26edf04e7950ef07e2ab01421280d",
+        "size": 7889,
+        "sha256": "e6f3a818e282cca71761651613d69f7e325f2a0017820c31a37e4da14bd1bea5",
+        "etag": "f7b26edf04e7950ef07e2ab01421280d"
+      },
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Materials/W4_Scholar_01_Mat_S.json",
+        "sourcePath": "Monsters/Black Tide Council/Default/Materials/W4_Scholar_01_Mat_S.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FMaterials%2FW4_Scholar_01_Mat_S.json&v=ad97c7ce32e35b19c9c40f449e81901c",
+        "size": 7844,
+        "sha256": "12bda03ae6e7beea0d1b889a4171562d1d11b2f189cc233290ef5472f2332b2e",
+        "etag": "ad97c7ce32e35b19c9c40f449e81901c"
+      },
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Textures/Matcap_06.png",
+        "sourcePath": "Monsters/Black Tide Council/Default/Textures/Matcap_06.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FTextures%2FMatcap_06.png&v=eeaaec1075ab28a3878338860a0b1798",
+        "size": 356528,
+        "sha256": "2d7073ea684868e28327404e3029f851ec3907dfedb085688959af11e9c4efda",
+        "etag": "eeaaec1075ab28a3878338860a0b1798"
+      },
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Textures/MaterialIDValuesLUTW4_Scholar_01_Mat_D.png",
+        "sourcePath": "Monsters/Black Tide Council/Default/Textures/MaterialIDValuesLUTW4_Scholar_01_Mat_D.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FTextures%2FMaterialIDValuesLUTW4_Scholar_01_Mat_D.png&v=e3093ca7eff4b0df77783c18572b2398",
+        "size": 328,
+        "sha256": "45a43a564af123c87725777e79df8cd421daf9cb0b2660bdd90a03d41df502b3",
+        "etag": "e3093ca7eff4b0df77783c18572b2398"
+      },
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Textures/MaterialIDValuesLUTW4_Scholar_01_Mat_S.png",
+        "sourcePath": "Monsters/Black Tide Council/Default/Textures/MaterialIDValuesLUTW4_Scholar_01_Mat_S.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FTextures%2FMaterialIDValuesLUTW4_Scholar_01_Mat_S.png&v=e3093ca7eff4b0df77783c18572b2398",
+        "size": 328,
+        "sha256": "45a43a564af123c87725777e79df8cd421daf9cb0b2660bdd90a03d41df502b3",
+        "etag": "e3093ca7eff4b0df77783c18572b2398"
+      },
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Textures/Monster_W4_Scholar_01_Color.png",
+        "sourcePath": "Monsters/Black Tide Council/Default/Textures/Monster_W4_Scholar_01_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FTextures%2FMonster_W4_Scholar_01_Color.png&v=cbbf415f979479b650083cbe1e098a60",
+        "size": 3513952,
+        "sha256": "06f1b86dc710d78b2bad5b6f31259f16caedeacb1acf5fcfab96a6624e45269a",
+        "etag": "cbbf415f979479b650083cbe1e098a60"
+      },
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Textures/Monster_W4_Scholar_01_Cool_Ramp.png",
+        "sourcePath": "Monsters/Black Tide Council/Default/Textures/Monster_W4_Scholar_01_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FTextures%2FMonster_W4_Scholar_01_Cool_Ramp.png&v=2af1e5f25f8446d06d0f7bbe7423d9b2",
+        "size": 897,
+        "sha256": "8c2137e596146ed807d0dbc84f2afee35ea9bb08e4d7f1325d7158d367bedf01",
+        "etag": "2af1e5f25f8446d06d0f7bbe7423d9b2"
+      },
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Textures/Monster_W4_Scholar_01_LightMap.png",
+        "sourcePath": "Monsters/Black Tide Council/Default/Textures/Monster_W4_Scholar_01_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FTextures%2FMonster_W4_Scholar_01_LightMap.png&v=2b704da03d4d379fd70a90b21db5403b",
+        "size": 2267114,
+        "sha256": "913f29435acf2c54210fcc30ba0e7a285568b2337c5beb2d16b12add5c13c6da",
+        "etag": "2b704da03d4d379fd70a90b21db5403b"
+      },
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Textures/Monster_W4_Scholar_01_Mask.png",
+        "sourcePath": "Monsters/Black Tide Council/Default/Textures/Monster_W4_Scholar_01_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FTextures%2FMonster_W4_Scholar_01_Mask.png&v=b81064b9a690126a51aed691736106d2",
+        "size": 11227,
+        "sha256": "f4f687da11c7f673a0f9d4edff5f5d8058ada3a7a33944577e73f6d6186e1850",
+        "etag": "b81064b9a690126a51aed691736106d2"
+      },
+      {
+        "path": "public/assets/models/tideCouncil/source/Default/Textures/Monster_W4_Scholar_01_Warm_Ramp.png",
+        "sourcePath": "Monsters/Black Tide Council/Default/Textures/Monster_W4_Scholar_01_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide+Council%2FDefault%2FTextures%2FMonster_W4_Scholar_01_Warm_Ramp.png&v=b07a451f9caed80580e62b83b040591c",
+        "size": 935,
+        "sha256": "0c228ba2298be6bd748e31460b240bf840f41bb66fa412df440356b60a19b661",
+        "etag": "b07a451f9caed80580e62b83b040591c"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:4032040:826159a1e9e1",
+        "entityId": "4032040",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W4_Scholar_01",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Black Tide Council",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_4032040.webp",
+        "outputRelativePath": "Monsters/Black Tide Council/Default/Art_W4_Scholar_01.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/tideCouncil/source/Default/Art_W4_Scholar_01.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Black Tide Council",
+    "primaryArtName": "Art_W4_Scholar_01",
+    "sourceChineseName": "黑潮参议",
+    "fbxPath": "public/assets/models/tideCouncil/source/Default/Art_W4_Scholar_01.fbx",
+    "fbxSha256": "83765b362119a7c87bbd11df21392d2462638ab6f877c3717089f059a8e33f37",
+    "bundlePath": "public/assets/models/tideCouncil/bundle.json",
+    "bundleSha256": "0cd9d2dfb9dde0ec55cd3f1543b021b339c942166458babc708a360d770aceb3",
+    "glbSha256": "46a7201e78fed7f898d0f6d99e591d183fd2647eca745f1c5553f4a048534239",
+    "vertices": 12430,
+    "triangles": 13595,
+    "bones": 112,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "83765b362119a7c87bbd11df21392d2462638ab6f877c3717089f059a8e33f37",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/tideCouncil-source-snapshot.zip",
+    "archiveSha256": "356558d0f6dcc66837cb8419279e79c89ccaebdab60e8fcccdd89f447299a01a",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "enemy_lotus",
+    "monsterId": "8012200",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012200",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012200",
+    "indexPath": ".cache/monster-models/hoyotoon-enemy_lotus-files.json",
+    "indexSha256": "a363f20f966eb4c5400dcf6e407484cdf6a9c7029fa962343db5bb94fc335d93",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/enemy_lotus/source/Default/Art_W2_HuanlongPart_00.fbx",
+        "sourcePath": "Monsters/Abundance Lotus/Default/Art_W2_HuanlongPart_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Lotus%2FDefault%2FArt_W2_HuanlongPart_00.fbx&v=faab4826ae094e2d5804dde2b69a1a8b",
+        "size": 561028,
+        "sha256": "bb537388faaff814b84e9d1843bba0ce7fac12e99c4d8cf3c521adfd055fec84",
+        "etag": "faab4826ae094e2d5804dde2b69a1a8b"
+      },
+      {
+        "path": "public/assets/models/enemy_lotus/source/Default/Art_W2_HuanlongPart_02.fbx",
+        "sourcePath": "Monsters/Abundance Lotus/Default/Art_W2_HuanlongPart_02.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Lotus%2FDefault%2FArt_W2_HuanlongPart_02.fbx&v=1e4d5276aede48bd1ef48a9f6d5452cd",
+        "size": 561028,
+        "sha256": "55666fbf5d80b49427496ff7d6dc859eebd9132dd308a6662ea9e159f7f9983b",
+        "etag": "1e4d5276aede48bd1ef48a9f6d5452cd"
+      },
+      {
+        "path": "public/assets/models/enemy_lotus/source/Default/Materials/W2_HuanlongPart_00_Mat.json",
+        "sourcePath": "Monsters/Abundance Lotus/Default/Materials/W2_HuanlongPart_00_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Lotus%2FDefault%2FMaterials%2FW2_HuanlongPart_00_Mat.json&v=9abcf03be447cad88ffc76265e4fe703",
+        "size": 6727,
+        "sha256": "15e4eb4a0746727143df0b0d6447ef2b76b881b469faf0b426010938a8fe52a3",
+        "etag": "9abcf03be447cad88ffc76265e4fe703"
+      },
+      {
+        "path": "public/assets/models/enemy_lotus/source/Default/Materials/W2_HuanlongPart_02_Mat.json",
+        "sourcePath": "Monsters/Abundance Lotus/Default/Materials/W2_HuanlongPart_02_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Lotus%2FDefault%2FMaterials%2FW2_HuanlongPart_02_Mat.json&v=540e6692ddf2f88540fe93fde660e561",
+        "size": 6718,
+        "sha256": "c3f02c9e565b2a9f1602a2f26149ac411ccefd9a66527058edec0c6d36126143",
+        "etag": "540e6692ddf2f88540fe93fde660e561"
+      },
+      {
+        "path": "public/assets/models/enemy_lotus/source/Default/Textures/MaterialIDValuesLUTW2_HuanlongPart_00_Mat.png",
+        "sourcePath": "Monsters/Abundance Lotus/Default/Textures/MaterialIDValuesLUTW2_HuanlongPart_00_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Lotus%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_HuanlongPart_00_Mat.png&v=47620ea87a174cba9a56e624a6b0c6b0",
+        "size": 305,
+        "sha256": "f812a08a19f6f07ba33ea16b75d4ca234cf70dbe5fe787b99446733eab243826",
+        "etag": "47620ea87a174cba9a56e624a6b0c6b0"
+      },
+      {
+        "path": "public/assets/models/enemy_lotus/source/Default/Textures/MaterialIDValuesLUTW2_HuanlongPart_02_Mat.png",
+        "sourcePath": "Monsters/Abundance Lotus/Default/Textures/MaterialIDValuesLUTW2_HuanlongPart_02_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Lotus%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_HuanlongPart_02_Mat.png&v=dd6c00a3d6b0bd20e4835dddfc437d8f",
+        "size": 303,
+        "sha256": "e524909c2e0848dd681276e42f88b97273a29addf4b4304be104d89f4e6c3556",
+        "etag": "dd6c00a3d6b0bd20e4835dddfc437d8f"
+      },
+      {
+        "path": "public/assets/models/enemy_lotus/source/Default/Textures/Monster_W2_HuanlongPart_00_Color_A.png",
+        "sourcePath": "Monsters/Abundance Lotus/Default/Textures/Monster_W2_HuanlongPart_00_Color_A.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Lotus%2FDefault%2FTextures%2FMonster_W2_HuanlongPart_00_Color_A.png&v=aa6330b3ebcee6eb48bcbdff04d914ff",
+        "size": 761239,
+        "sha256": "b88fc8bf98b1b0fa09226591bd2662fc38360656686bad9fa6ecbb32d21ad7ed",
+        "etag": "aa6330b3ebcee6eb48bcbdff04d914ff"
+      },
+      {
+        "path": "public/assets/models/enemy_lotus/source/Default/Textures/Monster_W2_HuanlongPart_00_LightMap.png",
+        "sourcePath": "Monsters/Abundance Lotus/Default/Textures/Monster_W2_HuanlongPart_00_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Lotus%2FDefault%2FTextures%2FMonster_W2_HuanlongPart_00_LightMap.png&v=4273d650d1397260daa1e6cebbc02140",
+        "size": 1182390,
+        "sha256": "eb4bf16834a9d8335b199c0f41add38fac24710364cc343604151eabbe825ae2",
+        "etag": "4273d650d1397260daa1e6cebbc02140"
+      },
+      {
+        "path": "public/assets/models/enemy_lotus/source/Default/Textures/Monster_W2_HuanlongPart_00_Ramp.png",
+        "sourcePath": "Monsters/Abundance Lotus/Default/Textures/Monster_W2_HuanlongPart_00_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Lotus%2FDefault%2FTextures%2FMonster_W2_HuanlongPart_00_Ramp.png&v=9df9fb158aa6db04a810c509e00a54f4",
+        "size": 279,
+        "sha256": "704252bc406f064c0caa6c8c2b05c409aa0550ea35a1fb425b62d8ea85e9e27c",
+        "etag": "9df9fb158aa6db04a810c509e00a54f4"
+      },
+      {
+        "path": "public/assets/models/enemy_lotus/source/Default/Textures/Monster_W2_HuanlongPart_02_Color_A.png",
+        "sourcePath": "Monsters/Abundance Lotus/Default/Textures/Monster_W2_HuanlongPart_02_Color_A.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FAbundance+Lotus%2FDefault%2FTextures%2FMonster_W2_HuanlongPart_02_Color_A.png&v=967b04ad9edf061d44632f2d18f3f0bc",
+        "size": 778904,
+        "sha256": "03026eee291a4f224826b11616e6b1b34701f29285ec3db7fc0f9ff6b5ad95c0",
+        "etag": "967b04ad9edf061d44632f2d18f3f0bc"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:8012200:6b73795d3b81",
+        "entityId": "8012200",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W2_HuanlongPart_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Abundance Lotus",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_8012200.webp",
+        "outputRelativePath": "Monsters/Abundance Lotus/Default/Art_W2_HuanlongPart_00.fbx",
+        "status": "current"
+      },
+      {
+        "targetKey": "hsr:target:Monsters:8012200:87826fdd5c00",
+        "entityId": "8012200",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W2_HuanlongPart_02",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Abundance Lotus",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_8012200.webp",
+        "outputRelativePath": "Monsters/Abundance Lotus/Default/Art_W2_HuanlongPart_02.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/enemy_lotus/source/Default/Art_W2_HuanlongPart_00.fbx",
+      "public/assets/models/enemy_lotus/source/Default/Art_W2_HuanlongPart_02.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Abundance Lotus",
+    "primaryArtName": "Art_W2_HuanlongPart_00",
+    "sourceChineseName": "丰饶玄莲",
+    "fbxPath": "public/assets/models/enemy_lotus/source/Default/Art_W2_HuanlongPart_00.fbx",
+    "fbxSha256": "bb537388faaff814b84e9d1843bba0ce7fac12e99c4d8cf3c521adfd055fec84",
+    "bundlePath": "public/assets/models/enemy_lotus/bundle.json",
+    "bundleSha256": "68c80cf58aeff6edfcaad56575249e7dbae9781141ad3f3c701405cf36d9c688",
+    "glbSha256": "f904a148b6660b19841caef98cc1c0e42c844ef8c5e52d9e68daa1d3e1e8c38e",
+    "vertices": 4590,
+    "triangles": 5748,
+    "bones": 53,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "bb537388faaff814b84e9d1843bba0ce7fac12e99c4d8cf3c521adfd055fec84",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/enemy_lotus-source-snapshot.zip",
+    "archiveSha256": "2fee11eaaa1e1ef72743b63c247a0952931436a59bd22f17b546eb434bcd5ab4",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "tideAxe",
+    "monsterId": "4032030",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032030",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032030",
+    "indexPath": ".cache/monster-models/hoyotoon-tideAxe-files.json",
+    "indexSha256": "c44df15bde61b2bf11eb8ec279961f67a9538705d800b5dee4a7c786276ac4c4",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Art_W2_Valkyrie01_02.fbx",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Art_W2_Valkyrie01_02.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FArt_W2_Valkyrie01_02.fbx&v=a84ae8e8c5a427071f63f7a4ee12b65f",
+        "size": 1831188,
+        "sha256": "d7e3959ed719792560306075201d8cae4f5260caccfa6b32b3db3461f0285825",
+        "etag": "a84ae8e8c5a427071f63f7a4ee12b65f"
+      },
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Materials/W2_Valkyrie01_02_Body_Mat.json",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Materials/W2_Valkyrie01_02_Body_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FMaterials%2FW2_Valkyrie01_02_Body_Mat.json&v=a777c2a8af3c786c8d91e500405fa227",
+        "size": 5719,
+        "sha256": "6f519830015fdba5a69597e4885d41f7021bc66ed6adc2addb47ed0da2911f51",
+        "etag": "a777c2a8af3c786c8d91e500405fa227"
+      },
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Materials/W2_Valkyrie01_02_Weapon_Mat.json",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Materials/W2_Valkyrie01_02_Weapon_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FMaterials%2FW2_Valkyrie01_02_Weapon_Mat.json&v=ba648bd00faa02f6cf094d467cb89ef0",
+        "size": 5855,
+        "sha256": "47a42cdca8e87ed1226d4c0b216bc485daded8149e851e117093b54f777c6b09",
+        "etag": "ba648bd00faa02f6cf094d467cb89ef0"
+      },
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Textures/MaterialIDValuesLUTW2_Valkyrie01_02_Body_Mat.png",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Textures/MaterialIDValuesLUTW2_Valkyrie01_02_Body_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Valkyrie01_02_Body_Mat.png&v=c9c66fbda1a648725201d9a21c3be436",
+        "size": 222,
+        "sha256": "bd3a99be3ae314a76a5512ba1c85afb46dcf077f06982b7e40d5dbfdbb2eafe7",
+        "etag": "c9c66fbda1a648725201d9a21c3be436"
+      },
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Textures/MaterialIDValuesLUTW2_Valkyrie01_02_Weapon_Mat.png",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Textures/MaterialIDValuesLUTW2_Valkyrie01_02_Weapon_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Valkyrie01_02_Weapon_Mat.png&v=8bb57246c302b303de0a18d8050516d5",
+        "size": 231,
+        "sha256": "6a93c1ec85a237ee110962dd91f1391aeff27737a0ed0a4f190f92b0e4b7483c",
+        "etag": "8bb57246c302b303de0a18d8050516d5"
+      },
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Textures/Monster_W2_Valkyrie01_02_Body_Color.png",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Textures/Monster_W2_Valkyrie01_02_Body_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FTextures%2FMonster_W2_Valkyrie01_02_Body_Color.png&v=eeec9f6f8280804749f604a1caaab3b2",
+        "size": 1969604,
+        "sha256": "29859e1f0ab1b67eac0a63536cd97373c408d71fedeab043b1cbfb3c24989703",
+        "etag": "eeec9f6f8280804749f604a1caaab3b2"
+      },
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Textures/Monster_W2_Valkyrie01_02_Body_LightMap.png",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Textures/Monster_W2_Valkyrie01_02_Body_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FTextures%2FMonster_W2_Valkyrie01_02_Body_LightMap.png&v=dcb815ca95d8329912bc6e85e35c9986",
+        "size": 1850169,
+        "sha256": "96ca373b654edcea487c3ae87c714ad512724d5d3696ca71bbf4cba8cbf5780e",
+        "etag": "dcb815ca95d8329912bc6e85e35c9986"
+      },
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Textures/Monster_W2_Valkyrie01_02_Cool_Ramp.png",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Textures/Monster_W2_Valkyrie01_02_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FTextures%2FMonster_W2_Valkyrie01_02_Cool_Ramp.png&v=2aee8391e8c6cfe5717fecfcc7b0f726",
+        "size": 315,
+        "sha256": "1336be9ca68a65587a8d86f132f792cc95926ebc18ff73089ecd88a6a8317b49",
+        "etag": "2aee8391e8c6cfe5717fecfcc7b0f726"
+      },
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Textures/Monster_W2_Valkyrie01_02_Warm_Ramp.png",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Textures/Monster_W2_Valkyrie01_02_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FTextures%2FMonster_W2_Valkyrie01_02_Warm_Ramp.png&v=3a804dc618f165a1ddebd95bd0f948a6",
+        "size": 340,
+        "sha256": "384fd76b0401d3899b648ca32762882487b20598760f5b4fc835f5ac3efbb1d1",
+        "etag": "3a804dc618f165a1ddebd95bd0f948a6"
+      },
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Textures/Monster_W2_Valkyrie01_02_Weapon_Color.png",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Textures/Monster_W2_Valkyrie01_02_Weapon_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FTextures%2FMonster_W2_Valkyrie01_02_Weapon_Color.png&v=da1f0fbe56ab467a1dbab1ecdceae41e",
+        "size": 1922284,
+        "sha256": "f7e20ba33450b97a2db3d13aa6d4c4b64672dc4e78c7257f7c98bada2518c0cf",
+        "etag": "da1f0fbe56ab467a1dbab1ecdceae41e"
+      },
+      {
+        "path": "public/assets/models/tideAxe/source/Default/Textures/Monster_W2_Valkyrie01_02_Weapon_LightMap.png",
+        "sourcePath": "Monsters/Black Tide's Corroded Axe/Default/Textures/Monster_W2_Valkyrie01_02_Weapon_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FBlack+Tide%27s+Corroded+Axe%2FDefault%2FTextures%2FMonster_W2_Valkyrie01_02_Weapon_LightMap.png&v=610bdfa305dab526970feab1d61caa22",
+        "size": 1987845,
+        "sha256": "2dd6f4dc522e40e91e2c781e99fc5a916d35dcabe984b7942c59d9d9ef793b7e",
+        "etag": "610bdfa305dab526970feab1d61caa22"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:4032030:472706b5a2b2",
+        "entityId": "4032030",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W2_Valkyrie01_02",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Black Tide's Corroded Axe",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_4032030.webp",
+        "outputRelativePath": "Monsters/Black Tide's Corroded Axe/Default/Art_W2_Valkyrie01_02.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/tideAxe/source/Default/Art_W2_Valkyrie01_02.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Black Tide's Corroded Axe",
+    "primaryArtName": "Art_W2_Valkyrie01_02",
+    "sourceChineseName": "黑潮蚀斧",
+    "fbxPath": "public/assets/models/tideAxe/source/Default/Art_W2_Valkyrie01_02.fbx",
+    "fbxSha256": "d7e3959ed719792560306075201d8cae4f5260caccfa6b32b3db3461f0285825",
+    "bundlePath": "public/assets/models/tideAxe/bundle.json",
+    "bundleSha256": "5b61daade5b3a4a16923149b6e2b1cb9972d2389cf688b63ba62d07c2b69f642",
+    "glbSha256": "102990b508125f6713a75e7bc92cdb94d61890be0201ebe1fe30e33aea657d49",
+    "vertices": 17433,
+    "triangles": 17096,
+    "bones": 110,
+    "textureCount": 2,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "d7e3959ed719792560306075201d8cae4f5260caccfa6b32b3db3461f0285825",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/tideAxe-source-snapshot.zip",
+    "archiveSha256": "432bfd3f4ee93fb2141a51ff419d23796eddff218ed39e964c0632bfee4d1ce1",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "enemy_comedian",
+    "monsterId": "8012040",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012040",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012040",
+    "indexPath": ".cache/monster-models/hoyotoon-enemy_comedian-files.json",
+    "indexSha256": "0acae7b41956e7e0e1b6ee683c52b7640a044b3f62575ec240625d643c441077",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/enemy_comedian/source/Default/Art_W5_Shell_00.fbx",
+        "sourcePath": "Monsters/Comediologist/Default/Art_W5_Shell_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FComediologist%2FDefault%2FArt_W5_Shell_00.fbx&v=1b4c6151b10584443a33eb78b2e5726b",
+        "size": 627988,
+        "sha256": "58a815f28de00cdcdf50ca1fba1681f1b5a02b89d90fb4c415cf390ac005cf70",
+        "etag": "1b4c6151b10584443a33eb78b2e5726b"
+      },
+      {
+        "path": "public/assets/models/enemy_comedian/source/Default/Materials/W5_Shell_00_Mat.json",
+        "sourcePath": "Monsters/Comediologist/Default/Materials/W5_Shell_00_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FComediologist%2FDefault%2FMaterials%2FW5_Shell_00_Mat.json&v=6b06929acdb82f79d18ec4570811ece6",
+        "size": 8767,
+        "sha256": "c8679fe6df967959876fe1a7f565d52fd08a5f8c2a23b256cbbd31713913be83",
+        "etag": "6b06929acdb82f79d18ec4570811ece6"
+      },
+      {
+        "path": "public/assets/models/enemy_comedian/source/Default/Textures/Matcap_11.png",
+        "sourcePath": "Monsters/Comediologist/Default/Textures/Matcap_11.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FComediologist%2FDefault%2FTextures%2FMatcap_11.png&v=ad73f7bdecf0df0071b44b482539688e",
+        "size": 278389,
+        "sha256": "458efbec38454911cc30d3e24bf06d966073883c0c03b961973761ab293ab0b6",
+        "etag": "ad73f7bdecf0df0071b44b482539688e"
+      },
+      {
+        "path": "public/assets/models/enemy_comedian/source/Default/Textures/MaterialIDValuesLUTW5_Shell_00_Mat.png",
+        "sourcePath": "Monsters/Comediologist/Default/Textures/MaterialIDValuesLUTW5_Shell_00_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FComediologist%2FDefault%2FTextures%2FMaterialIDValuesLUTW5_Shell_00_Mat.png&v=974fe72e7413f0387c672831428dbdb8",
+        "size": 310,
+        "sha256": "a70c4a2e67fa53f2814caab5ee1d2d972e63c60f85ada7a003e679bcdcf96f5f",
+        "etag": "974fe72e7413f0387c672831428dbdb8"
+      },
+      {
+        "path": "public/assets/models/enemy_comedian/source/Default/Textures/Monster_W4_Turkey_00_Mask.png",
+        "sourcePath": "Monsters/Comediologist/Default/Textures/Monster_W4_Turkey_00_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FComediologist%2FDefault%2FTextures%2FMonster_W4_Turkey_00_Mask.png&v=65903c463d6f557e40a6fdd116630fbe",
+        "size": 53345,
+        "sha256": "026a0819369517ed908b6b9c3421c7ee8a837062e279235ad5f50f5d120ebf8f",
+        "etag": "65903c463d6f557e40a6fdd116630fbe"
+      },
+      {
+        "path": "public/assets/models/enemy_comedian/source/Default/Textures/Monster_W5_Shell_00_Body_Color_A.png",
+        "sourcePath": "Monsters/Comediologist/Default/Textures/Monster_W5_Shell_00_Body_Color_A.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FComediologist%2FDefault%2FTextures%2FMonster_W5_Shell_00_Body_Color_A.png&v=80153b56e0bd4b2262e61a587bda4f02",
+        "size": 1484446,
+        "sha256": "6d942c9d9234f4c0813f1a1c3fae2e3dfb6da99f26fccea21004b4927e0e2e2c",
+        "etag": "80153b56e0bd4b2262e61a587bda4f02"
+      },
+      {
+        "path": "public/assets/models/enemy_comedian/source/Default/Textures/Monster_W5_Shell_00_Body_LightMap.png",
+        "sourcePath": "Monsters/Comediologist/Default/Textures/Monster_W5_Shell_00_Body_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FComediologist%2FDefault%2FTextures%2FMonster_W5_Shell_00_Body_LightMap.png&v=e2c9a7490c80134767a004ed8eecb74d",
+        "size": 1226229,
+        "sha256": "e7643e3b66ba4824aed1bd7dfc446521fed522d6a7878188acd16f359bbb2812",
+        "etag": "e2c9a7490c80134767a004ed8eecb74d"
+      },
+      {
+        "path": "public/assets/models/enemy_comedian/source/Default/Textures/Monster_W5_Shell_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Comediologist/Default/Textures/Monster_W5_Shell_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FComediologist%2FDefault%2FTextures%2FMonster_W5_Shell_00_Cool_Ramp.png&v=3bed736f43ac9a0ac9f364675dd60188",
+        "size": 537,
+        "sha256": "ba6bce245b5b3d431a17203227d0e9bac6e975bf99f2a0158697fba4df4a9d38",
+        "etag": "3bed736f43ac9a0ac9f364675dd60188"
+      },
+      {
+        "path": "public/assets/models/enemy_comedian/source/Default/Textures/Monster_W5_Shell_00_Warm_Ramp.png",
+        "sourcePath": "Monsters/Comediologist/Default/Textures/Monster_W5_Shell_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FComediologist%2FDefault%2FTextures%2FMonster_W5_Shell_00_Warm_Ramp.png&v=7776a0aca6260924c846cf9dd78274da",
+        "size": 538,
+        "sha256": "4cbfa26ba9444a876dc15e8b2b1d53233a7c72543cc1be4a5477f719f8073d66",
+        "etag": "7776a0aca6260924c846cf9dd78274da"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:8012040:ae3ebdcb9779",
+        "entityId": "8012040",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W5_Shell_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Comediologist",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_8012040.webp",
+        "outputRelativePath": "Monsters/Comediologist/Default/Art_W5_Shell_00.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/enemy_comedian/source/Default/Art_W5_Shell_00.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Comediologist",
+    "primaryArtName": "Art_W5_Shell_00",
+    "sourceChineseName": "喜剧学家",
+    "fbxPath": "public/assets/models/enemy_comedian/source/Default/Art_W5_Shell_00.fbx",
+    "fbxSha256": "58a815f28de00cdcdf50ca1fba1681f1b5a02b89d90fb4c415cf390ac005cf70",
+    "bundlePath": "public/assets/models/enemy_comedian/bundle.json",
+    "bundleSha256": "645d40d7aea2b090d75d20c0ac3ee0b7c2a961030ac3e5d36640b7d90e8d04fe",
+    "glbSha256": "b6a3248a8afd71a2c43a614f9815c08cbdd2cdb9244aa1a0844713841541c770",
+    "vertices": 7530,
+    "triangles": 8002,
+    "bones": 21,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "58a815f28de00cdcdf50ca1fba1681f1b5a02b89d90fb4c415cf390ac005cf70",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/enemy_comedian-source-snapshot.zip",
+    "archiveSha256": "f15bee345caf5c9a3a93e83a27f17fb4d5b3c55790256706a030c4eeb3509246",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "enemy_retainer",
+    "monsterId": "4012010",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4012010",
+    "sourceKind": "public-hoyotoon-original-game-asset-mirror",
+    "indexUrl": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4012010",
+    "indexPath": ".cache/monster-models/hoyotoon-enemy_retainer-files.json",
+    "indexSha256": "22631e3edca5ea542c2d53ed4996714a144c1b3157c584038af36b9c39e6fb9d",
+    "status": "converted",
+    "files": [
+      {
+        "path": "public/assets/models/enemy_retainer/source/Default/Art_W4_Strongman_00.fbx",
+        "sourcePath": "Monsters/Furiae Warrior/Default/Art_W4_Strongman_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFuriae+Warrior%2FDefault%2FArt_W4_Strongman_00.fbx&v=e0f814c665725f3655b2377cc4f61821",
+        "size": 1634836,
+        "sha256": "515fbdec390c97f15496fa47b7e2d7c2b778c84e37f93c074a0c03272c2cebd5",
+        "etag": "e0f814c665725f3655b2377cc4f61821"
+      },
+      {
+        "path": "public/assets/models/enemy_retainer/source/Default/Materials/W4_Strongman_00_Mat_D.json",
+        "sourcePath": "Monsters/Furiae Warrior/Default/Materials/W4_Strongman_00_Mat_D.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFuriae+Warrior%2FDefault%2FMaterials%2FW4_Strongman_00_Mat_D.json&v=6a7ddd6a4c6fd96275c7768de38945be",
+        "size": 7249,
+        "sha256": "bb8e3ea43ece10139176a3b29f5dc6e47e3b34909caab023669cb3b1ba4cdfeb",
+        "etag": "6a7ddd6a4c6fd96275c7768de38945be"
+      },
+      {
+        "path": "public/assets/models/enemy_retainer/source/Default/Materials/W4_Strongman_00_Mat_S.json",
+        "sourcePath": "Monsters/Furiae Warrior/Default/Materials/W4_Strongman_00_Mat_S.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFuriae+Warrior%2FDefault%2FMaterials%2FW4_Strongman_00_Mat_S.json&v=ac11c97fd9152d5d5438c800e5ee574d",
+        "size": 7227,
+        "sha256": "239015dbb0dade5fc2bdaae035c05169a08669ec111bfa3cbd5a8524bba089d2",
+        "etag": "ac11c97fd9152d5d5438c800e5ee574d"
+      },
+      {
+        "path": "public/assets/models/enemy_retainer/source/Default/Textures/MaterialIDValuesLUTW4_Strongman_00_Mat_D.png",
+        "sourcePath": "Monsters/Furiae Warrior/Default/Textures/MaterialIDValuesLUTW4_Strongman_00_Mat_D.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFuriae+Warrior%2FDefault%2FTextures%2FMaterialIDValuesLUTW4_Strongman_00_Mat_D.png&v=0b0b9a21640b7bd6b440eb98acb0b1b7",
+        "size": 314,
+        "sha256": "25fd9a13847db2595dc59e0a9712bc5c01c738bc63397dd6683f4998e480873c",
+        "etag": "0b0b9a21640b7bd6b440eb98acb0b1b7"
+      },
+      {
+        "path": "public/assets/models/enemy_retainer/source/Default/Textures/MaterialIDValuesLUTW4_Strongman_00_Mat_S.png",
+        "sourcePath": "Monsters/Furiae Warrior/Default/Textures/MaterialIDValuesLUTW4_Strongman_00_Mat_S.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFuriae+Warrior%2FDefault%2FTextures%2FMaterialIDValuesLUTW4_Strongman_00_Mat_S.png&v=8c84a9cd4f33f0cc87f303aacd49b2dc",
+        "size": 317,
+        "sha256": "71cf0228694b453dd31699f0a056e7c971a7a67fffbdcbce968cf51f643d44c1",
+        "etag": "8c84a9cd4f33f0cc87f303aacd49b2dc"
+      },
+      {
+        "path": "public/assets/models/enemy_retainer/source/Default/Textures/Monster_W4_Strongman_00_Body_Color_A.png",
+        "sourcePath": "Monsters/Furiae Warrior/Default/Textures/Monster_W4_Strongman_00_Body_Color_A.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFuriae+Warrior%2FDefault%2FTextures%2FMonster_W4_Strongman_00_Body_Color_A.png&v=a781d62895090a19a3592aee03863ec4",
+        "size": 4198732,
+        "sha256": "edbb1d3af339dc3cc19468eba3606a44f1e384718dc72184c82dde8bb4a48aa9",
+        "etag": "a781d62895090a19a3592aee03863ec4"
+      },
+      {
+        "path": "public/assets/models/enemy_retainer/source/Default/Textures/Monster_W4_Strongman_00_Body_LightMap.png",
+        "sourcePath": "Monsters/Furiae Warrior/Default/Textures/Monster_W4_Strongman_00_Body_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFuriae+Warrior%2FDefault%2FTextures%2FMonster_W4_Strongman_00_Body_LightMap.png&v=938b1e0aaa3e9afdf952ca14a2632cb4",
+        "size": 3397498,
+        "sha256": "b85f79996158fe31358ac64c0e28700b3613f3e9df7ac5ad2c17354d02746716",
+        "etag": "938b1e0aaa3e9afdf952ca14a2632cb4"
+      },
+      {
+        "path": "public/assets/models/enemy_retainer/source/Default/Textures/Monster_W4_Strongman_00_Cool_Ramp.png",
+        "sourcePath": "Monsters/Furiae Warrior/Default/Textures/Monster_W4_Strongman_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFuriae+Warrior%2FDefault%2FTextures%2FMonster_W4_Strongman_00_Cool_Ramp.png&v=48f163212daea9b6da48a3310c6c52eb",
+        "size": 1220,
+        "sha256": "5624d3a735bf6ab1c4f7be5b793228fe5fa89d22550027a30258a3f26b1723cb",
+        "etag": "48f163212daea9b6da48a3310c6c52eb"
+      },
+      {
+        "path": "public/assets/models/enemy_retainer/source/Default/Textures/Monster_W4_Strongman_00_Warm_Ramp.png",
+        "sourcePath": "Monsters/Furiae Warrior/Default/Textures/Monster_W4_Strongman_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFuriae+Warrior%2FDefault%2FTextures%2FMonster_W4_Strongman_00_Warm_Ramp.png&v=bca036ff3f6392ebc8b99c07c575554e",
+        "size": 1299,
+        "sha256": "89fe6f626a9e9cd3f44caac6875084836bbb07b6d7c57f689234b1c5ba8672f6",
+        "etag": "bca036ff3f6392ebc8b99c07c575554e"
+      }
+    ],
+    "targets": [
+      {
+        "targetKey": "hsr:target:Monsters:4012010:8ec096689475",
+        "entityId": "4012010",
+        "targetTable": "Monsters",
+        "targetKind": "animator",
+        "entityScope": "monsters",
+        "matchMode": "exactName",
+        "name": "Art_W4_Strongman_00",
+        "outputCategory": "Monsters",
+        "outputEntityName": "Furiae Warrior",
+        "outputVariantName": "Default",
+        "displayImageUrl": "https://static.nanoka.cc/assets/hsr/mostericon/monster_4012010.webp",
+        "outputRelativePath": "Monsters/Furiae Warrior/Default/Art_W4_Strongman_00.fbx",
+        "status": "current"
+      }
+    ],
+    "rules": "Public third-party game asset archive; copyright remains miHoYo/HoYoverse. No free redistribution permission is inferred.",
+    "verification": {
+      "browserRenderVerified": false,
+      "converted": true,
+      "allIndexedFilesDownloaded": true,
+      "sourceSizesVerified": true,
+      "rawFbxUnchanged": true,
+      "allSourceHashesVerified": true,
+      "embeddedImagesAndBuffers": true
+    },
+    "fbxPaths": [
+      "public/assets/models/enemy_retainer/source/Default/Art_W4_Strongman_00.fbx"
+    ],
+    "sourceFormat": "fbx",
+    "sourceName": "Furiae Warrior",
+    "primaryArtName": "Art_W4_Strongman_00",
+    "sourceChineseName": "天谴斗士",
+    "fbxPath": "public/assets/models/enemy_retainer/source/Default/Art_W4_Strongman_00.fbx",
+    "fbxSha256": "515fbdec390c97f15496fa47b7e2d7c2b778c84e37f93c074a0c03272c2cebd5",
+    "bundlePath": "public/assets/models/enemy_retainer/bundle.json",
+    "bundleSha256": "8e4b18e6d623456445bcea8364b0d26ba278eaace6440e6d9c66478dab8b2708",
+    "glbSha256": "81c1c8a5edc3e71df9bde27d70d6ef27a83af8b7b8f0fd78b89192b6f22e60bf",
+    "vertices": 16353,
+    "triangles": 14547,
+    "bones": 92,
+    "textureCount": 1,
+    "animations": [],
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": []
+    },
+    "materialLimitations": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+    "sourceSha256": "515fbdec390c97f15496fa47b7e2d7c2b778c84e37f93c074a0c03272c2cebd5",
+    "pmxSha256": null,
+    "archive": ".cache/monster-models/enemy_retainer-source-snapshot.zip",
+    "archiveSha256": "ee88353d96a32ec7c933e4616024fe5685fd3b69c3b8cc180f26c9008d3cdd6f",
+    "archiveKind": "locally-created-lossless-snapshot-of-published-original-files",
+    "adaptation": "The earlier fictional label 演算眷属 is replaced by exact source enemy 天谴斗士 / Furiae Warrior (4012010), a documented summon of Lycurgus. Stable gameplay id enemy_retainer is preserved.",
+    "identityEvidence": "docs/boss-lycurgus-source.html:1938-1942 lists 天谴斗士, 黑潮蚀刃, 黑潮蚀斧 as summons; catalogue primaryArtName Art_W4_Strongman_00.",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  }
+]

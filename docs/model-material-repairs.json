@@ -1,0 +1,894 @@
+[
+  {
+    "id": "boss_lycurgus",
+    "source": "https://github.com/Phoshco/hsr/tree/main/chars/Lygus/Lygus_boss",
+    "sha256": "15ae8cdf5e6bb99949db926b1135f82ced4f9789f7e91001d09e51b643207e77",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "耳",
+        "texture": "textures\\Monster_W4_Theoroi_00_Color_A_L.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "elation",
+    "source": "https://drive.google.com/drive/folders/1CZW76ryegfea5sVZQOKSgwor47MUQPKe",
+    "sha256": "c2aab160829fc2d7ab0329f91df6528c2bb898272318e4bb635e6016179d0716",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1009",
+    "source": "https://drive.google.com/drive/folders/13eXqZGzEbbOQUbhRSpkg39vV4d_zPw8p",
+    "sha256": "d8eda15a034d55b90618fd995437ad5079abfe5190565a640e939dcc1dfe7ce0",
+    "textures": {
+      "Avatar_Asta_00_Face_Color.png": {
+        "width": 256,
+        "height": 256,
+        "source": "颜.png",
+        "referenceRepair": "同一角色原包：內遮为56三角头部内部封口，112/168顶点与现有臉材质共享位置；现有臉、眼、眉目等均引用颜.png。核对原包脸部图集与UV范围后修复旧命名引用，原外脸不变。"
+      },
+      "Avatar_Asta_00_Body1_Color.png": {
+        "width": 256,
+        "height": 256,
+        "source": "服.png",
+        "referenceRepair": "同一角色原包：上衣內襯+的全部2506顶点与上衣材质的位置和UV完全一致，上衣已经引用服.png；使用同一服装图集修复旧英文命名。"
+      },
+      "Avatar_Asta_00_Body2_Color_A.png": {
+        "width": 256,
+        "height": 256,
+        "source": "外套.png",
+        "referenceRepair": "同一角色原包：裙內側2+的全部130顶点与下擺材质共享位置和周期UV，下擺已经引用外套.png；核对图集与UV后修复旧英文命名。"
+      }
+    },
+    "omittedTransparentMaterials": []
+  },
+  {
+    "id": "hsr_1014",
+    "source": "https://drive.google.com/drive/folders/15CdO4WGvHWHsrx8kYxYBrHk0b5L6FSpZ",
+    "sha256": "bd97f650fbc54a505cefb90169a1d2a9539721cf72e194dfef2dd79724e0ab70",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1015",
+    "source": "https://drive.google.com/drive/folders/1XzAuJosP0ucHRdVuxvzWQfjFW_yFlFM6",
+    "sha256": "ad5f5b11dc07af7b9f81edea8f572e7d1e29f38eea0780d166525223076343df",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1111",
+    "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/QcVAkvL1bs.rar",
+    "sha256": "277f27d6f376df95eb20f38cbc7af26de7a58a020e6082275de9938e1f4b8967",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1201",
+    "source": "https://drive.google.com/drive/folders/1MaHPhOlWX40_D8wxa5UBzU2rmIdK8CJa",
+    "sha256": "ab5e739c2bbd0fdeaecf8890a5c223c9db20bdc8e8fb9331d01962d4724ecab8",
+    "textures": {
+      "Avatar_Qingque_00_Face_Color.png": {
+        "width": 256,
+        "height": 256,
+        "source": "颜.png",
+        "referenceRepair": "同一角色原包：缺失引用只用于Face_Mask_Mat1的42三角内部封口，其中80/119顶点位于已有顏材质边界；顏、白目、目、眉目等均引用颜.png。此内部封口保留原包退化UV，明确以本角色现有脸图集修复错误文件名；未改外脸UV或几何。"
+      }
+    },
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1202",
+    "source": "https://drive.google.com/drive/folders/1SwRki8EiojXKmuagBajGPiZ4tT94LF8C",
+    "sha256": "ff4059992ab4f76b121024b435d7bd825ee2f33bc47cf93ef6f4e0ef2fafcd10",
+    "textures": {
+      "lambert2": {
+        "width": 256,
+        "height": 256,
+        "source": "颜.jpg",
+        "referenceRepair": "同一角色原包：lambert2是残留材质名，缺失引用只用于顏遮的52三角内部封口，其中82/156顶点位于现有颜材质边界；颜、口齿、白目、目、眉目均引用颜.jpg。此遮挡面保留原包退化UV，以本角色现有脸图集修复不可解析引用；不声称恢复原引擎遮挡着色器。"
+      }
+    },
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1207",
+    "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/2GVrBDsQ92.rar",
+    "sha256": "6c49a507f6df444efca37973fc9c2d74c861c84de779e9dbbe2dd479917a0986",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1210",
+    "source": "https://activity.hdslb.com/blackboard/static/20231007/952f7c986d30869651e51a154c9fc2bc/U0YQ2NzsiE.rar",
+    "sha256": "6fe17ff580be5e20363d860e3654e8c8eedfe07a9a442ecd2200e7c95a8a1cab",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1218",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1722339646643.zip",
+    "sha256": "90fba8e096bcd991e88bf3aa0bd0863b85cda1c3a99260a5c94caebd26ef3bd6",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1220",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1725879800506.zip",
+    "sha256": "8d4f863e7698d048da5ba11e03c620dea1a6b0c9a1365e43ad65a4ca77bfd1c3",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1222",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1725879805144.zip",
+    "sha256": "98ae113d08a92261ed8d1f0f453c7941aacc13c7394a9d82f643aeb6933cdd67",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1223",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1725879807990.zip",
+    "sha256": "3ed049a5d222b6cd38ae4e51f7e0cba5d9c35634b0e6d2cbd215988fb63227b0",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1224",
+    "source": "https://drive.google.com/drive/folders/19yaTk8F808zXZAOZsKK5iKUZFUw2NbWr",
+    "sha256": "25f5a15979dbbe700c137db6029f2e9ada95820ab8d4434d799c7d58f5882503",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1302",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/f985944a62b756dbd4f9d46c618cf0ec/1699937217222.zip",
+    "sha256": "ad22c294d33f5626df2ac6d2704cf4eb41ec9902cb794269fd39514d697aeeaa",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1305",
+    "source": "https://activity.hdslb.com/blackboard/static/20231226/c5a22796cbc31f5e9b4f05b38ba40c0c/7CHr4B4nKE.zip",
+    "sha256": "13bf432e06394e98468787eeadd1d0af53184982338a8298ec9238c848d02360",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1317",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1729577545656.zip",
+    "sha256": "4bca7af5ee78fcfb7553f9cdd30bc057316261ee0b2ad5da8f98e17c1d4375e0",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1321",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/20251215/c5a22796cbc31f5e9b4f05b38ba40c0c/lcXppcxNLZ.zip",
+    "sha256": "ccb0f39f8bd50e06003764a1be0cc6b77eacc6f233aeb000781ae7c51d20fa6b",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜赤+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "爪",
+        "texture": "武器.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1401",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/587f0b14d5bd43274c379bb869cc385d/1736826919628.7z",
+    "sha256": "3c19c6b2f888e1285244aa1c10168302acf03254e102e928e76ab9b8437f61fa",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1402",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/587f0b14d5bd43274c379bb869cc385d/1736826919628.7z",
+    "sha256": "8f43b620d5815c2dea685a62a0384ab3a0e067548fdcfcae3f2b1c923f00a029",
+    "textures": {
+      "Avatar_Aglaea_00_Face_Color.png": {
+        "width": 256,
+        "height": 256,
+        "source": "顏.png",
+        "referenceRepair": "官方3.0原包齿材质164三角的112个唯一UV顶点，均落在原包顏.png的纯白牙齿区域；UV范围u=.427142–.489258,v=.012378–.093233。口与舌材质使用同图并准确对应暗红口腔、粉色舌区域。保留原PMX字节，仅修复缺失贴图引用。"
+      }
+    },
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1403",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/587f0b14d5bd43274c379bb869cc385d/1736826919628.7z",
+    "sha256": "4dfe9a9d6c1060e33bf9f9b95add1f17de5e5d1bf14a445da4dea6fcbf9b38e5",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1404",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/587f0b14d5bd43274c379bb869cc385d/1736826919628.7z",
+    "sha256": "d57da65c6cb62668614a150043ec88bcb1349ff18a30eea329a8a0488457b0e1",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1405",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1744179363242.zip",
+    "sha256": "7a683754f17e877cf8513a1e7bf21d79a681c463c7179aacd9ff7b855ab79658",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1406",
+    "source": "https://activity.hdslb.com/blackboard/static/20250519/c5a22796cbc31f5e9b4f05b38ba40c0c/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E2%80%94%E8%B5%9B%E9%A3%9E%E5%84%BF%EF%BC%88%E5%90%AB%E6%AD%A6%E5%99%A8%EF%BC%89.zip",
+    "sha256": "14baa4f13b37e8a0db01cc72e93c44fd2021019492f41047ddf0bf6106b2a43e",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1407",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1744179359809.zip",
+    "sha256": "854d6ab91e88ff2c9f652b5c483fe85665ef5fa6792ca686a4de31d2ef2531e8",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "焰色",
+        "texture": "焰色_UV.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1408",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1751363841352.zip",
+    "sha256": "4cab67ad332002aa75f980336b831b87e6bc88ebcfad907739e3f7d85624914f",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1409",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1747638220112.zip",
+    "sha256": "0bd011b0c4dd7574b9dab49859d47d4c1640a5aa430c1e4cce5ae3aa742b7901",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1410",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/20250812/c5a22796cbc31f5e9b4f05b38ba40c0c/3vrAsljiyo.zip",
+    "sha256": "faeff39dbc2779c85561980eead353276f8b6136e16c171fa3e48a8f3ea89608",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1412",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/20250812/c5a22796cbc31f5e9b4f05b38ba40c0c/n6FbzjxUGF.zip",
+    "sha256": "a974d54c2c89be6017bc28c0fe6f80a621ad314cbc8152df1a9037abb3dcd407",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1413",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/20250922/c5a22796cbc31f5e9b4f05b38ba40c0c/EpZlNaIWyd.zip",
+    "sha256": "f6c30cd49ec1818b4f200f216f290a15570f0fffbc0e05ffba60547bf8a1e560",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1415",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1762258970816.zip",
+    "sha256": "286b59791f260d6b682afd0c5104a7764053474cb5d49d39e38e12f435a8a93e",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "顏2+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "髮飾环",
+        "texture": "纱.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "髮飾环+",
+        "texture": "纱.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "衣後紗2+",
+        "texture": "纱.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "衣後紗2",
+        "texture": "纱.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "頭紗",
+        "texture": "纱.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "頭紗+",
+        "texture": "纱.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1501",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/20260211/c5a22796cbc31f5e9b4f05b38ba40c0c/qddDq6tEdN.zip",
+    "sha256": "25e7f7fa68cdea771a04d50d32e94c206fb7e459a95095372d61445228fc69be",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1502",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/20260211/c5a22796cbc31f5e9b4f05b38ba40c0c/vgYXOMF8Nb.zip",
+    "sha256": "133a3ae7eaab7d1f9238cfcb9cec0c09c020f38e7e88c00ee680b2c3f692eb42",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1504",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/20260324/c5a22796cbc31f5e9b4f05b38ba40c0c/CSPLvwRDPX.zip",
+    "sha256": "43424506c932b8673772bfdab72918a34bb3e7613f39e90d1a719e416b730b31",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1505",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/20260421/c5a22796cbc31f5e9b4f05b38ba40c0c/EEx05NWVGY.zip",
+    "sha256": "f053c748337e1f116d1a6c6ea1f838b55c4e3ac2acd3f8df2dfc44bb98264321",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "電子寵物蛋表情2",
+        "texture": "电子宠物蛋.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "電子寵物蛋表情3",
+        "texture": "电子宠物蛋.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "電子寵物蛋表情4",
+        "texture": "电子宠物蛋.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "電子寵物蛋空白",
+        "texture": "电子宠物蛋.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1506",
+    "source": "https://jssz-boss.hdslb.com/activity_admin_upload/8201/10377/11850/星穹铁道—银狼LV.999.zip",
+    "sha256": "6482df360f04519f2108aad49c0593297f96bba082ad86fd7e29008d3be477cc",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "大翼骨",
+        "texture": "翼.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "大光翼AL",
+        "texture": "光翼.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "目镜",
+        "texture": "镜.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "目鏡+",
+        "texture": "镜.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1507",
+    "source": "https://jssz-boss.hdslb.com/activity_admin_upload/10613/11875/11876/星穹铁道—千冶·刃.zip",
+    "sha256": "a633c9aa4a348c915415970cce097b9cb771bc785540a0e186bc25889c20c60b",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "肌+",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "躯+",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "内着+",
+        "texture": "衣2N.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "外衣+",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "外衣++",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "衣+",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "外衣饰+",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "腰侧带+",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "腰侧带++",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "衣金属+",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "肌+2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "躯+2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "内着+2",
+        "texture": "衣3N.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "颜+2",
+        "texture": "颜2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "颜2+2",
+        "texture": "颜2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "眼线+2",
+        "texture": "颜2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "眉睫+2",
+        "texture": "颜2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "白目+2",
+        "texture": "颜2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "目+2",
+        "texture": "颜2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "外衣+2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "外衣++2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "衣+2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "髪+2",
+        "texture": "髪2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "外衣饰+2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "耳髪饰+2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "腰挂+2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "腰挂++2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "衣金属+2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "衣带++",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "衣带+",
+        "texture": "衣2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "衣带++2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "衣带+2",
+        "texture": "衣3.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "颜赤",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "颜赤+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "纹",
+        "texture": "饰1.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "纹+",
+        "texture": "饰2.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1508",
+    "source": "https://drive.google.com/drive/folders/1bUXlaTaxAieKl4PMSI-NRSQFmwpLcZec",
+    "sha256": "eb082ddedbff3d6c7e0551778673988fe9f86e05bc11d8a2baabeaf947cbaef7",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏赤+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1509",
+    "source": "https://drive.google.com/drive/folders/16txH4kCG5CvD0qZ2xwNX0Vv2h1Vezocl",
+    "sha256": "f03b66dc3d241bfc7ec6941894bd460f2028080b252bb1f490c99b6c32e83c5d",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏赤",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1510",
+    "source": "https://jssz-boss.hdslb.com/activity_admin_upload/8201/10377/11850/星穹铁道—姬子·启行（含机甲）.zip",
+    "sha256": "4272f357bc5c26b78cff321f30016fe8337dfeccf7ded7c9eaa370de74a2e1f9",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜赤",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1512",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/8201/10377/11850/20260824/d41d8cd98f00b204e9800998ecf8427e/qRHFwTa0zP.zip",
+    "sha256": "50f209e6c0c155a3020e7a58901ae94bc5cdf0ee596b902c6a83fb1e9feadad9",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜赤",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "hsr_1513",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/8201/10377/11850/20260824/d41d8cd98f00b204e9800998ecf8427e/iM3gQ87o6q.zip",
+    "sha256": "d7a20661c7ccb1df0d95d9ff81c12e64d0e0586f093eb7a97174854e2c1d0701",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜赤",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "permansor",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/20250922/c5a22796cbc31f5e9b4f05b38ba40c0c/WzmqppcTIx.zip",
+    "sha256": "359b8f9c1411a12bd816d7891a50f8554b7460268c8bf79f0624b74f7e3a1246",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "remembrance",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/587f0b14d5bd43274c379bb869cc385d/1736826919628.7z",
+    "sha256": "eb0d09c6e41b2948d6fe9b62faeb204ad77dd583fa1b4705fd2b31affe04fe46",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  },
+  {
+    "id": "yunli",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1722339659553.zip",
+    "sha256": "d1d3ef7272fc9f083f3176e73b6c6590dd6b68024edc2a516b9a9a5749ab8b22",
+    "textures": {},
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ]
+  }
+]

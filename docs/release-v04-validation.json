@@ -1,0 +1,23 @@
+{
+  "version": "0.4.0",
+  "zipBytes": 241584948,
+  "zipSha256": "e44d9c32ced725ab628a834c12be6afb1bdca40ccc6bf0fd887ac3848bddb1fe",
+  "htmlMatchesBuild": true,
+  "crcVerified": true,
+  "files": [
+    "星穹防线.html",
+    "README-先读我.txt",
+    "模型来源与使用边界.md",
+    "角色与怪物图片来源.json",
+    "模型接入清单.json"
+  ],
+  "cards3d": 92,
+  "enemies3d": 31,
+  "automatedTestsPassed": 119,
+  "browserReports": [
+    "tests/evidence/browser-report.json",
+    "tests/evidence/facing-pompom/report.json",
+    "tests/evidence/monster-roster/report.json"
+  ],
+  "normalResourceCampaigns": 15
+}

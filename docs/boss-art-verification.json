@@ -1,0 +1,47 @@
+[
+  {
+    "id": "boss_dominicus",
+    "width": 1024,
+    "height": 1024,
+    "hasAlpha": true,
+    "originalSha256": "928c9fe6a9812d8deb96e808761130ff70eefff079063c29f6032ce67504fad6",
+    "displayBytes": 278984,
+    "representation": "Original game-art raster used as a 2D battlefield projection, not a 3D model"
+  },
+  {
+    "id": "boss_doomsday",
+    "width": 1024,
+    "height": 1024,
+    "hasAlpha": true,
+    "originalSha256": "f2f24517838a4102baf7c34398d1fd00ae557b0eb6fea641850021fc66fbef25",
+    "displayBytes": 225656,
+    "representation": "Original game-art raster used as a 2D battlefield projection, not a 3D model"
+  },
+  {
+    "id": "boss_guiji",
+    "width": 2048,
+    "height": 2048,
+    "hasAlpha": true,
+    "originalSha256": "d560bc4a88728beb1bd0c767167956b709e5f139550f0d0a0f08bac1e21642c1",
+    "displayBytes": 256420,
+    "representation": "Original game-art raster used as a 2D battlefield projection, not a 3D model"
+  },
+  {
+    "id": "boss_lycurgus",
+    "width": 1024,
+    "height": 1024,
+    "hasAlpha": true,
+    "originalSha256": "33401dd3a5326b15233fe694d935056ccca432a32e8c4a450af49e67797e9d8f",
+    "displayBytes": 128534,
+    "representation": "Original game-art raster used as a 2D battlefield projection, not a 3D model"
+  },
+  {
+    "id": "boss_phantylia",
+    "width": 1024,
+    "height": 911,
+    "hasAlpha": true,
+    "originalSha256": "c342a94c66a0101a05d900953eafe70a739aea6360b432508e1b79f9782a880d",
+    "displayBytes": 226146,
+    "representation": "Original game-art raster used as a 2D battlefield projection, not a 3D model"
+  }
+]

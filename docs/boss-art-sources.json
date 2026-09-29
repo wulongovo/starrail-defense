@@ -1,0 +1,75 @@
+{
+  "dominicus": [
+    {
+      "alt": "立绘-敌人-「齐响诗班」神主日.png",
+      "src": "https://patchwiki.biligame.com/images/sr/b/b6/2lzuf8pg6xvtyp6crbjw5s2u0d3q5yj.png",
+      "width": "1024",
+      "height": "1024"
+    },
+    {
+      "alt": "建模-敌人-「齐响诗班」神主日.png",
+      "src": "https://patchwiki.biligame.com/images/sr/a/aa/k9feif3kous016de6k463yyzp02dsw9.png",
+      "width": "2094",
+      "height": "2094"
+    }
+  ],
+  "doomsday": [
+    {
+      "alt": "立绘-敌人-末日兽.png",
+      "src": "https://patchwiki.biligame.com/images/sr/6/6c/gux893nhi2yk3ngk5j2k793eso9aau3.png",
+      "width": "1024",
+      "height": "1024"
+    },
+    {
+      "alt": "建模-敌人-末日兽.png",
+      "src": "https://patchwiki.biligame.com/images/sr/4/42/8zd6vvbpk2fdv3jbfr1n4e2puclrkwh.png",
+      "width": "600",
+      "height": "600"
+    }
+  ],
+  "guiji": [
+    {
+      "alt": "立绘-敌人-万色返空主，归寂.png",
+      "src": "https://patchwiki.biligame.com/images/sr/7/71/5gcp2tz44crygicfto2pf7mtbjuqfuy.png",
+      "width": "2048",
+      "height": "2048"
+    },
+    {
+      "alt": "建模-敌人-万色返空主，归寂.png",
+      "src": "https://patchwiki.biligame.com/images/sr/2/2a/5gcp2tz44crygicfto2pf7mtbjuqfuy.png",
+      "width": "2048",
+      "height": "2048"
+    }
+  ],
+  "lycurgus": [
+    {
+      "src": "https://patchwiki.biligame.com/images/sr/6/65/emfulo61fx15ucccpkj5utqrty9qoh9.png",
+      "sourcePage": "https://wiki.biligame.com/sr/第一位天才，隐德来希，赞达尔",
+      "height": 1024,
+      "alt": "立绘-敌人-第一位天才，隐德来希，赞达尔.png",
+      "width": 1024
+    }
+  ],
+  "phantylia": [
+    {
+      "id": "boss_phantylia",
+      "name": "不死神实·幻胧",
+      "asset": "public/assets/characters/boss_phantylia.png",
+      "sourcePage": "https://esports.gg/news/honkai-star-rail/honkai-star-rail-yunli-farming-guide/",
+      "sourceImage": "https://media.esports.gg/uploads/2024/07/phantylia-the-undying-enemy_icon_splash.webp",
+      "sourceAttribution": "Source article labels this image as Image via miHoYo. Downloaded from independent public esports.gg hosting, not official CDN.",
+      "sourceSha256": "31b7d3157e4fff4433371b84f40b98bf1b76aeba90ac8f837d0460fbe6115430",
+      "outputSha256": "c342a94c66a0101a05d900953eafe70a739aea6360b432508e1b79f9782a880d",
+      "width": 1024,
+      "height": 911,
+      "mode": "RGBA",
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "transformation": "WebP decoded and losslessly saved as PNG at original resolution; no redrawing, background removal or cropping.",
+      "assetType": "original-game enemy portrait raster, not a 3D model",
+      "visuallyInspected": true
+    }
+  ]
+}

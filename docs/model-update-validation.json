@@ -1,0 +1,34 @@
+{
+  "version": "0.3.0",
+  "verifiedAt": "2026-09-29T03:01:59.931Z",
+  "unitTests": {
+    "passed": 97,
+    "failed": 0
+  },
+  "cardsRendered": 92,
+  "rigBundles": 95,
+  "walking": [
+    "standing original models do not step in place",
+    "actual positional travel advances gait and weighted D legs",
+    "pause freezes real skeleton pose",
+    "stop eases into a planted idle pose"
+  ],
+  "offlineLoadAndModelMs": 20222,
+  "offlineNetworkRequests": 0,
+  "browserErrors": [],
+  "archive": {
+    "zip": "D:\\daily\\starrail-defense\\release\\星穹防线-0.3.0-local-preview.zip",
+    "bytes": 205480316,
+    "files": [
+      "星穹防线.html",
+      "README-先读我.txt",
+      "模型来源与使用边界.md",
+      "角色与怪物图片来源.json",
+      "模型接入清单.json"
+    ],
+    "htmlSha256": "0174269ab7827b307ccc4dea7e35c70364413674e9e0e00ab93996e679b059c1",
+    "crcPassed": true,
+    "coverage": 92
+  },
+  "scope": "Model inventory and synthetic motion/boss fixtures plus actual UI smoke checks; not full campaign playthrough or original game animation."
+}

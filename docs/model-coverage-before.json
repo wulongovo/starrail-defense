@@ -1,0 +1,554 @@
+[
+  {
+    "id": "robin",
+    "name": "知更鸟",
+    "gameId": "1309",
+    "model": true
+  },
+  {
+    "id": "march",
+    "name": "三月七",
+    "gameId": "1001",
+    "model": true
+  },
+  {
+    "id": "gepard",
+    "name": "杰帕德",
+    "gameId": "1104",
+    "model": true
+  },
+  {
+    "id": "aventurine",
+    "name": "砂金",
+    "gameId": "1304",
+    "model": true
+  },
+  {
+    "id": "trailblazer",
+    "name": "毁灭开拓者",
+    "gameId": "8002",
+    "model": true
+  },
+  {
+    "id": "herta",
+    "name": "黑塔",
+    "gameId": "1013",
+    "model": true
+  },
+  {
+    "id": "himeko",
+    "name": "姬子",
+    "gameId": "1003",
+    "model": true
+  },
+  {
+    "id": "dan",
+    "name": "丹恒",
+    "gameId": "1002",
+    "model": true
+  },
+  {
+    "id": "bailu",
+    "name": "白露",
+    "gameId": "1211",
+    "model": true
+  },
+  {
+    "id": "kafka",
+    "name": "卡芙卡",
+    "gameId": "1005",
+    "model": true
+  },
+  {
+    "id": "silverWolf",
+    "name": "银狼",
+    "gameId": "1006",
+    "model": true
+  },
+  {
+    "id": "firefly",
+    "name": "流萤",
+    "gameId": "1310",
+    "model": true
+  },
+  {
+    "id": "fugue",
+    "name": "忘归人",
+    "gameId": "1225",
+    "model": false
+  },
+  {
+    "id": "yunli",
+    "name": "云璃",
+    "gameId": "1221",
+    "model": false
+  },
+  {
+    "id": "imbibitor",
+    "name": "丹恒·饮月",
+    "gameId": "1213",
+    "model": false
+  },
+  {
+    "id": "permansor",
+    "name": "丹恒·腾荒",
+    "gameId": "1414",
+    "model": false
+  },
+  {
+    "id": "jingyuan",
+    "name": "景元",
+    "gameId": "1204",
+    "model": false
+  },
+  {
+    "id": "ruanmei",
+    "name": "阮·梅",
+    "gameId": "1303",
+    "model": false
+  },
+  {
+    "id": "acheron",
+    "name": "黄泉",
+    "gameId": "1308",
+    "model": false
+  },
+  {
+    "id": "topaz",
+    "name": "托帕",
+    "gameId": "1112",
+    "model": false
+  },
+  {
+    "id": "blade",
+    "name": "刃",
+    "gameId": "1205",
+    "model": true
+  },
+  {
+    "id": "sampo",
+    "name": "桑博",
+    "gameId": "1108",
+    "model": true
+  },
+  {
+    "id": "sparkle",
+    "name": "花火",
+    "gameId": "1306",
+    "model": true
+  },
+  {
+    "id": "bronya",
+    "name": "布洛妮娅",
+    "gameId": "1101",
+    "model": true
+  },
+  {
+    "id": "sunday",
+    "name": "星期日",
+    "gameId": "1313",
+    "model": true
+  },
+  {
+    "id": "hsr_1004",
+    "name": "瓦尔特",
+    "gameId": "1004",
+    "model": false
+  },
+  {
+    "id": "hsr_1008",
+    "name": "阿兰",
+    "gameId": "1008",
+    "model": false
+  },
+  {
+    "id": "hsr_1009",
+    "name": "艾丝妲",
+    "gameId": "1009",
+    "model": false
+  },
+  {
+    "id": "hsr_1014",
+    "name": "Saber",
+    "gameId": "1014",
+    "model": false
+  },
+  {
+    "id": "hsr_1015",
+    "name": "Archer",
+    "gameId": "1015",
+    "model": false
+  },
+  {
+    "id": "hsr_1102",
+    "name": "希儿",
+    "gameId": "1102",
+    "model": false
+  },
+  {
+    "id": "hsr_1103",
+    "name": "希露瓦",
+    "gameId": "1103",
+    "model": false
+  },
+  {
+    "id": "hsr_1105",
+    "name": "娜塔莎",
+    "gameId": "1105",
+    "model": false
+  },
+  {
+    "id": "hsr_1106",
+    "name": "佩拉",
+    "gameId": "1106",
+    "model": false
+  },
+  {
+    "id": "hsr_1107",
+    "name": "克拉拉",
+    "gameId": "1107",
+    "model": false
+  },
+  {
+    "id": "hsr_1109",
+    "name": "虎克",
+    "gameId": "1109",
+    "model": false
+  },
+  {
+    "id": "hsr_1110",
+    "name": "玲可",
+    "gameId": "1110",
+    "model": false
+  },
+  {
+    "id": "hsr_1111",
+    "name": "卢卡",
+    "gameId": "1111",
+    "model": false
+  },
+  {
+    "id": "hsr_1201",
+    "name": "青雀",
+    "gameId": "1201",
+    "model": false
+  },
+  {
+    "id": "hsr_1202",
+    "name": "停云",
+    "gameId": "1202",
+    "model": false
+  },
+  {
+    "id": "hsr_1203",
+    "name": "罗刹",
+    "gameId": "1203",
+    "model": false
+  },
+  {
+    "id": "hsr_1206",
+    "name": "素裳",
+    "gameId": "1206",
+    "model": false
+  },
+  {
+    "id": "hsr_1207",
+    "name": "驭空",
+    "gameId": "1207",
+    "model": false
+  },
+  {
+    "id": "hsr_1208",
+    "name": "符玄",
+    "gameId": "1208",
+    "model": false
+  },
+  {
+    "id": "hsr_1209",
+    "name": "彦卿",
+    "gameId": "1209",
+    "model": false
+  },
+  {
+    "id": "hsr_1210",
+    "name": "桂乃芬",
+    "gameId": "1210",
+    "model": false
+  },
+  {
+    "id": "hsr_1212",
+    "name": "镜流",
+    "gameId": "1212",
+    "model": false
+  },
+  {
+    "id": "hsr_1214",
+    "name": "雪衣",
+    "gameId": "1214",
+    "model": false
+  },
+  {
+    "id": "hsr_1215",
+    "name": "寒鸦",
+    "gameId": "1215",
+    "model": false
+  },
+  {
+    "id": "hsr_1217",
+    "name": "藿藿",
+    "gameId": "1217",
+    "model": false
+  },
+  {
+    "id": "hsr_1218",
+    "name": "椒丘",
+    "gameId": "1218",
+    "model": false
+  },
+  {
+    "id": "hsr_1220",
+    "name": "飞霄",
+    "gameId": "1220",
+    "model": false
+  },
+  {
+    "id": "hsr_1222",
+    "name": "灵砂",
+    "gameId": "1222",
+    "model": false
+  },
+  {
+    "id": "hsr_1223",
+    "name": "貊泽",
+    "gameId": "1223",
+    "model": false
+  },
+  {
+    "id": "hsr_1224",
+    "name": "三月七·巡猎",
+    "gameId": "1224",
+    "model": false
+  },
+  {
+    "id": "hsr_1301",
+    "name": "加拉赫",
+    "gameId": "1301",
+    "model": false
+  },
+  {
+    "id": "hsr_1302",
+    "name": "银枝",
+    "gameId": "1302",
+    "model": false
+  },
+  {
+    "id": "hsr_1305",
+    "name": "真理医生",
+    "gameId": "1305",
+    "model": false
+  },
+  {
+    "id": "hsr_1307",
+    "name": "黑天鹅",
+    "gameId": "1307",
+    "model": false
+  },
+  {
+    "id": "hsr_1312",
+    "name": "米沙",
+    "gameId": "1312",
+    "model": false
+  },
+  {
+    "id": "hsr_1314",
+    "name": "翡翠",
+    "gameId": "1314",
+    "model": false
+  },
+  {
+    "id": "hsr_1315",
+    "name": "波提欧",
+    "gameId": "1315",
+    "model": false
+  },
+  {
+    "id": "hsr_1317",
+    "name": "乱破",
+    "gameId": "1317",
+    "model": false
+  },
+  {
+    "id": "hsr_1321",
+    "name": "大丽花",
+    "gameId": "1321",
+    "model": false
+  },
+  {
+    "id": "hsr_1401",
+    "name": "大黑塔",
+    "gameId": "1401",
+    "model": false
+  },
+  {
+    "id": "hsr_1402",
+    "name": "阿格莱雅",
+    "gameId": "1402",
+    "model": false
+  },
+  {
+    "id": "hsr_1403",
+    "name": "缇宝",
+    "gameId": "1403",
+    "model": false
+  },
+  {
+    "id": "hsr_1404",
+    "name": "万敌",
+    "gameId": "1404",
+    "model": false
+  },
+  {
+    "id": "hsr_1405",
+    "name": "那刻夏",
+    "gameId": "1405",
+    "model": false
+  },
+  {
+    "id": "hsr_1406",
+    "name": "赛飞儿",
+    "gameId": "1406",
+    "model": false
+  },
+  {
+    "id": "hsr_1407",
+    "name": "遐蝶",
+    "gameId": "1407",
+    "model": false
+  },
+  {
+    "id": "hsr_1408",
+    "name": "白厄",
+    "gameId": "1408",
+    "model": false
+  },
+  {
+    "id": "hsr_1409",
+    "name": "风堇",
+    "gameId": "1409",
+    "model": false
+  },
+  {
+    "id": "hsr_1410",
+    "name": "海瑟音",
+    "gameId": "1410",
+    "model": false
+  },
+  {
+    "id": "hsr_1412",
+    "name": "刻律德菈",
+    "gameId": "1412",
+    "model": false
+  },
+  {
+    "id": "hsr_1413",
+    "name": "长夜月",
+    "gameId": "1413",
+    "model": false
+  },
+  {
+    "id": "hsr_1415",
+    "name": "昔涟",
+    "gameId": "1415",
+    "model": false
+  },
+  {
+    "id": "hsr_1501",
+    "name": "火花",
+    "gameId": "1501",
+    "model": false
+  },
+  {
+    "id": "hsr_1502",
+    "name": "爻光",
+    "gameId": "1502",
+    "model": false
+  },
+  {
+    "id": "hsr_1504",
+    "name": "不死途",
+    "gameId": "1504",
+    "model": false
+  },
+  {
+    "id": "hsr_1505",
+    "name": "绯英",
+    "gameId": "1505",
+    "model": false
+  },
+  {
+    "id": "hsr_1506",
+    "name": "银狼LV.999",
+    "gameId": "1506",
+    "model": false
+  },
+  {
+    "id": "hsr_1507",
+    "name": "千冶·刃",
+    "gameId": "1507",
+    "model": false
+  },
+  {
+    "id": "hsr_1508",
+    "name": "远坂凛",
+    "gameId": "1508",
+    "model": false
+  },
+  {
+    "id": "hsr_1509",
+    "name": "吉尔伽美什",
+    "gameId": "1509",
+    "model": false
+  },
+  {
+    "id": "hsr_1510",
+    "name": "姬子·启行",
+    "gameId": "1510",
+    "model": false
+  },
+  {
+    "id": "hsr_1512",
+    "name": "知更鸟·晴歌",
+    "gameId": "1512",
+    "model": false
+  },
+  {
+    "id": "hsr_1513",
+    "name": "砂金·戏浪",
+    "gameId": "1513",
+    "model": false
+  },
+  {
+    "id": "preservation",
+    "name": "存护开拓者",
+    "gameId": "8004",
+    "model": true
+  },
+  {
+    "id": "harmony",
+    "name": "同谐开拓者",
+    "gameId": "8006",
+    "model": true
+  },
+  {
+    "id": "remembrance",
+    "name": "记忆开拓者",
+    "gameId": "8008",
+    "model": true
+  },
+  {
+    "id": "elation",
+    "name": "欢愉开拓者",
+    "gameId": "8010",
+    "model": true
+  }
+]

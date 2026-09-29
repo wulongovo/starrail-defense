@@ -1,0 +1,358 @@
+{
+  "enemies": [
+    {
+      "id": "reaver",
+      "name": "虚卒·掠夺者",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012010",
+      "sha256": "92ee4aeb2670f9186cd019464063e19b78943d75c713de4f6ce4cb0aa9b37d2a"
+    },
+    {
+      "id": "antibaryon",
+      "name": "反重子",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8011020",
+      "sha256": "341d36234fd76ad69b44a07fa162accf1f38b0c8ea1717e05defb61c7f6532d5"
+    },
+    {
+      "id": "baryon",
+      "name": "重子",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8011010",
+      "sha256": "956d023458c17556b66e64fe8f2f46c5f0d3c1cdf703cd02b416150711adadb0"
+    },
+    {
+      "id": "distorter",
+      "name": "虚卒·篡改者",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012020",
+      "sha256": "68ce1f019da9102d724df680966ecbb6d5afb62fc758bfb14c8a1869a14e3508"
+    },
+    {
+      "id": "trampler",
+      "name": "虚卒·践踏者",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8013010",
+      "sha256": "bb4e0e5ff996525f60646de3c06df3477c9ce5f415b5533fd76a9bbbb1385bb9"
+    },
+    {
+      "id": "maraSoldier",
+      "name": "魔阴身士卒",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2022010",
+      "sha256": "e2b6f9a4f3d64d6b86bbba5d5ac20fb36108d87813c31e9370d9cf05051475d8"
+    },
+    {
+      "id": "goldenHound",
+      "name": "丰饶灵兽·娄金",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2022040",
+      "sha256": "f64207b9c1a268d0f3e2d18bfcc8a5d9e2cc5e7a316cf8e176554538836ce088"
+    },
+    {
+      "id": "woodLupus",
+      "name": "丰饶灵兽·奎木",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2022050",
+      "sha256": "acf5a6144d9644b76ce51c396fd977a93c5d786acce678691246eb78f982fbd9"
+    },
+    {
+      "id": "dragonfish",
+      "name": "入魔机巧·灯昼龙鱼",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2012010",
+      "sha256": "2163b1b5c1b7384d3ba861030ee08b8081c48281f17c5dddfd7776faef221458"
+    },
+    {
+      "id": "bubbleHound",
+      "name": "惊梦剧团的气泡锂犬",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3002030",
+      "sha256": "20ab490ed465320041990c61b80c8070b580a6d7a37a1571cc557915e91e4a44"
+    },
+    {
+      "id": "domescreen",
+      "name": "惊梦剧团的圆幕先生",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3002010",
+      "sha256": "d81b1c920bbca1a4dc7989c75ece65c5122a7e43bb3854b71258ba14ca77447b"
+    },
+    {
+      "id": "springDealer",
+      "name": "惊梦剧团的弹簧荷官",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3001010",
+      "sha256": "ba504b3e392b022e79914af744cabe7845e0f9bb456f4871d4f8d11989afb10e"
+    },
+    {
+      "id": "tideBlade",
+      "name": "黑潮蚀刃",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032010",
+      "sha256": "ac2a3e4719926a19e891f56794d9fab64fd7894103185532986f96652f3a70af"
+    },
+    {
+      "id": "tideBow",
+      "name": "黑潮朽弓",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032050",
+      "sha256": "7216c4c1d29cb2a157de8e268e72a0f40329e0391b3f9133a2f44eba74bf3aa8"
+    },
+    {
+      "id": "tideAxe",
+      "name": "黑潮蚀斧",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032030",
+      "sha256": "102990b508125f6713a75e7bc92cdb94d61890be0201ebe1fe30e33aea657d49"
+    },
+    {
+      "id": "tideCouncil",
+      "name": "黑潮参议",
+      "category": "monster",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4032040",
+      "sha256": "46a7201e78fed7f898d0f6d99e591d183fd2647eca745f1c5553f4a048534239"
+    },
+    {
+      "id": "voidranger",
+      "name": "刃·训练投影",
+      "category": "character-projection",
+      "representation": "pmx",
+      "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/SznrBfZC3U.rar",
+      "sha256": "2a9d2dd8ba5116363ec67896de95cffc8c9a877a0fbecb19d049341f47de729c"
+    },
+    {
+      "id": "stormbringer",
+      "name": "萨姆·熔火投影",
+      "category": "character-projection",
+      "representation": "pmx",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1718720946239.zip",
+      "sha256": "9d8b847560b55ff5ceb9582f89c8790310506852d8d59aea4194add3ca711c07"
+    },
+    {
+      "id": "sparkle",
+      "name": "花火·诡戏投影",
+      "category": "character-projection",
+      "representation": "pmx",
+      "source": "https://activity.hdslb.com/blackboard/static/20240205/9634f55137cff5d24df20d1d2d7780b9/056mDPC3Hc.zip",
+      "sha256": "8be03543b8238a4e374f3d7d48c0086804f20721b16645cf0a76ac792aca6e79"
+    },
+    {
+      "id": "sampo",
+      "name": "桑博·幻影",
+      "category": "character-projection",
+      "representation": "pmx",
+      "source": "https://drive.google.com/drive/folders/1j5ocYy1VV65iDNPBKiVFuX8O5-HxuNIB",
+      "sha256": "b25f15e08efc91098a7a2cfec1a0ffa5f1ecd25da94439471fe1051cf6e7eae1"
+    },
+    {
+      "id": "bronya",
+      "name": "布洛妮娅·统御投影",
+      "category": "character-projection",
+      "representation": "pmx",
+      "source": "https://activity.hdslb.com/blackboard/static/20230425/952f7c986d30869651e51a154c9fc2bc/YD2dl93Doi.zip",
+      "sha256": "5654ac242594f41ba8431f636ee2fd4a06ae9e19653612c5366e243d1ce30344"
+    },
+    {
+      "id": "gepardEnemy",
+      "name": "杰帕德·壁垒投影",
+      "category": "character-projection",
+      "representation": "pmx",
+      "source": "https://drive.google.com/drive/folders/16GcwWJW741Nq9pvZYKQhAvQUewMJmOq3",
+      "sha256": "cd2fe217f436a65fb88e05130c30d2d8a3311d76168d66316d6864e933d08aed"
+    },
+    {
+      "id": "boss",
+      "name": "星期日·秩序投影",
+      "category": "character-projection",
+      "representation": "pmx",
+      "source": "https://drive.google.com/drive/folders/161UQnJP1oiN8epVs24DFlt0g2UHCT4W3",
+      "sha256": "6809e0af090315e1bb28d7a03f4818ed6b06620fdd616754991a9e696f6c10be"
+    },
+    {
+      "id": "boss_doomsday",
+      "name": "末日兽",
+      "category": "boss",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2002020",
+      "sha256": "acc75e24e13cb6e3523030e0982e0258f3d8a332d60b2ef79648f39437f4c924"
+    },
+    {
+      "id": "boss_phantylia",
+      "name": "不死神实·幻胧",
+      "category": "boss",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8015020",
+      "sha256": "db5eb45a00e5ed90d102a42eacca40905a2dc5ab19fb5910de4f011bb380ce3c"
+    },
+    {
+      "id": "boss_dominicus",
+      "name": "齐响诗班·神主日",
+      "category": "boss",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3025010",
+      "sha256": "383a8c46b21b9dcbeee3fad4af5e01e88576f6d9d8b441baa161268325ef642f"
+    },
+    {
+      "id": "boss_lycurgus",
+      "name": "神礼观众·来古士",
+      "category": "boss",
+      "representation": "pmx",
+      "source": "https://github.com/Phoshco/hsr/tree/main/chars/Lygus/Lygus_boss",
+      "sha256": "15ae8cdf5e6bb99949db926b1135f82ced4f9789f7e91001d09e51b643207e77"
+    },
+    {
+      "id": "boss_guiji",
+      "name": "万色返空主·归寂",
+      "category": "boss",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8015030",
+      "sha256": "a364f63ab59b80ac994a982e10e6916c20cf654ce817fa65654ca3e74e020dc3"
+    },
+    {
+      "id": "enemy_lotus",
+      "name": "玄莲",
+      "category": "summon",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012200",
+      "sha256": "f904a148b6660b19841caef98cc1c0e42c844ef8c5e52d9e68daa1d3e1e8c38e"
+    },
+    {
+      "id": "enemy_retainer",
+      "name": "天谴斗士",
+      "category": "summon",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4012010",
+      "sha256": "81c1c8a5edc3e71df9bde27d70d6ef27a83af8b7b8f0fd78b89192b6f22e60bf"
+    },
+    {
+      "id": "enemy_comedian",
+      "name": "喜剧学家",
+      "category": "summon",
+      "representation": "glb",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8012040",
+      "sha256": "b6a3248a8afd71a2c43a614f9815c08cbdd2cdb9244aa1a0844713841541c770"
+    }
+  ],
+  "pompom": {
+    "id": "pompom",
+    "modelName": "新帕姆",
+    "source": "https://drive.google.com/drive/folders/1MIwsoXxJzppWaULqVpGJngXWF9W231_W",
+    "sourceFile": "帕姆3.0.pmx",
+    "sha256": "d7540717a0b85317afbb41efe31d16987a5c7cbf6344298b871d8967fa131120",
+    "vertices": 10783,
+    "triangles": 15266,
+    "bones": 302,
+    "materials": 17,
+    "textures": {
+      "身体.png": {
+        "width": 256,
+        "height": 256,
+        "source": "身体.png"
+      },
+      "表情.png": {
+        "width": 256,
+        "height": 256,
+        "source": "表情.png"
+      }
+    },
+    "omittedTransparentMaterials": [],
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "limitations": [
+      "PMX SDEF/QDEF 使用线性蒙皮近似",
+      "未启用原版物理和表情动画；使用本作程序骨骼动作与脚步IK"
+    ],
+    "sourceKind": "public-community-mirror",
+    "sourceFiles": [
+      {
+        "fileId": "1ekbORL9b8Bry3FXKktBzsmLZq4qtIuX-",
+        "name": "toon3.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1ekbORL9b8Bry3FXKktBzsmLZq4qtIuX-&export=download",
+        "path": "public/assets/models/pompom/mirror-original/toon3.png",
+        "sha256": "dad85338aa2800ef4cfeaab41b3767318441630163ec078a64ce0f0da87ad695",
+        "bytes": 5628
+      },
+      {
+        "fileId": "1UdZJVl9qxGF5bMUNS4UKUBxFuHHGFw5b",
+        "name": "toon2.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1UdZJVl9qxGF5bMUNS4UKUBxFuHHGFw5b&export=download",
+        "path": "public/assets/models/pompom/mirror-original/toon2.png",
+        "sha256": "9498ddbcb2e57a67e932deadf72d1001238a3f85f6aa58e4b8e4307ce2a47720",
+        "bytes": 5586
+      },
+      {
+        "fileId": "1wNxxjGr_rei38zusKO8GOqu-B2es0LCh",
+        "name": "mc3.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1wNxxjGr_rei38zusKO8GOqu-B2es0LCh&export=download",
+        "path": "public/assets/models/pompom/mirror-original/mc3.png",
+        "sha256": "988d8189318072892936e5cf90582c6edfa8dea026c611ec2dcdde84279c1535",
+        "bytes": 33861
+      },
+      {
+        "fileId": "18JRWljRxwJFyPFDo2kDqM2qgcWxZHh9p",
+        "name": "mc1.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=18JRWljRxwJFyPFDo2kDqM2qgcWxZHh9p&export=download",
+        "path": "public/assets/models/pompom/mirror-original/mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16",
+        "bytes": 64509
+      },
+      {
+        "fileId": "12G4vOk8-vquw_GJvgwuPK8FcTOpmX_mu",
+        "name": "使用规则.txt",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=12G4vOk8-vquw_GJvgwuPK8FcTOpmX_mu&export=download",
+        "path": "public/assets/models/pompom/mirror-original/使用规则.txt",
+        "sha256": "7aaceed25c4aeee2db86e49d66d740a4c491e7b8c87db8b297d2947d5f3208b3",
+        "bytes": 399
+      },
+      {
+        "fileId": "1Hh_ZvFXNUBbswrB3RgGyVbvWD6KcMQoN",
+        "name": "表情.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1Hh_ZvFXNUBbswrB3RgGyVbvWD6KcMQoN&export=download",
+        "path": "public/assets/models/pompom/mirror-original/表情.png",
+        "sha256": "fbd77c78e95fbb9e149e969705548017fabc3a169647385acedfdecc38605136",
+        "bytes": 136533
+      },
+      {
+        "fileId": "1DjnpYddqsRgvdmhMGsNoUN5sz-QWzOK8",
+        "name": "帕姆3.0.pmx",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1DjnpYddqsRgvdmhMGsNoUN5sz-QWzOK8&export=download",
+        "path": "public/assets/models/pompom/mirror-original/帕姆3.0.pmx",
+        "sha256": "d7540717a0b85317afbb41efe31d16987a5c7cbf6344298b871d8967fa131120",
+        "bytes": 2224286
+      },
+      {
+        "fileId": "1eORcI0nMIJZK2U1TzL0Yx_JiU6YEqdJq",
+        "name": "身体.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1eORcI0nMIJZK2U1TzL0Yx_JiU6YEqdJq&export=download",
+        "path": "public/assets/models/pompom/mirror-original/身体.png",
+        "sha256": "112870763d00237c2a7ef3932fbe101614ca57c794633beac08d38224f117efa",
+        "bytes": 947457
+      }
+    ],
+    "provenanceNote": "公开社区存档，不是官方CDN；保留原PMX备注、使用规则与逐文件SHA256供核验。"
+  },
+  "missing": []
+}

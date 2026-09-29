@@ -1,0 +1,744 @@
+{
+  "totalCards": 92,
+  "cardsWith3d": 92,
+  "uniqueCharacterModels": 90,
+  "missing": [],
+  "cards": [
+    {
+      "id": "robin",
+      "name": "知更鸟",
+      "representation": "pmx",
+      "modelId": "robin",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1715061714157.zip",
+      "sha256": "e41374eb4c8b85f55f7550ae24b913067349708aa52f53b215b3801a7fd886fd"
+    },
+    {
+      "id": "march",
+      "name": "三月七",
+      "representation": "pmx",
+      "modelId": "march",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/KkVjYLh8y3.zip",
+      "sha256": "942aef2af3a465e77c1569369b3c422fdf64f8494cbdf3b529a88c3cc66c13dc"
+    },
+    {
+      "id": "gepard",
+      "name": "杰帕德",
+      "representation": "pmx",
+      "modelId": "gepard",
+      "source": "https://drive.google.com/drive/folders/16GcwWJW741Nq9pvZYKQhAvQUewMJmOq3",
+      "sha256": "cd2fe217f436a65fb88e05130c30d2d8a3311d76168d66316d6864e933d08aed"
+    },
+    {
+      "id": "aventurine",
+      "name": "砂金",
+      "representation": "pmx",
+      "modelId": "aventurine",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1711445363261.zip",
+      "sha256": "6ac9e989833b30d3372ed5f07a8752b58b53e912fee05895c7181895044826c1"
+    },
+    {
+      "id": "trailblazer",
+      "name": "毁灭开拓者",
+      "representation": "pmx",
+      "modelId": "trailblazer",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/GFamSO99HT.zip",
+      "sha256": "9ca0e397fca6b5b0bdb1d74672d8e729e8ecd85eebb95eda1117ccc66a30fa93"
+    },
+    {
+      "id": "herta",
+      "name": "黑塔",
+      "representation": "pmx",
+      "modelId": "herta",
+      "source": "https://activity.hdslb.com/blackboard/static/20230601/952f7c986d30869651e51a154c9fc2bc/29DY5Kmjul.zip",
+      "sha256": "1151239e4765e6fdd075f02eda2ce7f713842b908e43212814bcf21a3bd4e453"
+    },
+    {
+      "id": "himeko",
+      "name": "姬子",
+      "representation": "pmx",
+      "modelId": "himeko",
+      "source": "https://drive.google.com/drive/folders/1Z0nnz5ATSU3ED3nynoa1Le1Nt_Y6uIge",
+      "sha256": "05fa86abee25e883927d696e4f4242c14ef56292c36f5db3e1d564082f79abd4"
+    },
+    {
+      "id": "dan",
+      "name": "丹恒",
+      "representation": "pmx",
+      "modelId": "dan",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/YPughPO7Vb.zip",
+      "sha256": "29ae44666059f2e1149b2b0598fd74347c461ce0566e3ff6216903ef106179dd"
+    },
+    {
+      "id": "bailu",
+      "name": "白露",
+      "representation": "pmx",
+      "modelId": "bailu",
+      "source": "https://activity.hdslb.com/blackboard/static/20230829/952f7c986d30869651e51a154c9fc2bc/46Z6WYWYGS.zip",
+      "sha256": "676294865f5a4c7fd3462ed9edddd65d00e7f0dd0340d6c8de1224a6d412af1a"
+    },
+    {
+      "id": "kafka",
+      "name": "卡芙卡",
+      "representation": "pmx",
+      "modelId": "kafka",
+      "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/sCo8renFJl.zip",
+      "sha256": "f2394590f915b2280af0f04ad949ed19d7ae42838989f12d23310cb364196394"
+    },
+    {
+      "id": "silverWolf",
+      "name": "银狼",
+      "representation": "pmx",
+      "modelId": "silverWolf",
+      "source": "https://activity.hdslb.com/blackboard/static/20230601/952f7c986d30869651e51a154c9fc2bc/Iz7PqiFe3p.zip",
+      "sha256": "35fbb8de0482394658cd22d6a6165caece363a9c2fdf52ae807f3bfca7b3f724"
+    },
+    {
+      "id": "firefly",
+      "name": "流萤",
+      "representation": "pmx",
+      "modelId": "firefly",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1718720946239.zip",
+      "sha256": "d6a7fb40d774490cd345b04a57e6fc6bd7a9764a93b12fb6b3b32f8cb9ba9b51"
+    },
+    {
+      "id": "fugue",
+      "name": "忘归人",
+      "representation": "pmx",
+      "modelId": "fugue",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1733217194992.zip",
+      "sha256": "9bfb03521f6e70b99ecc49495c18e4a8d9fd337ba3d49cd97b0dd38cdc2fce86"
+    },
+    {
+      "id": "yunli",
+      "name": "云璃",
+      "representation": "pmx",
+      "modelId": "yunli",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1722339659553.zip",
+      "sha256": "d1d3ef7272fc9f083f3176e73b6c6590dd6b68024edc2a516b9a9a5749ab8b22"
+    },
+    {
+      "id": "imbibitor",
+      "name": "丹恒·饮月",
+      "representation": "pmx",
+      "modelId": "imbibitor",
+      "source": "https://activity.hdslb.com/blackboard/static/20230829/952f7c986d30869651e51a154c9fc2bc/qthVUsV3WV.rar",
+      "sha256": "e1116cfb609976956b1ab021b315410f91d97098f17447c1a99a712e61327f6a"
+    },
+    {
+      "id": "permansor",
+      "name": "丹恒·腾荒",
+      "representation": "pmx",
+      "modelId": "permansor",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/20250922/c5a22796cbc31f5e9b4f05b38ba40c0c/WzmqppcTIx.zip",
+      "sha256": "359b8f9c1411a12bd816d7891a50f8554b7460268c8bf79f0624b74f7e3a1246"
+    },
+    {
+      "id": "jingyuan",
+      "name": "景元",
+      "representation": "pmx",
+      "modelId": "jingyuan",
+      "source": "https://activity.hdslb.com/blackboard/static/20230425/952f7c986d30869651e51a154c9fc2bc/tXqGIXKLok.zip",
+      "sha256": "7bcd7acc3ced3f04a536214221e246b9b6b4c17db8c8f3de01a1876ca84ca041"
+    },
+    {
+      "id": "ruanmei",
+      "name": "阮·梅",
+      "representation": "pmx",
+      "modelId": "ruanmei",
+      "source": "https://activity.hdslb.com/blackboard/static/20240618/b9c873d2bae0a426d034e1ded5abe09d/Gxm0u19xqp.zip",
+      "sha256": "6292fcec0dac8961dcef7afd6285fc270f08a4a3b94738523befe8c67335c5f5"
+    },
+    {
+      "id": "acheron",
+      "name": "黄泉",
+      "representation": "pmx",
+      "modelId": "acheron",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1711445313231.zip",
+      "sha256": "332d501446a8d3393f524bac3c12d53636e515ba49b5b3a35ae23ecfd22f3d64"
+    },
+    {
+      "id": "topaz",
+      "name": "托帕",
+      "representation": "pmx",
+      "modelId": "topaz",
+      "source": "https://activity.hdslb.com/blackboard/static/20240507/b9c873d2bae0a426d034e1ded5abe09d/nsMyeITQJr.zip",
+      "sha256": "11ce37b04725aa321c721f179bec4490ae50fb7d686a8dc4823efc8538ccc8d2"
+    },
+    {
+      "id": "blade",
+      "name": "刃",
+      "representation": "pmx",
+      "modelId": "blade",
+      "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/SznrBfZC3U.rar",
+      "sha256": "2a9d2dd8ba5116363ec67896de95cffc8c9a877a0fbecb19d049341f47de729c"
+    },
+    {
+      "id": "sampo",
+      "name": "桑博",
+      "representation": "pmx",
+      "modelId": "sampo",
+      "source": "https://drive.google.com/drive/folders/1j5ocYy1VV65iDNPBKiVFuX8O5-HxuNIB",
+      "sha256": "b25f15e08efc91098a7a2cfec1a0ffa5f1ecd25da94439471fe1051cf6e7eae1"
+    },
+    {
+      "id": "sparkle",
+      "name": "花火",
+      "representation": "pmx",
+      "modelId": "sparkle",
+      "source": "https://activity.hdslb.com/blackboard/static/20240205/9634f55137cff5d24df20d1d2d7780b9/056mDPC3Hc.zip",
+      "sha256": "8be03543b8238a4e374f3d7d48c0086804f20721b16645cf0a76ac792aca6e79"
+    },
+    {
+      "id": "bronya",
+      "name": "布洛妮娅",
+      "representation": "pmx",
+      "modelId": "bronya",
+      "source": "https://activity.hdslb.com/blackboard/static/20230425/952f7c986d30869651e51a154c9fc2bc/YD2dl93Doi.zip",
+      "sha256": "5654ac242594f41ba8431f636ee2fd4a06ae9e19653612c5366e243d1ce30344"
+    },
+    {
+      "id": "sunday",
+      "name": "星期日",
+      "representation": "pmx",
+      "modelId": "sunday",
+      "source": "https://drive.google.com/drive/folders/161UQnJP1oiN8epVs24DFlt0g2UHCT4W3",
+      "sha256": "6809e0af090315e1bb28d7a03f4818ed6b06620fdd616754991a9e696f6c10be"
+    },
+    {
+      "id": "hsr_1004",
+      "name": "瓦尔特",
+      "representation": "pmx",
+      "modelId": "hsr_1004",
+      "source": "https://drive.google.com/drive/folders/19UBZtCGUBOxJ6ZKnw1eH0W_OtaIcUcwM",
+      "sha256": "7d1655e300d27bf6f6e563207e82e1a389be0e1ede11ed49c9336f14278be9cd"
+    },
+    {
+      "id": "hsr_1008",
+      "name": "阿兰",
+      "representation": "pmx",
+      "modelId": "hsr_1008",
+      "source": "https://drive.google.com/drive/folders/1EOTu132sOWrRUkoUUawfZxSF-OBcF-k0",
+      "sha256": "17cd840d7745d36915688b709f4465088d86fc70be82634bc50f60ccaf9e092e"
+    },
+    {
+      "id": "hsr_1009",
+      "name": "艾丝妲",
+      "representation": "pmx",
+      "modelId": "hsr_1009",
+      "source": "https://drive.google.com/drive/folders/13eXqZGzEbbOQUbhRSpkg39vV4d_zPw8p",
+      "sha256": "d8eda15a034d55b90618fd995437ad5079abfe5190565a640e939dcc1dfe7ce0"
+    },
+    {
+      "id": "hsr_1014",
+      "name": "Saber",
+      "representation": "pmx",
+      "modelId": "hsr_1014",
+      "source": "https://drive.google.com/drive/folders/15CdO4WGvHWHsrx8kYxYBrHk0b5L6FSpZ",
+      "sha256": "bd97f650fbc54a505cefb90169a1d2a9539721cf72e194dfef2dd79724e0ab70"
+    },
+    {
+      "id": "hsr_1015",
+      "name": "Archer",
+      "representation": "pmx",
+      "modelId": "hsr_1015",
+      "source": "https://drive.google.com/drive/folders/1XzAuJosP0ucHRdVuxvzWQfjFW_yFlFM6",
+      "sha256": "ad5f5b11dc07af7b9f81edea8f572e7d1e29f38eea0780d166525223076343df"
+    },
+    {
+      "id": "hsr_1102",
+      "name": "希儿",
+      "representation": "pmx",
+      "modelId": "hsr_1102",
+      "source": "https://activity.hdslb.com/blackboard/static/20230425/952f7c986d30869651e51a154c9fc2bc/TLRRr6ygGr.zip",
+      "sha256": "c0d8901be106b02d0f39fd5bdb4ba5c9c652b4fa4abf51dd34db2ca79df9bd56"
+    },
+    {
+      "id": "hsr_1103",
+      "name": "希露瓦",
+      "representation": "pmx",
+      "modelId": "hsr_1103",
+      "source": "https://drive.google.com/drive/folders/1DHMtg6ffuVv-Ucnlx7WQtsON-FWa96U2",
+      "sha256": "64ecb99f64a6b37435b47fb1316c0bbef2510dd96226f624be5677417b8468b0"
+    },
+    {
+      "id": "hsr_1105",
+      "name": "娜塔莎",
+      "representation": "pmx",
+      "modelId": "hsr_1105",
+      "source": "https://drive.google.com/drive/folders/11GCZJzHYablfmLYeJY4RGjwpfGGtdRwL",
+      "sha256": "e84433f6a5b261651bf8f37af60b974f76f7e70abe2bfa20cbbb38b69c4712e3"
+    },
+    {
+      "id": "hsr_1106",
+      "name": "佩拉",
+      "representation": "pmx",
+      "modelId": "hsr_1106",
+      "source": "https://drive.google.com/drive/folders/18_bWmZXYQl8vbFQObTBv1nJFYygwWIEe",
+      "sha256": "af074fe3706f97c72e4353c55dfc871d120a906b5c720bea97acd856dda58cea"
+    },
+    {
+      "id": "hsr_1107",
+      "name": "克拉拉",
+      "representation": "pmx",
+      "modelId": "hsr_1107",
+      "source": "https://drive.google.com/drive/folders/1caSsHSy2CtSSbir8BhY2iyY1wDfG1ozR",
+      "sha256": "2ecb39c3d4182eaf4bfd12ebefde3b83276238876e3a7801db2aae0e79ecb90b"
+    },
+    {
+      "id": "hsr_1109",
+      "name": "虎克",
+      "representation": "pmx",
+      "modelId": "hsr_1109",
+      "source": "https://drive.google.com/drive/folders/1ZTIWXK1Ez-nqashcrbvHgGte0b-kpgxW",
+      "sha256": "653d3d342f015889d046cb476b535c0cae8a42318d79bae7b5c4e3d1a3e4ba0e"
+    },
+    {
+      "id": "hsr_1110",
+      "name": "玲可",
+      "representation": "pmx",
+      "modelId": "hsr_1110",
+      "source": "https://activity.hdslb.com/blackboard/static/20230829/952f7c986d30869651e51a154c9fc2bc/SZmtrBI19D.zip",
+      "sha256": "57fd137a2c66b69a2285517bf0097703b20ca18325c83b2d03651cd641b46f34"
+    },
+    {
+      "id": "hsr_1111",
+      "name": "卢卡",
+      "representation": "pmx",
+      "modelId": "hsr_1111",
+      "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/QcVAkvL1bs.rar",
+      "sha256": "277f27d6f376df95eb20f38cbc7af26de7a58a020e6082275de9938e1f4b8967"
+    },
+    {
+      "id": "hsr_1201",
+      "name": "青雀",
+      "representation": "pmx",
+      "modelId": "hsr_1201",
+      "source": "https://drive.google.com/drive/folders/1MaHPhOlWX40_D8wxa5UBzU2rmIdK8CJa",
+      "sha256": "ab5e739c2bbd0fdeaecf8890a5c223c9db20bdc8e8fb9331d01962d4724ecab8"
+    },
+    {
+      "id": "hsr_1202",
+      "name": "停云",
+      "representation": "pmx",
+      "modelId": "hsr_1202",
+      "source": "https://drive.google.com/drive/folders/1SwRki8EiojXKmuagBajGPiZ4tT94LF8C",
+      "sha256": "ff4059992ab4f76b121024b435d7bd825ee2f33bc47cf93ef6f4e0ef2fafcd10"
+    },
+    {
+      "id": "hsr_1203",
+      "name": "罗刹",
+      "representation": "pmx",
+      "modelId": "hsr_1203",
+      "source": "https://activity.hdslb.com/blackboard/static/20240326/ed208e0685394224eb0049ea11d67202/dizgPXd9hk.zip",
+      "sha256": "88d075ff3e2c6ebf0ce6ae799ad716ada195284a9a31815a065ad50299cde731"
+    },
+    {
+      "id": "hsr_1206",
+      "name": "素裳",
+      "representation": "pmx",
+      "modelId": "hsr_1206",
+      "source": "https://activity.hdslb.com/blackboard/static/20231114/952f7c986d30869651e51a154c9fc2bc/pcjqzQMK1H.zip",
+      "sha256": "21091794bd7ff4fca7c6963eb7c7764ac6e52ed35d1f4cbb9a937bebbc3652a1"
+    },
+    {
+      "id": "hsr_1207",
+      "name": "驭空",
+      "representation": "pmx",
+      "modelId": "hsr_1207",
+      "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/2GVrBDsQ92.rar",
+      "sha256": "6c49a507f6df444efca37973fc9c2d74c861c84de779e9dbbe2dd479917a0986"
+    },
+    {
+      "id": "hsr_1208",
+      "name": "符玄",
+      "representation": "pmx",
+      "modelId": "hsr_1208",
+      "source": "https://activity.hdslb.com/blackboard/static/20230829/952f7c986d30869651e51a154c9fc2bc/bH3xux8eZw.rar",
+      "sha256": "5056064dc1193c81d3988b92580e45801fdc4b09bc931b3ac62edbcd285cfd2f"
+    },
+    {
+      "id": "hsr_1209",
+      "name": "彦卿",
+      "representation": "pmx",
+      "modelId": "hsr_1209",
+      "source": "https://activity.hdslb.com/blackboard/static/20230425/952f7c986d30869651e51a154c9fc2bc/0QZtYGex1c.zip",
+      "sha256": "3bae86b598edbb201ef276a7de43782eae4e7ea4c4310600eeabd14e0377074d"
+    },
+    {
+      "id": "hsr_1210",
+      "name": "桂乃芬",
+      "representation": "pmx",
+      "modelId": "hsr_1210",
+      "source": "https://activity.hdslb.com/blackboard/static/20231007/952f7c986d30869651e51a154c9fc2bc/U0YQ2NzsiE.rar",
+      "sha256": "6fe17ff580be5e20363d860e3654e8c8eedfe07a9a442ecd2200e7c95a8a1cab"
+    },
+    {
+      "id": "hsr_1212",
+      "name": "镜流",
+      "representation": "pmx",
+      "modelId": "hsr_1212",
+      "source": "https://activity.hdslb.com/blackboard/static/20231007/952f7c986d30869651e51a154c9fc2bc/h8zNwY8x15.zip",
+      "sha256": "aed89d3d6e94a9a620621cd6255a6649cca58c5536ee04a0916587c44f3e3431"
+    },
+    {
+      "id": "hsr_1214",
+      "name": "雪衣",
+      "representation": "pmx",
+      "modelId": "hsr_1214",
+      "source": "https://activity.hdslb.com/blackboard/static/20231226/c5a22796cbc31f5e9b4f05b38ba40c0c/qDqshE3J87.zip",
+      "sha256": "0b3ce23f545b8005d4475a6b4d0ab868591b2a249cfb495b8ba9a2e34e3cc89d"
+    },
+    {
+      "id": "hsr_1215",
+      "name": "寒鸦",
+      "representation": "pmx",
+      "modelId": "hsr_1215",
+      "source": "https://activity.hdslb.com/blackboard/static/20231115/952f7c986d30869651e51a154c9fc2bc/YfkQbSdlDy.zip",
+      "sha256": "90a2fda4919c6682e258047a6f490c2421de24073e64e1621b8dc3c486f7b279"
+    },
+    {
+      "id": "hsr_1217",
+      "name": "藿藿",
+      "representation": "pmx",
+      "modelId": "hsr_1217",
+      "source": "https://activity.hdslb.com/blackboard/static/20231115/952f7c986d30869651e51a154c9fc2bc/CAM0NJscIQ.zip",
+      "sha256": "578bc491d03caa93f3ea854ad3727559563ee56f66d63db26b9f6417da106aee"
+    },
+    {
+      "id": "hsr_1218",
+      "name": "椒丘",
+      "representation": "pmx",
+      "modelId": "hsr_1218",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1722339646643.zip",
+      "sha256": "90fba8e096bcd991e88bf3aa0bd0863b85cda1c3a99260a5c94caebd26ef3bd6"
+    },
+    {
+      "id": "hsr_1220",
+      "name": "飞霄",
+      "representation": "pmx",
+      "modelId": "hsr_1220",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1725879800506.zip",
+      "sha256": "8d4f863e7698d048da5ba11e03c620dea1a6b0c9a1365e43ad65a4ca77bfd1c3"
+    },
+    {
+      "id": "hsr_1222",
+      "name": "灵砂",
+      "representation": "pmx",
+      "modelId": "hsr_1222",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1725879805144.zip",
+      "sha256": "98ae113d08a92261ed8d1f0f453c7941aacc13c7394a9d82f643aeb6933cdd67"
+    },
+    {
+      "id": "hsr_1223",
+      "name": "貊泽",
+      "representation": "pmx",
+      "modelId": "hsr_1223",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1725879807990.zip",
+      "sha256": "3ed049a5d222b6cd38ae4e51f7e0cba5d9c35634b0e6d2cbd215988fb63227b0"
+    },
+    {
+      "id": "hsr_1224",
+      "name": "三月七·巡猎",
+      "representation": "pmx",
+      "modelId": "hsr_1224",
+      "source": "https://drive.google.com/drive/folders/19yaTk8F808zXZAOZsKK5iKUZFUw2NbWr",
+      "sha256": "25f5a15979dbbe700c137db6029f2e9ada95820ab8d4434d799c7d58f5882503"
+    },
+    {
+      "id": "hsr_1301",
+      "name": "加拉赫",
+      "representation": "pmx",
+      "modelId": "hsr_1301",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1711445347987.zip",
+      "sha256": "b2146a9900c667c8ca0cfa3b7db57d158077873192c5a7549d2fb305813bc7ea"
+    },
+    {
+      "id": "hsr_1302",
+      "name": "银枝",
+      "representation": "pmx",
+      "modelId": "hsr_1302",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/f985944a62b756dbd4f9d46c618cf0ec/1699937217222.zip",
+      "sha256": "ad22c294d33f5626df2ac6d2704cf4eb41ec9902cb794269fd39514d697aeeaa"
+    },
+    {
+      "id": "hsr_1305",
+      "name": "真理医生",
+      "representation": "pmx",
+      "modelId": "hsr_1305",
+      "source": "https://activity.hdslb.com/blackboard/static/20231226/c5a22796cbc31f5e9b4f05b38ba40c0c/7CHr4B4nKE.zip",
+      "sha256": "13bf432e06394e98468787eeadd1d0af53184982338a8298ec9238c848d02360"
+    },
+    {
+      "id": "hsr_1307",
+      "name": "黑天鹅",
+      "representation": "pmx",
+      "modelId": "hsr_1307",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/26579185b68626a64acf55e9abef3322/1707388202992.zip",
+      "sha256": "4143bb4128332ff0c5c15c5d4bcc937234b4ea264b2d7f6256af0fea0385bc47"
+    },
+    {
+      "id": "hsr_1312",
+      "name": "米沙",
+      "representation": "pmx",
+      "modelId": "hsr_1312",
+      "source": "https://activity.hdslb.com/blackboard/static/20240205/9634f55137cff5d24df20d1d2d7780b9/hckTR6B532.zip",
+      "sha256": "967bc70b97bbba98cb20b96bd08a5890b1ceda1d479f64f56b2007545c3edfba"
+    },
+    {
+      "id": "hsr_1314",
+      "name": "翡翠",
+      "representation": "pmx",
+      "modelId": "hsr_1314",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1718720930285.zip",
+      "sha256": "332621282894d6e532c2f9ff4d1e6fe4824de409834ff53d490f61366b312474"
+    },
+    {
+      "id": "hsr_1315",
+      "name": "波提欧",
+      "representation": "pmx",
+      "modelId": "hsr_1315",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1715061669954.zip",
+      "sha256": "4993683f52adc62914b9558e07c91fe6edecc3df9d45778c922b5d42236f9192"
+    },
+    {
+      "id": "hsr_1317",
+      "name": "乱破",
+      "representation": "pmx",
+      "modelId": "hsr_1317",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1729577545656.zip",
+      "sha256": "4bca7af5ee78fcfb7553f9cdd30bc057316261ee0b2ad5da8f98e17c1d4375e0"
+    },
+    {
+      "id": "hsr_1321",
+      "name": "大丽花",
+      "representation": "pmx",
+      "modelId": "hsr_1321",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/20251215/c5a22796cbc31f5e9b4f05b38ba40c0c/lcXppcxNLZ.zip",
+      "sha256": "ccb0f39f8bd50e06003764a1be0cc6b77eacc6f233aeb000781ae7c51d20fa6b"
+    },
+    {
+      "id": "hsr_1401",
+      "name": "大黑塔",
+      "representation": "pmx",
+      "modelId": "hsr_1401",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/587f0b14d5bd43274c379bb869cc385d/1736826919628.7z",
+      "sha256": "3c19c6b2f888e1285244aa1c10168302acf03254e102e928e76ab9b8437f61fa"
+    },
+    {
+      "id": "hsr_1402",
+      "name": "阿格莱雅",
+      "representation": "pmx",
+      "modelId": "hsr_1402",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/587f0b14d5bd43274c379bb869cc385d/1736826919628.7z",
+      "sha256": "8f43b620d5815c2dea685a62a0384ab3a0e067548fdcfcae3f2b1c923f00a029"
+    },
+    {
+      "id": "hsr_1403",
+      "name": "缇宝",
+      "representation": "pmx",
+      "modelId": "hsr_1403",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/587f0b14d5bd43274c379bb869cc385d/1736826919628.7z",
+      "sha256": "4dfe9a9d6c1060e33bf9f9b95add1f17de5e5d1bf14a445da4dea6fcbf9b38e5"
+    },
+    {
+      "id": "hsr_1404",
+      "name": "万敌",
+      "representation": "pmx",
+      "modelId": "hsr_1404",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/587f0b14d5bd43274c379bb869cc385d/1736826919628.7z",
+      "sha256": "d57da65c6cb62668614a150043ec88bcb1349ff18a30eea329a8a0488457b0e1"
+    },
+    {
+      "id": "hsr_1405",
+      "name": "那刻夏",
+      "representation": "pmx",
+      "modelId": "hsr_1405",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1744179363242.zip",
+      "sha256": "7a683754f17e877cf8513a1e7bf21d79a681c463c7179aacd9ff7b855ab79658"
+    },
+    {
+      "id": "hsr_1406",
+      "name": "赛飞儿",
+      "representation": "pmx",
+      "modelId": "hsr_1406",
+      "source": "https://activity.hdslb.com/blackboard/static/20250519/c5a22796cbc31f5e9b4f05b38ba40c0c/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E2%80%94%E8%B5%9B%E9%A3%9E%E5%84%BF%EF%BC%88%E5%90%AB%E6%AD%A6%E5%99%A8%EF%BC%89.zip",
+      "sha256": "14baa4f13b37e8a0db01cc72e93c44fd2021019492f41047ddf0bf6106b2a43e"
+    },
+    {
+      "id": "hsr_1407",
+      "name": "遐蝶",
+      "representation": "pmx",
+      "modelId": "hsr_1407",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1744179359809.zip",
+      "sha256": "854d6ab91e88ff2c9f652b5c483fe85665ef5fa6792ca686a4de31d2ef2531e8"
+    },
+    {
+      "id": "hsr_1408",
+      "name": "白厄",
+      "representation": "pmx",
+      "modelId": "hsr_1408",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1751363841352.zip",
+      "sha256": "4cab67ad332002aa75f980336b831b87e6bc88ebcfad907739e3f7d85624914f"
+    },
+    {
+      "id": "hsr_1409",
+      "name": "风堇",
+      "representation": "pmx",
+      "modelId": "hsr_1409",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1747638220112.zip",
+      "sha256": "0bd011b0c4dd7574b9dab49859d47d4c1640a5aa430c1e4cce5ae3aa742b7901"
+    },
+    {
+      "id": "hsr_1410",
+      "name": "海瑟音",
+      "representation": "pmx",
+      "modelId": "hsr_1410",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/20250812/c5a22796cbc31f5e9b4f05b38ba40c0c/3vrAsljiyo.zip",
+      "sha256": "faeff39dbc2779c85561980eead353276f8b6136e16c171fa3e48a8f3ea89608"
+    },
+    {
+      "id": "hsr_1412",
+      "name": "刻律德菈",
+      "representation": "pmx",
+      "modelId": "hsr_1412",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/20250812/c5a22796cbc31f5e9b4f05b38ba40c0c/n6FbzjxUGF.zip",
+      "sha256": "a974d54c2c89be6017bc28c0fe6f80a621ad314cbc8152df1a9037abb3dcd407"
+    },
+    {
+      "id": "hsr_1413",
+      "name": "长夜月",
+      "representation": "pmx",
+      "modelId": "hsr_1413",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/20250922/c5a22796cbc31f5e9b4f05b38ba40c0c/EpZlNaIWyd.zip",
+      "sha256": "f6c30cd49ec1818b4f200f216f290a15570f0fffbc0e05ffba60547bf8a1e560"
+    },
+    {
+      "id": "hsr_1415",
+      "name": "昔涟",
+      "representation": "pmx",
+      "modelId": "hsr_1415",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1762258970816.zip",
+      "sha256": "286b59791f260d6b682afd0c5104a7764053474cb5d49d39e38e12f435a8a93e"
+    },
+    {
+      "id": "hsr_1501",
+      "name": "火花",
+      "representation": "pmx",
+      "modelId": "hsr_1501",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/20260211/c5a22796cbc31f5e9b4f05b38ba40c0c/qddDq6tEdN.zip",
+      "sha256": "25e7f7fa68cdea771a04d50d32e94c206fb7e459a95095372d61445228fc69be"
+    },
+    {
+      "id": "hsr_1502",
+      "name": "爻光",
+      "representation": "pmx",
+      "modelId": "hsr_1502",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/20260211/c5a22796cbc31f5e9b4f05b38ba40c0c/vgYXOMF8Nb.zip",
+      "sha256": "133a3ae7eaab7d1f9238cfcb9cec0c09c020f38e7e88c00ee680b2c3f692eb42"
+    },
+    {
+      "id": "hsr_1504",
+      "name": "不死途",
+      "representation": "pmx",
+      "modelId": "hsr_1504",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/20260324/c5a22796cbc31f5e9b4f05b38ba40c0c/CSPLvwRDPX.zip",
+      "sha256": "43424506c932b8673772bfdab72918a34bb3e7613f39e90d1a719e416b730b31"
+    },
+    {
+      "id": "hsr_1505",
+      "name": "绯英",
+      "representation": "pmx",
+      "modelId": "hsr_1505",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/20260421/c5a22796cbc31f5e9b4f05b38ba40c0c/EEx05NWVGY.zip",
+      "sha256": "f053c748337e1f116d1a6c6ea1f838b55c4e3ac2acd3f8df2dfc44bb98264321"
+    },
+    {
+      "id": "hsr_1506",
+      "name": "银狼LV.999",
+      "representation": "pmx",
+      "modelId": "hsr_1506",
+      "source": "https://jssz-boss.hdslb.com/activity_admin_upload/8201/10377/11850/星穹铁道—银狼LV.999.zip",
+      "sha256": "6482df360f04519f2108aad49c0593297f96bba082ad86fd7e29008d3be477cc"
+    },
+    {
+      "id": "hsr_1507",
+      "name": "千冶·刃",
+      "representation": "pmx",
+      "modelId": "hsr_1507",
+      "source": "https://jssz-boss.hdslb.com/activity_admin_upload/10613/11875/11876/星穹铁道—千冶·刃.zip",
+      "sha256": "a633c9aa4a348c915415970cce097b9cb771bc785540a0e186bc25889c20c60b"
+    },
+    {
+      "id": "hsr_1508",
+      "name": "远坂凛",
+      "representation": "pmx",
+      "modelId": "hsr_1508",
+      "source": "https://drive.google.com/drive/folders/1bUXlaTaxAieKl4PMSI-NRSQFmwpLcZec",
+      "sha256": "eb082ddedbff3d6c7e0551778673988fe9f86e05bc11d8a2baabeaf947cbaef7"
+    },
+    {
+      "id": "hsr_1509",
+      "name": "吉尔伽美什",
+      "representation": "pmx",
+      "modelId": "hsr_1509",
+      "source": "https://drive.google.com/drive/folders/16txH4kCG5CvD0qZ2xwNX0Vv2h1Vezocl",
+      "sha256": "f03b66dc3d241bfc7ec6941894bd460f2028080b252bb1f490c99b6c32e83c5d"
+    },
+    {
+      "id": "hsr_1510",
+      "name": "姬子·启行",
+      "representation": "pmx",
+      "modelId": "hsr_1510",
+      "source": "https://jssz-boss.hdslb.com/activity_admin_upload/8201/10377/11850/星穹铁道—姬子·启行（含机甲）.zip",
+      "sha256": "4272f357bc5c26b78cff321f30016fe8337dfeccf7ded7c9eaa370de74a2e1f9"
+    },
+    {
+      "id": "hsr_1512",
+      "name": "知更鸟·晴歌",
+      "representation": "pmx",
+      "modelId": "hsr_1512",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/8201/10377/11850/20260824/d41d8cd98f00b204e9800998ecf8427e/qRHFwTa0zP.zip",
+      "sha256": "50f209e6c0c155a3020e7a58901ae94bc5cdf0ee596b902c6a83fb1e9feadad9"
+    },
+    {
+      "id": "hsr_1513",
+      "name": "砂金·戏浪",
+      "representation": "pmx",
+      "modelId": "hsr_1513",
+      "source": "https://i0.hdslb.com/bfs/activity-plat/static/8201/10377/11850/20260824/d41d8cd98f00b204e9800998ecf8427e/iM3gQ87o6q.zip",
+      "sha256": "d7a20661c7ccb1df0d95d9ff81c12e64d0e0586f093eb7a97174854e2c1d0701"
+    },
+    {
+      "id": "preservation",
+      "name": "存护开拓者",
+      "representation": "pmx",
+      "modelId": "trailblazer",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/GFamSO99HT.zip",
+      "sha256": "9ca0e397fca6b5b0bdb1d74672d8e729e8ecd85eebb95eda1117ccc66a30fa93"
+    },
+    {
+      "id": "harmony",
+      "name": "同谐开拓者",
+      "representation": "pmx",
+      "modelId": "trailblazer",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/GFamSO99HT.zip",
+      "sha256": "9ca0e397fca6b5b0bdb1d74672d8e729e8ecd85eebb95eda1117ccc66a30fa93"
+    },
+    {
+      "id": "remembrance",
+      "name": "记忆开拓者",
+      "representation": "pmx",
+      "modelId": "remembrance",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/587f0b14d5bd43274c379bb869cc385d/1736826919628.7z",
+      "sha256": "eb0d09c6e41b2948d6fe9b62faeb204ad77dd583fa1b4705fd2b31affe04fe46"
+    },
+    {
+      "id": "elation",
+      "name": "欢愉开拓者",
+      "representation": "pmx",
+      "modelId": "elation",
+      "source": "https://drive.google.com/drive/folders/1CZW76ryegfea5sVZQOKSgwor47MUQPKe",
+      "sha256": "c2aab160829fc2d7ab0329f91df6528c2bb898272318e4bb635e6016179d0716"
+    }
+  ]
+}

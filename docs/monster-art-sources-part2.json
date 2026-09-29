@@ -1,0 +1,65 @@
+[
+  {
+    "id": "dragonfish",
+    "name": "灯昼龙鱼",
+    "sourcePage": "https://wiki.biligame.com/sr/敌人筛选",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/9/9e/ic3h1im9fiogwi3eni5zqx7ufjx5c1m.png",
+    "sourceKind": "original-game-monster-art-community-wiki"
+  },
+  {
+    "id": "bubbleHound",
+    "name": "气泡锂犬",
+    "sourcePage": "https://wiki.biligame.com/sr/敌人筛选",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/6/6a/7le2zfzmd1hhht8kgym0da4gqh7bxtb.png",
+    "sourceKind": "original-game-monster-art-community-wiki"
+  },
+  {
+    "id": "domescreen",
+    "name": "圆幕先生",
+    "sourcePage": "https://wiki.biligame.com/sr/敌人筛选",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/6/66/mscebp1owa0ebvjl4pmbf6xcrao7cdz.png",
+    "sourceKind": "original-game-monster-art-community-wiki"
+  },
+  {
+    "id": "springDealer",
+    "name": "弹簧荷官",
+    "sourcePage": "https://wiki.biligame.com/sr/敌人筛选",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/e/eb/tr2sbjudpcewvednrrnhy8jc43g6i6y.png",
+    "sourceKind": "original-game-monster-art-community-wiki"
+  },
+  {
+    "id": "tideBlade",
+    "name": "黑潮蚀刃",
+    "sourcePage": "https://wiki.biligame.com/sr/敌人筛选",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/7/78/07pegezfu6m3moejru6huygtxf6nsjf.png",
+    "sourceKind": "original-game-monster-art-community-wiki"
+  },
+  {
+    "id": "tideBow",
+    "name": "黑潮朽弓",
+    "sourcePage": "https://wiki.biligame.com/sr/敌人筛选",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/d/d1/iv4rpkd176ib95iu68hv9ghlt481799.png",
+    "sourceKind": "original-game-monster-art-community-wiki"
+  },
+  {
+    "id": "tideAxe",
+    "name": "黑潮蚀斧",
+    "sourcePage": "https://wiki.biligame.com/sr/敌人筛选",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/4/44/pn8dzq9q5jagec6tyj9ccxdx6fotr1i.png",
+    "sourceKind": "original-game-monster-art-community-wiki"
+  },
+  {
+    "id": "tideCouncil",
+    "name": "黑潮参议",
+    "sourcePage": "https://wiki.biligame.com/sr/敌人筛选",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/a/a7/pcqdw11uv5ywz4ec9vr6bbn9ogdnk7j.png",
+    "sourceKind": "original-game-monster-art-community-wiki"
+  },
+  {
+    "id": "enemy_lotus",
+    "name": "破灭玄莲",
+    "sourcePage": "https://wiki.biligame.com/sr/敌人筛选",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/a/af/fxmkqjyqo5nsvzr6g7i83e1ja4hkxmm.png",
+    "sourceKind": "original-game-monster-art-community-wiki"
+  }
+]

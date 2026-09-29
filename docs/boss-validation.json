@@ -1,0 +1,1881 @@
+{
+  "version": "0.4.0",
+  "verifiedAt": "2026-09-29T03:43:19.708Z",
+  "testCommand": "node scripts/validate-campaign.mjs",
+  "passed": 15,
+  "failed": 0,
+  "stageCount": 147,
+  "deckSize": 92,
+  "economy": {
+    "startingJade": 200,
+    "skyInterval": 7,
+    "robinInterval": 8,
+    "harmonyInterval": 10,
+    "holyflameInterval": 18
+  },
+  "scope": "15 deterministic initial/middle/final-stage campaigns using legal placements, card cooldowns, normal starting resources and scheduled waves. No injected units, jade or enemy-health reductions. Engine simulation; not an exhaustive balance study or browser playthrough.",
+  "campaigns": [
+    {
+      "map": "herta",
+      "mode": "classic",
+      "time": 46.45,
+      "stageId": "herta-01",
+      "stageNumber": 1,
+      "stageTitle": "主控舱段 · 初探防线",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 90,
+      "wave": 1,
+      "totalWaves": 1,
+      "lives": 5,
+      "kills": 5,
+      "units": 18,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 0,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 2.5500000000000016
+      },
+      "seed": 1732720717,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        5
+      ],
+      "deployments": 18
+    },
+    {
+      "map": "herta",
+      "mode": "classic",
+      "time": 171.35,
+      "stageId": "herta-12",
+      "stageNumber": 12,
+      "stageTitle": "支援舱段 · 交叉火力",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 2385,
+      "wave": 3,
+      "totalWaves": 3,
+      "lives": 5,
+      "kills": 22,
+      "units": 51,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 0,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 0,
+        "gepard": 0,
+        "trailblazer": 0,
+        "aventurine": 0,
+        "bailu": 1.9000000000000106
+      },
+      "seed": 1240355350,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        6,
+        8,
+        9
+      ],
+      "deployments": 45
+    },
+    {
+      "map": "herta",
+      "mode": "classic",
+      "time": 238.8,
+      "stageId": "herta-23",
+      "stageNumber": 23,
+      "stageTitle": "禁闭舱段 · 终章决战",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 5220,
+      "wave": 3,
+      "totalWaves": 3,
+      "lives": 5,
+      "kills": 33,
+      "units": 54,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 0,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 0,
+        "gepard": 0,
+        "trailblazer": 0,
+        "aventurine": 0,
+        "bailu": 0
+      },
+      "seed": 3201022608,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        9,
+        11,
+        12
+      ],
+      "deployments": 48
+    },
+    {
+      "map": "xianzhou",
+      "mode": "classic",
+      "time": 52.8,
+      "stageId": "xianzhou-01",
+      "stageNumber": 1,
+      "stageTitle": "星槎海中枢 · 初探防线",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 200,
+      "wave": 1,
+      "totalWaves": 1,
+      "lives": 5,
+      "kills": 5,
+      "units": 19,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 0,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 1.2500000000000135
+      },
+      "seed": 1428232946,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        5
+      ],
+      "deployments": 19
+    },
+    {
+      "map": "xianzhou",
+      "mode": "classic",
+      "time": 144.2,
+      "stageId": "xianzhou-15",
+      "stageNumber": 15,
+      "stageTitle": "太卜司 · 精英拦截",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 1910,
+      "wave": 2,
+      "totalWaves": 2,
+      "lives": 5,
+      "kills": 18,
+      "units": 45,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 1,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 0,
+        "gepard": 0,
+        "trailblazer": 0,
+        "aventurine": 1.650068970349139e-14
+      },
+      "seed": 2925502762,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        6,
+        8
+      ],
+      "deployments": 39
+    },
+    {
+      "map": "xianzhou",
+      "mode": "classic",
+      "time": 245.75,
+      "stageId": "xianzhou-29",
+      "stageNumber": 29,
+      "stageTitle": "鳞渊境 · 终章决战",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 5570,
+      "wave": 3,
+      "totalWaves": 3,
+      "lives": 5,
+      "kills": 39,
+      "units": 54,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 10,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 0,
+        "gepard": 0,
+        "trailblazer": 0,
+        "aventurine": 0,
+        "bailu": 0
+      },
+      "seed": 324112496,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        9,
+        11,
+        12
+      ],
+      "deployments": 48
+    },
+    {
+      "map": "penacony",
+      "mode": "classic",
+      "time": 50.5,
+      "stageId": "penacony-01",
+      "stageNumber": 1,
+      "stageTitle": "白日梦酒店（现实） · 初探防线",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 200,
+      "wave": 1,
+      "totalWaves": 1,
+      "lives": 5,
+      "kills": 5,
+      "units": 19,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 0,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 3.5500000000000087
+      },
+      "seed": 1428232946,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        5
+      ],
+      "deployments": 19
+    },
+    {
+      "map": "penacony",
+      "mode": "classic",
+      "time": 62.8,
+      "stageId": "penacony-16",
+      "stageNumber": 16,
+      "stageTitle": "稚子的梦 · 漫长一夜",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 230,
+      "wave": 1,
+      "totalWaves": 1,
+      "lives": 5,
+      "kills": 6,
+      "units": 21,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 0,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 3.2500000000000098
+      },
+      "seed": 3334113466,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        6
+      ],
+      "deployments": 21
+    },
+    {
+      "map": "penacony",
+      "mode": "classic",
+      "time": 251.85,
+      "stageId": "penacony-32",
+      "stageNumber": 32,
+      "stageTitle": "匹诺康尼大剧院 · 终章决战",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 5820,
+      "wave": 3,
+      "totalWaves": 3,
+      "lives": 5,
+      "kills": 33,
+      "units": 54,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 0,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 0,
+        "gepard": 0,
+        "trailblazer": 0,
+        "aventurine": 0,
+        "bailu": 0
+      },
+      "seed": 3112149396,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        9,
+        11,
+        12
+      ],
+      "deployments": 48
+    },
+    {
+      "map": "amphoreus",
+      "mode": "classic",
+      "time": 49.15,
+      "stageId": "amphoreus-01",
+      "stageNumber": 1,
+      "stageTitle": "永恒圣城·奥赫玛 · 初探防线",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 150,
+      "wave": 1,
+      "totalWaves": 1,
+      "lives": 5,
+      "kills": 5,
+      "units": 19,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 0,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 4.850000000000004
+      },
+      "seed": 1428232946,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        5
+      ],
+      "deployments": 19
+    },
+    {
+      "map": "amphoreus",
+      "mode": "classic",
+      "time": 188.5,
+      "stageId": "amphoreus-18",
+      "stageNumber": 18,
+      "stageTitle": "穹顶关塞·晨昏之眼 · 侧翼警戒",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 3090,
+      "wave": 3,
+      "totalWaves": 3,
+      "lives": 5,
+      "kills": 24,
+      "units": 54,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 0,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 0,
+        "gepard": 0,
+        "trailblazer": 0,
+        "aventurine": 0,
+        "bailu": 0
+      },
+      "seed": 619270873,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        6,
+        8,
+        9
+      ],
+      "deployments": 48
+    },
+    {
+      "map": "amphoreus",
+      "mode": "classic",
+      "time": 271.65,
+      "stageId": "amphoreus-36",
+      "stageNumber": 36,
+      "stageTitle": "呓语密林·神悟树庭 · 终章决战",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 7165,
+      "wave": 3,
+      "totalWaves": 3,
+      "lives": 5,
+      "kills": 50,
+      "units": 54,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 1,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 0,
+        "gepard": 0,
+        "trailblazer": 0,
+        "aventurine": 0,
+        "bailu": 0
+      },
+      "seed": 2625524137,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        9,
+        11,
+        12
+      ],
+      "deployments": 48
+    },
+    {
+      "map": "planarcadia",
+      "mode": "classic",
+      "time": 49.15,
+      "stageId": "planarcadia-01",
+      "stageNumber": 1,
+      "stageTitle": "鸽川区 · 初探防线",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 100,
+      "wave": 1,
+      "totalWaves": 1,
+      "lives": 5,
+      "kills": 5,
+      "units": 19,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 0,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0.8500000000000025,
+        "himeko": 4.900000000000004
+      },
+      "seed": 1428232946,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        5
+      ],
+      "deployments": 19
+    },
+    {
+      "map": "planarcadia",
+      "mode": "classic",
+      "time": 392.85,
+      "stageId": "planarcadia-14",
+      "stageNumber": 14,
+      "stageTitle": "绘世学院 · 奇遇变身",
+      "stageModifier": "random-transform",
+      "status": "victory",
+      "jade": 290,
+      "wave": 2,
+      "totalWaves": 2,
+      "lives": 5,
+      "kills": 13,
+      "units": 56,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 4,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 0,
+        "gepard": 0
+      },
+      "seed": 991237935,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        6,
+        8
+      ],
+      "deployments": 30
+    },
+    {
+      "map": "planarcadia",
+      "mode": "classic",
+      "time": 249.95,
+      "stageId": "planarcadia-27",
+      "stageNumber": 27,
+      "stageTitle": "「世界尽头」酒馆 · 终章决战",
+      "stageModifier": null,
+      "status": "victory",
+      "jade": 5760,
+      "wave": 3,
+      "totalWaves": 3,
+      "lives": 5,
+      "kills": 37,
+      "units": 54,
+      "pompoms": [
+        {
+          "row": 0,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 1,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 2,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 3,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 4,
+          "x": -0.82,
+          "state": "ready"
+        },
+        {
+          "row": 5,
+          "x": -0.82,
+          "state": "ready"
+        }
+      ],
+      "enemies": 0,
+      "charmed": 3,
+      "nextWaveIn": 0,
+      "waveResting": false,
+      "cooldowns": {
+        "robin": 0,
+        "march": 0,
+        "dan": 0,
+        "himeko": 0,
+        "gepard": 0,
+        "trailblazer": 0,
+        "aventurine": 0,
+        "bailu": 0
+      },
+      "seed": 4223447050,
+      "boss": null,
+      "links": [
+        {
+          "id": "dragon_thunder",
+          "name": "龙吟天将",
+          "members": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actors": [
+            "imbibitor",
+            "jingyuan"
+          ],
+          "actorIds": [],
+          "description": "饮月与景元联手，对全场敌人造成 360 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "earthbound_oath",
+          "name": "青龙守土",
+          "members": [
+            "permansor",
+            "dan"
+          ],
+          "actors": [
+            "permansor",
+            "dan"
+          ],
+          "actorIds": [],
+          "description": "腾荒与丹恒为全队提供 300 护盾，并对全场敌人造成 120 伤害。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        },
+        {
+          "id": "foxflame_meteor",
+          "name": "云火熔星",
+          "members": [
+            "fugue",
+            "firefly"
+          ],
+          "actors": [
+            "fugue",
+            "firefly"
+          ],
+          "actorIds": [],
+          "description": "忘归人与流萤造成 200 范围伤害，附加 8 秒易伤与 5 秒减速。",
+          "charge": 0,
+          "required": 5,
+          "available": false,
+          "ready": false
+        }
+      ],
+      "initialJade": 200,
+      "waveEnemyCounts": [
+        9,
+        11,
+        12
+      ],
+      "deployments": 48
+    }
+  ]
+}

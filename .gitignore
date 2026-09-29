@@ -1,0 +1,21 @@
+node_modules/
+dist/
+release/
+*.log
+.DS_Store
+.cache/
+tests/evidence/
+tests/*-desktop.png
+src/generated-assets.js
+
+# Local third-party artwork and complete preview builds are not published.
+public/assets/
+docs/**/*.html
+docs/official-world-*.js
+docs/**/*.png
+tests/*.png
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example

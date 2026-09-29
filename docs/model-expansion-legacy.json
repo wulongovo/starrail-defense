@@ -1,0 +1,3309 @@
+[
+  {
+    "id": "ruanmei",
+    "archive": ".cache/official-models/Gxm0u19xqp.zip",
+    "match": "阮·梅1\\.0",
+    "source": "https://activity.hdslb.com/blackboard/static/20240618/b9c873d2bae0a426d034e1ded5abe09d/Gxm0u19xqp.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "status": "converted",
+    "pmxPath": "public/assets/models/ruanmei/星穹铁道—阮·梅/阮·梅1.0.pmx",
+    "bundlePath": "public/assets/models/ruanmei/bundle.json",
+    "archiveSha256": "6373f9bf6baa2807fba86209695a55a66ddfc97250cbc3a61e7ea0c28ee72e4c",
+    "pmxSha256": "6292fcec0dac8961dcef7afd6285fc270f08a4a3b94738523befe8c67335c5f5",
+    "vertices": 27683,
+    "triangles": 36815,
+    "bones": 729,
+    "textureCount": 4,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3533843,
+    "modelName": "阮梅",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/ruanmei/星穹铁道—阮·梅/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1203",
+    "archive": ".cache/official-models/dizgPXd9hk.zip",
+    "match": "^罗刹\\.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/static/20240326/ed208e0685394224eb0049ea11d67202/dizgPXd9hk.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1203/星穹铁道-罗刹/罗刹.pmx",
+    "bundlePath": "public/assets/models/hsr_1203/bundle.json",
+    "archiveSha256": "88705b61a0db9f93baed2e89013abba8860ddb3f9ea6a583f626f32e54f0187a",
+    "pmxSha256": "88d075ff3e2c6ebf0ce6ae799ad716ada195284a9a31815a065ad50299cde731",
+    "vertices": 21246,
+    "triangles": 26686,
+    "bones": 650,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 2835487,
+    "modelName": "罗刹",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1203/星穹铁道-罗刹/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1307",
+    "archive": ".cache/official-models/1707388202992.zip",
+    "match": "黑天鹅（优化）",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/26579185b68626a64acf55e9abef3322/1707388202992.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1307/星穹铁道—黑天鹅（优化）.pmx",
+    "bundlePath": "public/assets/models/hsr_1307/bundle.json",
+    "archiveSha256": "933538381072e39f9aa9cc4f950eb92152333124198170c99305b4325bf1c0a3",
+    "pmxSha256": "4143bb4128332ff0c5c15c5d4bcc937234b4ea264b2d7f6256af0fea0385bc47",
+    "vertices": 28459,
+    "triangles": 38381,
+    "bones": 383,
+    "textureCount": 8,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3860694,
+    "modelName": "星穹铁道—黑天鹅",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1307/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1301",
+    "archive": ".cache/official-models/1711445347987.zip",
+    "match": "加拉赫",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1711445347987.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1301/星穹铁道—加拉赫.pmx",
+    "bundlePath": "public/assets/models/hsr_1301/bundle.json",
+    "archiveSha256": "dc1d23241a56d649ae418868685d19f7a8362ca694e270d8ba205a09ca7da1cc",
+    "pmxSha256": "b2146a9900c667c8ca0cfa3b7db57d158077873192c5a7549d2fb305813bc7ea",
+    "vertices": 21645,
+    "triangles": 34905,
+    "bones": 198,
+    "textureCount": 7,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 2927974,
+    "modelName": "星穹铁道—加拉赫",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1301/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1312",
+    "archive": ".cache/official-models/hckTR6B532.zip",
+    "match": "米沙\\.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/static/20240205/9634f55137cff5d24df20d1d2d7780b9/hckTR6B532.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1312/星穹铁道—米沙.pmx",
+    "bundlePath": "public/assets/models/hsr_1312/bundle.json",
+    "archiveSha256": "9293662b7423b58b20b58a1307b9853ad9e3d5ed8c38404a527c024fb71bd93e",
+    "pmxSha256": "967bc70b97bbba98cb20b96bd08a5890b1ceda1d479f64f56b2007545c3edfba",
+    "vertices": 22946,
+    "triangles": 34574,
+    "bones": 256,
+    "textureCount": 7,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3153355,
+    "modelName": "星穹铁道—米沙",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1312/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1314",
+    "archive": ".cache/official-models/1718720930285.zip",
+    "match": "翡翠\\.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1718720930285.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1314/星穹铁道—翡翠.pmx",
+    "bundlePath": "public/assets/models/hsr_1314/bundle.json",
+    "archiveSha256": "f4cbd30f8de4666abf8bf8000bc7ae27ea12af82ac7e92c17acd7b6e9535ae42",
+    "pmxSha256": "332621282894d6e532c2f9ff4d1e6fe4824de409834ff53d490f61366b312474",
+    "vertices": 35586,
+    "triangles": 47890,
+    "bones": 545,
+    "textureCount": 7,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 4995075,
+    "modelName": "星穹铁道—翡翠",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1314/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "acheron",
+    "archive": ".cache/official-models/1711445313231.zip",
+    "match": "黄泉（轴修复）",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1711445313231.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "exclude": "黄泉红",
+    "status": "converted",
+    "pmxPath": "public/assets/models/acheron/星穹铁道—黄泉/星穹铁道—黄泉（轴修复）.pmx",
+    "bundlePath": "public/assets/models/acheron/bundle.json",
+    "archiveSha256": "11dd60d9f4117e4d53a1c4ddd55cba079467f7f73a24512896665c42683b92c3",
+    "pmxSha256": "332d501446a8d3393f524bac3c12d53636e515ba49b5b3a35ae23ecfd22f3d64",
+    "vertices": 28266,
+    "triangles": 44425,
+    "bones": 359,
+    "textureCount": 7,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3718809,
+    "modelName": "星穹铁道—黄泉",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/acheron/星穹铁道—黄泉/使用规则.txt",
+      "public/assets/models/acheron/星穹铁道—黄泉红/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1206",
+    "archive": ".cache/official-models/pcjqzQMK1H.zip",
+    "match": "李素裳1",
+    "source": "https://activity.hdslb.com/blackboard/static/20231114/952f7c986d30869651e51a154c9fc2bc/pcjqzQMK1H.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": "docs\\official-model-page-15.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1206/星穹铁道—李素裳/李素裳1.0.pmx",
+    "bundlePath": "public/assets/models/hsr_1206/bundle.json",
+    "archiveSha256": "3ccb2775d0c57431016eb38d6bfb0c60a686be5a766dde37d46198f57d9c4b18",
+    "pmxSha256": "21091794bd7ff4fca7c6963eb7c7764ac6e52ed35d1f4cbb9a937bebbc3652a1",
+    "vertices": 21481,
+    "triangles": 27778,
+    "bones": 667,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 2994037,
+    "modelName": "李素裳",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1206/星穹铁道—李素裳/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "imbibitor",
+    "archive": ".cache/official-models/qthVUsV3WV.rar",
+    "match": "饮月君1708",
+    "source": "https://activity.hdslb.com/blackboard/static/20230829/952f7c986d30869651e51a154c9fc2bc/qthVUsV3WV.rar",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-20.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/imbibitor/星穹铁道—饮月君/星穹铁道—饮月君1708.pmx",
+    "bundlePath": "public/assets/models/imbibitor/bundle.json",
+    "archiveSha256": "d9fc35a714e4bb885da0c88d3a2610f954638a3c2d7bd5f5f1400ef3f04a1005",
+    "pmxSha256": "e1116cfb609976956b1ab021b315410f91d97098f17447c1a99a712e61327f6a",
+    "vertices": 23377,
+    "triangles": 33112,
+    "bones": 341,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3168382,
+    "modelName": "星穹铁道—饮月君",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/imbibitor/星穹铁道—饮月君/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1208",
+    "archive": ".cache/official-models/bH3xux8eZw.rar",
+    "match": "符玄（",
+    "source": "https://activity.hdslb.com/blackboard/static/20230829/952f7c986d30869651e51a154c9fc2bc/bH3xux8eZw.rar",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-13.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1208/符玄（鞋+发饰补差145cm）(目修).pmx",
+    "bundlePath": "public/assets/models/hsr_1208/bundle.json",
+    "archiveSha256": "741c19433308377a135b02e363bfb81c223825ecfe1a0d9df662c54e97fb344c",
+    "pmxSha256": "5056064dc1193c81d3988b92580e45801fdc4b09bc931b3ac62edbcd285cfd2f",
+    "vertices": 34590,
+    "triangles": 46441,
+    "bones": 603,
+    "textureCount": 8,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 4462074,
+    "modelName": "符玄",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1208/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1110",
+    "archive": ".cache/official-models/SZmtrBI19D.zip",
+    "match": "玲可2",
+    "source": "https://activity.hdslb.com/blackboard/static/20230829/952f7c986d30869651e51a154c9fc2bc/SZmtrBI19D.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-13.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1110/星穹铁道—玲可/星穹铁道—玲可/玲可2.0.pmx",
+    "bundlePath": "public/assets/models/hsr_1110/bundle.json",
+    "archiveSha256": "b5266e5243c404d8dc01d29beca1f0aafda8cabe8fb86a00c4cd563131e03476",
+    "pmxSha256": "57fd137a2c66b69a2285517bf0097703b20ca18325c83b2d03651cd641b46f34",
+    "vertices": 21041,
+    "triangles": 27470,
+    "bones": 515,
+    "textureCount": 4,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 2968126,
+    "modelName": "玲可",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1110/星穹铁道—玲可/星穹铁道—玲可/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1217",
+    "archive": ".cache/official-models/CAM0NJscIQ.zip",
+    "match": "藿藿4",
+    "source": "https://activity.hdslb.com/blackboard/static/20231115/952f7c986d30869651e51a154c9fc2bc/CAM0NJscIQ.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": "docs\\official-model-page-15.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1217/星穹铁道—藿藿/藿藿4.0.pmx",
+    "bundlePath": "public/assets/models/hsr_1217/bundle.json",
+    "archiveSha256": "5522046c8d49a686e944a7c06632be57736af0196c51c02cefc46eb4861c72af",
+    "pmxSha256": "578bc491d03caa93f3ea854ad3727559563ee56f66d63db26b9f6417da106aee",
+    "vertices": 28373,
+    "triangles": 35950,
+    "bones": 532,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3395196,
+    "modelName": "藿藿",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1217/星穹铁道—藿藿/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1215",
+    "archive": ".cache/official-models/YfkQbSdlDy.zip",
+    "match": "寒鸦3",
+    "source": "https://activity.hdslb.com/blackboard/static/20231115/952f7c986d30869651e51a154c9fc2bc/YfkQbSdlDy.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": "docs\\official-model-page-15.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1215/星穹铁道—寒鸦3.0/寒鸦3.0.pmx",
+    "bundlePath": "public/assets/models/hsr_1215/bundle.json",
+    "archiveSha256": "aa207854437e5d9e14023ba20c3395652bdb89eb313113229786791ead75f371",
+    "pmxSha256": "90a2fda4919c6682e258047a6f490c2421de24073e64e1621b8dc3c486f7b279",
+    "vertices": 20836,
+    "triangles": 27611,
+    "bones": 525,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 2714325,
+    "modelName": "寒鸦",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1215/星穹铁道—寒鸦3.0/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "topaz",
+    "archive": ".cache/official-models/nsMyeITQJr.zip",
+    "match": "^托帕.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/static/20240507/b9c873d2bae0a426d034e1ded5abe09d/nsMyeITQJr.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": "docs\\official-model-page-22.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/topaz/星穹铁道—托帕/托帕.pmx",
+    "bundlePath": "public/assets/models/topaz/bundle.json",
+    "archiveSha256": "963c2569f6dd79e3574106dcdb58db31f4991c15c4ba15f39a8248fbeed86b8d",
+    "pmxSha256": "11ce37b04725aa321c721f179bec4490ae50fb7d686a8dc4823efc8538ccc8d2",
+    "vertices": 21605,
+    "triangles": 26874,
+    "bones": 243,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 2941066,
+    "modelName": "托帕",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/topaz/星穹铁道—托帕/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "fugue",
+    "archive": ".cache/official-models/1733217194992.zip",
+    "match": "^星穹铁道—忘归人.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1733217194992.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-27.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/fugue/星穹铁道—忘归人.pmx",
+    "bundlePath": "public/assets/models/fugue/bundle.json",
+    "archiveSha256": "a3f8b6e9f9aca6e1ba3135c7eeb8eb697016b39366da7a39af34265aa0804bf7",
+    "pmxSha256": "9bfb03521f6e70b99ecc49495c18e4a8d9fd337ba3d49cd97b0dd38cdc2fce86",
+    "vertices": 34553,
+    "triangles": 51373,
+    "bones": 621,
+    "textureCount": 7,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 4764685,
+    "modelName": "星穹铁道—忘归人",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/fugue/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1209",
+    "archive": ".cache/official-models/0QZtYGex1c.zip",
+    "match": "彦卿1",
+    "source": "https://activity.hdslb.com/blackboard/static/20230425/952f7c986d30869651e51a154c9fc2bc/0QZtYGex1c.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-10b.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1209/星穹铁道—彦卿/彦卿1.0.pmx",
+    "bundlePath": "public/assets/models/hsr_1209/bundle.json",
+    "archiveSha256": "35957bb6cbfd71217f1a8deb44779d6fcb440662e061dd3ec98d8eeaa252b919",
+    "pmxSha256": "3bae86b598edbb201ef276a7de43782eae4e7ea4c4310600eeabd14e0377074d",
+    "vertices": 27369,
+    "triangles": 34348,
+    "bones": 577,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 4873511,
+    "modelName": "彦卿",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1209/星穹铁道—彦卿/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1315",
+    "archive": ".cache/official-models/1715061669954.zip",
+    "match": "波提欧2",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1715061669954.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": "docs\\official-model-page-22.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1315/星穹铁道—波提欧2.pmx",
+    "bundlePath": "public/assets/models/hsr_1315/bundle.json",
+    "archiveSha256": "0378a17399390f80bfb9f041cf6a7be7e411ba13aabcd745adf4ed6ef6f53ac0",
+    "pmxSha256": "4993683f52adc62914b9558e07c91fe6edecc3df9d45778c922b5d42236f9192",
+    "vertices": 37026,
+    "triangles": 48693,
+    "bones": 354,
+    "textureCount": 8,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 5079623,
+    "modelName": "星穹铁道—波提欧",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1315/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "jingyuan",
+    "archive": ".cache/official-models/tXqGIXKLok.zip",
+    "match": "^景元.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/static/20230425/952f7c986d30869651e51a154c9fc2bc/tXqGIXKLok.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-10b.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/jingyuan/星穹铁道—景元/景元.pmx",
+    "bundlePath": "public/assets/models/jingyuan/bundle.json",
+    "archiveSha256": "82bffa9e3632ad21fc9e1cabc8a4d22a0dcf72d26ed8a8f3ef03e8e843527196",
+    "pmxSha256": "7bcd7acc3ced3f04a536214221e246b9b6b4c17db8c8f3de01a1876ca84ca041",
+    "vertices": 23854,
+    "triangles": 29990,
+    "bones": 406,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 4597189,
+    "modelName": "景元",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/jingyuan/星穹铁道—景元/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1102",
+    "archive": ".cache/official-models/TLRRr6ygGr.zip",
+    "match": "^希儿.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/static/20230425/952f7c986d30869651e51a154c9fc2bc/TLRRr6ygGr.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-10b.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1102/星穹铁道—希儿/希儿.pmx",
+    "bundlePath": "public/assets/models/hsr_1102/bundle.json",
+    "archiveSha256": "199d57c2432e87162b59a89fa4f58814e58ab1437787278cf8a6d950cd3ca0fb",
+    "pmxSha256": "c0d8901be106b02d0f39fd5bdb4ba5c9c652b4fa4abf51dd34db2ca79df9bd56",
+    "vertices": 28126,
+    "triangles": 36570,
+    "bones": 542,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3779561,
+    "modelName": "希儿",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1102/星穹铁道—希儿/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "yunli",
+    "archive": ".cache/official-models/1722339659553.zip",
+    "match": "云璃2",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1722339659553.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-24.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/yunli/星穹铁道—云璃2.pmx",
+    "bundlePath": "public/assets/models/yunli/bundle.json",
+    "archiveSha256": "9fa09acad159c0dd103051139b16a01e75a61f470cf01e662fd75f32ae05165a",
+    "pmxSha256": "d1d3ef7272fc9f083f3176e73b6c6590dd6b68024edc2a516b9a9a5749ab8b22",
+    "vertices": 30909,
+    "triangles": 41976,
+    "bones": 411,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 4150717,
+    "modelName": "星穹铁道—云璃",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/yunli/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1218",
+    "archive": ".cache/official-models/1722339646643.zip",
+    "match": "椒丘2",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1722339646643.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-24.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1218/星穹铁道—椒丘2.pmx",
+    "bundlePath": "public/assets/models/hsr_1218/bundle.json",
+    "archiveSha256": "ff3cf77d2ee2476c8029e1ff9c65916e01a7f24cfd8a2a48c506945bc9216781",
+    "pmxSha256": "90fba8e096bcd991e88bf3aa0bd0863b85cda1c3a99260a5c94caebd26ef3bd6",
+    "vertices": 28646,
+    "triangles": 40898,
+    "bones": 425,
+    "textureCount": 7,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 4164308,
+    "modelName": "星穹铁道—椒丘",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo\r\n\r\n需要睁眼请用Eye_Open表情",
+    "rules": [
+      "public/assets/models/hsr_1218/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1220",
+    "archive": ".cache/official-models/1725879800506.zip",
+    "match": "飞霄.*pmx",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1725879800506.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-25.html",
+    "exclude": "无外套|武器|斧|枪",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1220/星穹铁道—飞霄/星穹铁道—飞霄.pmx",
+    "bundlePath": "public/assets/models/hsr_1220/bundle.json",
+    "archiveSha256": "288bf841b0112c32aa095cc97648e5d380cee8e6a368e86f4618558c95478eee",
+    "pmxSha256": "8d4f863e7698d048da5ba11e03c620dea1a6b0c9a1365e43ad65a4ca77bfd1c3",
+    "vertices": 33461,
+    "triangles": 42917,
+    "bones": 609,
+    "textureCount": 7,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 5396668,
+    "modelName": "星穹铁道—飞霄",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1220/星穹铁道—飞霄/使用规则.txt",
+      "public/assets/models/hsr_1220/星穹铁道—飞霄（无外套）/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1222",
+    "archive": ".cache/official-models/1725879805144.zip",
+    "match": "^星穹铁道—灵砂.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1725879805144.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-25.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1222/星穹铁道—灵砂/星穹铁道—灵砂（含武器）/星穹铁道—灵砂.pmx",
+    "bundlePath": "public/assets/models/hsr_1222/bundle.json",
+    "archiveSha256": "83647cb4d794e340d607b54776ff371aba926af3c2466378f8776d95960c5838",
+    "pmxSha256": "98ae113d08a92261ed8d1f0f453c7941aacc13c7394a9d82f643aeb6933cdd67",
+    "vertices": 26849,
+    "triangles": 40876,
+    "bones": 413,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3971958,
+    "modelName": "星穹铁道—灵砂",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1222/星穹铁道—灵砂/星穹铁道—灵砂（含武器）/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1223",
+    "archive": ".cache/official-models/1725879807990.zip",
+    "match": "^貊泽.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1725879807990.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-25.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1223/星穹铁道—貊泽/星穹铁道—貊泽（含武器）/貊泽.pmx",
+    "bundlePath": "public/assets/models/hsr_1223/bundle.json",
+    "archiveSha256": "8e4d83036cdeacbbe78ecf9499d28ca630ae9c906bdb84098388f03b4243ee27",
+    "pmxSha256": "3ed049a5d222b6cd38ae4e51f7e0cba5d9c35634b0e6d2cbd215988fb63227b0",
+    "vertices": 27184,
+    "triangles": 37525,
+    "bones": 451,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3696272,
+    "modelName": "星穹铁道—貘泽",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1223/星穹铁道—貊泽/星穹铁道—貊泽（含武器）/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1317",
+    "archive": ".cache/official-models/1729577545656.zip",
+    "match": "^星穹铁道—乱破.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/6a116206859e3782d423a9fed488a27d/1729577545656.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-26.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1317/星穹铁道—乱破.pmx",
+    "bundlePath": "public/assets/models/hsr_1317/bundle.json",
+    "archiveSha256": "00d6d137bd18ca2cf824e0318ed4d483ef30ab3ad07a7876479ff6f162d07bd6",
+    "pmxSha256": "4bca7af5ee78fcfb7553f9cdd30bc057316261ee0b2ad5da8f98e17c1d4375e0",
+    "vertices": 30203,
+    "triangles": 36089,
+    "bones": 337,
+    "textureCount": 7,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 4652061,
+    "modelName": "星穹铁道—乱破",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo\r\n\r\n若围巾末端火焰影响渲染请使用表情“焱OFF”",
+    "rules": [
+      "public/assets/models/hsr_1317/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1321",
+    "archive": ".cache/official-models/lcXppcxNLZ.zip",
+    "match": "大丽花2",
+    "source": "https://i0.hdslb.com/bfs/activity-plat/static/20251215/c5a22796cbc31f5e9b4f05b38ba40c0c/lcXppcxNLZ.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-38.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1321/星穹铁道—大丽花2.pmx",
+    "bundlePath": "public/assets/models/hsr_1321/bundle.json",
+    "archiveSha256": "7a2ef31557f635b743e0eda809ad6e0fb3f4bbcf5a889c8e282286499602238f",
+    "pmxSha256": "ccb0f39f8bd50e06003764a1be0cc6b77eacc6f233aeb000781ae7c51d20fa6b",
+    "vertices": 38151,
+    "triangles": 51120,
+    "bones": 504,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 5079462,
+    "modelName": "星穹铁道—大丽花",
+    "originalComment": "===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1321/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜赤+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      },
+      {
+        "name": "爪",
+        "texture": "武器.png",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1302",
+    "archive": ".cache/official-models/1699937217222.zip",
+    "match": "银枝3",
+    "source": "https://activity.hdslb.com/blackboard/maxfiles/f985944a62b756dbd4f9d46c618cf0ec/1699937217222.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": "docs\\official-model-page-15.html",
+    "limitations": "Original package omits 颜赤.tga used only by the initially transparent blush expression layer. That alpha=0 layer is disabled and recorded; original PMX bytes are unchanged. All visible material textures are present.",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1302/星穹铁道—银枝3.pmx",
+    "bundlePath": "public/assets/models/hsr_1302/bundle.json",
+    "archiveSha256": "ff15ad163120164527400e5b0b3c341ebf459c85ac8e3bb8469612535c4baf6a",
+    "pmxSha256": "ad22c294d33f5626df2ac6d2704cf4eb41ec9902cb794269fd39514d697aeeaa",
+    "vertices": 32653,
+    "triangles": 41665,
+    "bones": 343,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3962603,
+    "modelName": "星穹铁道—银枝",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1302/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "earlierArchiveAttempt": {
+      "archive": ".cache/official-models/1718720959491.zip",
+      "archiveSha256": "ff15ad163120164527400e5b0b3c341ebf459c85ac8e3bb8469612535c4baf6a",
+      "result": "Converter initially rejected missing 颜赤.tga. Subsequent source inspection verified it belongs only to alpha=0 optional blush layer. Both original archives preserved."
+    },
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1212",
+    "archive": ".cache/official-models/h8zNwY8x15.zip",
+    "match": "镜流2",
+    "source": "https://activity.hdslb.com/blackboard/static/20231007/952f7c986d30869651e51a154c9fc2bc/h8zNwY8x15.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-14.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1212/星穹铁道—镜流/镜流2.0.pmx",
+    "bundlePath": "public/assets/models/hsr_1212/bundle.json",
+    "archiveSha256": "0d83260c18ec2d0b18b065fde7b27046d5ef103e070f8d560c0c4309d4aa2277",
+    "pmxSha256": "aed89d3d6e94a9a620621cd6255a6649cca58c5536ee04a0916587c44f3e3431",
+    "vertices": 26856,
+    "triangles": 33921,
+    "bones": 561,
+    "textureCount": 4,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3256583,
+    "modelName": "镜流",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1212/星穹铁道—镜流/使用规则.txt",
+      "public/assets/models/hsr_1212/星穹铁道—镜流/裙子.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1214",
+    "archive": ".cache/official-models/qDqshE3J87.zip",
+    "match": "雪衣1",
+    "source": "https://activity.hdslb.com/blackboard/static/20231226/c5a22796cbc31f5e9b4f05b38ba40c0c/qDqshE3J87.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-16.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1214/星穹铁道—雪衣/雪衣1.0.pmx",
+    "bundlePath": "public/assets/models/hsr_1214/bundle.json",
+    "archiveSha256": "4997819b14746e273857e7dc2cf9216c1f89f8b57b80e4bafd05138c021368f4",
+    "pmxSha256": "0b3ce23f545b8005d4475a6b4d0ab868591b2a249cfb495b8ba9a2e34e3cc89d",
+    "vertices": 22216,
+    "triangles": 28088,
+    "bones": 594,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 2989274,
+    "modelName": "雪衣",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1214/星穹铁道—雪衣/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1305",
+    "archive": ".cache/official-models/7CHr4B4nKE.zip",
+    "match": "真理医生2",
+    "source": "https://activity.hdslb.com/blackboard/static/20231226/c5a22796cbc31f5e9b4f05b38ba40c0c/7CHr4B4nKE.zip",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-16.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1305/星穹铁道—真理医生2.pmx",
+    "bundlePath": "public/assets/models/hsr_1305/bundle.json",
+    "archiveSha256": "d48eb015cc4426695ea7c50391eb29c3ef50db6a043a02476f6b8a2214e166a6",
+    "pmxSha256": "13bf432e06394e98468787eeadd1d0af53184982338a8298ec9238c848d02360",
+    "vertices": 30176,
+    "triangles": 44722,
+    "bones": 363,
+    "textureCount": 7,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3819252,
+    "modelName": "星穹铁道—真理医生",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1305/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1210",
+    "archive": ".cache/official-models/U0YQ2NzsiE.rar",
+    "match": "^星穹铁道—桂乃芬.pmx$",
+    "source": "https://activity.hdslb.com/blackboard/static/20231007/952f7c986d30869651e51a154c9fc2bc/U0YQ2NzsiE.rar",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-14.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1210/星穹铁道—桂乃芬/星穹铁道—桂乃芬.pmx",
+    "bundlePath": "public/assets/models/hsr_1210/bundle.json",
+    "archiveSha256": "7dae580339226e1b680475f5c0ed3a66035deb1d6e9277e02caa8ebbd91a76a6",
+    "pmxSha256": "6fe17ff580be5e20363d860e3654e8c8eedfe07a9a442ecd2200e7c95a8a1cab",
+    "vertices": 25674,
+    "triangles": 37648,
+    "bones": 378,
+    "textureCount": 8,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3520519,
+    "modelName": "星穹铁道—桂乃芬",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1210/星穹铁道—桂乃芬/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1207",
+    "archive": ".cache/official-models/2GVrBDsQ92.rar",
+    "match": "^星穹铁道—驭空",
+    "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/2GVrBDsQ92.rar",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-12.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1207/星穹铁道—驭空/星穹铁道—驭空（改5）.pmx",
+    "bundlePath": "public/assets/models/hsr_1207/bundle.json",
+    "archiveSha256": "92540bdeeb473a2620d64c2fb51de75927e630f73552ecfa5e4cfb8e78a98451",
+    "pmxSha256": "6c49a507f6df444efca37973fc9c2d74c861c84de779e9dbbe2dd479917a0986",
+    "vertices": 23424,
+    "triangles": 35181,
+    "bones": 363,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3287610,
+    "modelName": "驭空",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1207/星穹铁道—驭空/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1111",
+    "archive": ".cache/official-models/QcVAkvL1bs.rar",
+    "match": "^卢卡",
+    "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/QcVAkvL1bs.rar",
+    "sourceKind": "official-bilibili-cdn",
+    "observedPageFile": ".cache\\official-models\\legacy-page-12.html",
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1111/卢卡（改.pmx",
+    "bundlePath": "public/assets/models/hsr_1111/bundle.json",
+    "archiveSha256": "bb095193472b92d076bd99b8b788240f5b8feadafdb771b5700b77970c2a447b",
+    "pmxSha256": "277f27d6f376df95eb20f38cbc7af26de7a58a020e6082275de9938e1f4b8967",
+    "vertices": 26098,
+    "triangles": 33655,
+    "bones": 206,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3392976,
+    "modelName": "星穹铁道—卢卡",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1111/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1009",
+    "name": "Asta",
+    "archive": ".cache/official-models/mirror-hsr_1009-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/13eXqZGzEbbOQUbhRSpkg39vV4d_zPw8p",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^星穹铁道—艾丝妲160\\.pmx$",
+    "pmxRelative": "星穹铁道—艾丝妲160.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1NxFcKVLykUsVQ266ywQh7RBzy-s_ZXrG&export=download",
+        "name": "1.png",
+        "sha256": "2a9a96e228bf9c90dd66b9634edf02b1f2dc1a79be1c18d6c685c1e92a5a83d2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1w3_Jmgq56cCyYKYENYbzKUPmLgpqvKja&export=download",
+        "name": "mc3.png",
+        "sha256": "0fde1f89ae2c63a95d2ea07458c6798f729210da32ad5aa5ed0863dddd9fc6a5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1ges_rYXgRB2gu3HvDHja1AeSqZvw6ywy&export=download",
+        "name": "toon2.png",
+        "sha256": "bc0ffbfdac5b6835645773d12d05be462b38771514a22a2a207d983675fdceb1"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1WVSghPMvQ-OvyaxsAyHV8Kt6qW7fzuuG&export=download",
+        "name": "toon3.png",
+        "sha256": "8d12bd90087202ecfeaafaba9f85fe5658d660d0b3bc445b8d0863d3518e95e2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1XXSRkcVHQuw431c2qFGzPza5IbFqCZll&export=download",
+        "name": "toon4.png",
+        "sha256": "558bdbca6108dc523be710472d42fc7fba515ec829d8ff0844130035066d6e25"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1r8xc9W1doD9T_XpQm--8tDRUUa--gU2j&export=download",
+        "name": "toon5.png",
+        "sha256": "b98480db6b55802fb1549c52fe771841387553dcb74f19ea25487ac9c15bdcf4"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1EU1Bz0xmGEco21Q9769v1TLjRqvtB4NC&export=download",
+        "name": "使用规则.txt",
+        "sha256": "4ae157d033f677b97ac131d4a1dc078b92578a01c81a51de85b1e536f6b1feee"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1-m41fHk_0Hma_Z695O1os3YU10Yn5Ne9&export=download",
+        "name": "外套.png",
+        "sha256": "84b191c9e597c5914a39112c07d8c13506df1dafb3dade3649d25242dd2537e3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1DG9h3uWafLZYnhirsLruCXwgL3BAdRf_&export=download",
+        "name": "外套内.png",
+        "sha256": "6680738f604285eefe2a7bcb093e6888b64b376975ea7fa4edf895622ce50dfb"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1D1bcZwfVD7GKXUrP8kGVFVbQVAnOIoyK&export=download",
+        "name": "星穹铁道—艾丝妲160.pmx",
+        "sha256": "d8eda15a034d55b90618fd995437ad5079abfe5190565a640e939dcc1dfe7ce0"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1yNZgXSS1EZ-M5R18jMLE7fNRBABN2gJU&export=download",
+        "name": "服.png",
+        "sha256": "9c17e8f7e1b913912483ee9cf9cce0c09512c99ac26155268e9575105c5d224d"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1g1_I8bqXsxvo_fylkP1V2jdPiDYY10wr&export=download",
+        "name": "服2.png",
+        "sha256": "9c17e8f7e1b913912483ee9cf9cce0c09512c99ac26155268e9575105c5d224d"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1WNUY7Q2mNdSVeDBk9YnuJKN2tBvGHPak&export=download",
+        "name": "武器.png",
+        "sha256": "93ea5ded35395e98d8fa52161ef6b699a6fbd1fd2a38ac25ad39d04b5739d9c0"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Gz1_ccNzZ_xuC44aRaoLJkxIfoTIX9Ze&export=download",
+        "name": "艾丝妲武器.pmx",
+        "sha256": "92509147b4927e0856601795f8e8a35d458a63391b33d94e2fdd080601b10e32"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1NIRjm4EvrZeHT406cIOzG6HxcIBS4BhV&export=download",
+        "name": "衣服2.png",
+        "sha256": "63fad5480d4ce811572c9a75c61b1df476a452b47a332fe6b2ad59b2f3729702"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1oUlpWd9lygN2iYwl2j0BjzDkjCvQqZSl&export=download",
+        "name": "颜.png",
+        "sha256": "0914443e92575e0a93bdfea9842460f8b6df9779f97dc8ee4b9e6cb4efccdee2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Sk0XQrjbQIMt63XXqmoLYaaU3NnJta6M&export=download",
+        "name": "髪.png",
+        "sha256": "c5bb4fa67b0b41b8cb501bc2c4eb226987edca83c30dc5abba60faf8f5037f2a"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1009/星穹铁道—艾丝妲160.pmx",
+    "bundlePath": "public/assets/models/hsr_1009/bundle.json",
+    "archiveSha256": "7ee0245b926686c85118061ef270e7c883df42ea2de52dfb4de5b4ef1788f80f",
+    "pmxSha256": "d8eda15a034d55b90618fd995437ad5079abfe5190565a640e939dcc1dfe7ce0",
+    "vertices": 26749,
+    "triangles": 32869,
+    "bones": 694,
+    "textureCount": 9,
+    "bundleBytes": 5262760,
+    "modelName": "星穹铁道—艾丝妲",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1009/使用规则.txt"
+    ],
+    "missingTextures": "No unresolved initially visible diffuse textures; explicit same-character source-package reference repairs documented",
+    "omittedTransparentMaterials": [],
+    "textureReferenceRepairs": [
+      {
+        "0": "同",
+        "1": "一",
+        "2": "角",
+        "3": "色",
+        "4": "原",
+        "5": "包",
+        "6": "：",
+        "7": "內",
+        "8": "遮",
+        "9": "为",
+        "10": "5",
+        "11": "6",
+        "12": "三",
+        "13": "角",
+        "14": "头",
+        "15": "部",
+        "16": "内",
+        "17": "部",
+        "18": "封",
+        "19": "口",
+        "20": "，",
+        "21": "1",
+        "22": "1",
+        "23": "2",
+        "24": "/",
+        "25": "1",
+        "26": "6",
+        "27": "8",
+        "28": "顶",
+        "29": "点",
+        "30": "与",
+        "31": "现",
+        "32": "有",
+        "33": "臉",
+        "34": "材",
+        "35": "质",
+        "36": "共",
+        "37": "享",
+        "38": "位",
+        "39": "置",
+        "40": "；",
+        "41": "现",
+        "42": "有",
+        "43": "臉",
+        "44": "、",
+        "45": "眼",
+        "46": "、",
+        "47": "眉",
+        "48": "目",
+        "49": "等",
+        "50": "均",
+        "51": "引",
+        "52": "用",
+        "53": "颜",
+        "54": ".",
+        "55": "p",
+        "56": "n",
+        "57": "g",
+        "58": "。",
+        "59": "核",
+        "60": "对",
+        "61": "原",
+        "62": "包",
+        "63": "脸",
+        "64": "部",
+        "65": "图",
+        "66": "集",
+        "67": "与",
+        "68": "U",
+        "69": "V",
+        "70": "范",
+        "71": "围",
+        "72": "后",
+        "73": "修",
+        "74": "复",
+        "75": "旧",
+        "76": "命",
+        "77": "名",
+        "78": "引",
+        "79": "用",
+        "80": "，",
+        "81": "原",
+        "82": "外",
+        "83": "脸",
+        "84": "不",
+        "85": "变",
+        "86": "。",
+        "original": "Avatar_Asta_00_Face_Color.png"
+      },
+      {
+        "0": "同",
+        "1": "一",
+        "2": "角",
+        "3": "色",
+        "4": "原",
+        "5": "包",
+        "6": "：",
+        "7": "上",
+        "8": "衣",
+        "9": "內",
+        "10": "襯",
+        "11": "+",
+        "12": "的",
+        "13": "全",
+        "14": "部",
+        "15": "2",
+        "16": "5",
+        "17": "0",
+        "18": "6",
+        "19": "顶",
+        "20": "点",
+        "21": "与",
+        "22": "上",
+        "23": "衣",
+        "24": "材",
+        "25": "质",
+        "26": "的",
+        "27": "位",
+        "28": "置",
+        "29": "和",
+        "30": "U",
+        "31": "V",
+        "32": "完",
+        "33": "全",
+        "34": "一",
+        "35": "致",
+        "36": "，",
+        "37": "上",
+        "38": "衣",
+        "39": "已",
+        "40": "经",
+        "41": "引",
+        "42": "用",
+        "43": "服",
+        "44": ".",
+        "45": "p",
+        "46": "n",
+        "47": "g",
+        "48": "；",
+        "49": "使",
+        "50": "用",
+        "51": "同",
+        "52": "一",
+        "53": "服",
+        "54": "装",
+        "55": "图",
+        "56": "集",
+        "57": "修",
+        "58": "复",
+        "59": "旧",
+        "60": "英",
+        "61": "文",
+        "62": "命",
+        "63": "名",
+        "64": "。",
+        "original": "Avatar_Asta_00_Body1_Color.png"
+      },
+      {
+        "0": "同",
+        "1": "一",
+        "2": "角",
+        "3": "色",
+        "4": "原",
+        "5": "包",
+        "6": "：",
+        "7": "裙",
+        "8": "內",
+        "9": "側",
+        "10": "2",
+        "11": "+",
+        "12": "的",
+        "13": "全",
+        "14": "部",
+        "15": "1",
+        "16": "3",
+        "17": "0",
+        "18": "顶",
+        "19": "点",
+        "20": "与",
+        "21": "下",
+        "22": "擺",
+        "23": "材",
+        "24": "质",
+        "25": "共",
+        "26": "享",
+        "27": "位",
+        "28": "置",
+        "29": "和",
+        "30": "周",
+        "31": "期",
+        "32": "U",
+        "33": "V",
+        "34": "，",
+        "35": "下",
+        "36": "擺",
+        "37": "已",
+        "38": "经",
+        "39": "引",
+        "40": "用",
+        "41": "外",
+        "42": "套",
+        "43": ".",
+        "44": "p",
+        "45": "n",
+        "46": "g",
+        "47": "；",
+        "48": "核",
+        "49": "对",
+        "50": "图",
+        "51": "集",
+        "52": "与",
+        "53": "U",
+        "54": "V",
+        "55": "后",
+        "56": "修",
+        "57": "复",
+        "58": "旧",
+        "59": "英",
+        "60": "文",
+        "61": "命",
+        "62": "名",
+        "63": "。",
+        "original": "Avatar_Asta_00_Body2_Color_A.png"
+      }
+    ],
+    "materialEvidence": "docs/model-material-evidence-legacy.json",
+    "limitations": [
+      "Internal face occlusion materials retain source degenerate UV; same-character face atlas is used as a local renderer adaptation, not a reconstruction of original game shaders."
+    ],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1008",
+    "name": "Arlan",
+    "archive": ".cache/official-models/mirror-hsr_1008-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/1EOTu132sOWrRUkoUUawfZxSF-OBcF-k0",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^阿兰1\\.0\\.pmx$",
+    "pmxRelative": "阿兰1.0.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1fPHsmPC3iUk5-oh1Mvw3p_xPyJh9XQ8i&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1VSC8Mue-Vws8Apt7n63uSjorAfTjQpou&export=download",
+        "name": "mc3.png",
+        "sha256": "988d8189318072892936e5cf90582c6edfa8dea026c611ec2dcdde84279c1535"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Svo-YAvNW5hHxDiH1m1UxBG6sEScPptQ&export=download",
+        "name": "toon2.png",
+        "sha256": "9498ddbcb2e57a67e932deadf72d1001238a3f85f6aa58e4b8e4307ce2a47720"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1pB5ZV8o-ltEJq_L0AjcFYHm67eF9E-Ng&export=download",
+        "name": "toon3.png",
+        "sha256": "dad85338aa2800ef4cfeaab41b3767318441630163ec078a64ce0f0da87ad695"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1kzi8BEyLvteQ1q3B_lwUD_1FjX72OFmM&export=download",
+        "name": "使用规则.txt",
+        "sha256": "7aaceed25c4aeee2db86e49d66d740a4c491e7b8c87db8b297d2947d5f3208b3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=10xVXlL__Dqs-EzdYZ_rpOkzJz4Khb0fm&export=download",
+        "name": "大剑.pmx",
+        "sha256": "219e2543f8f7fe909c30af5705b9b5527d9371fa693b465712777f4401441a2d"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1k_S5cbhrtVDxW8nztSRT3x5AkfMksPnx&export=download",
+        "name": "头发.png",
+        "sha256": "0fdc1431b836cd633979ff2d30890ea461d3b826fbe5b872c1529e56ec485f3a"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1zgq8vugwIj2Hj3m5ZnpIvGN4Rj3cvClQ&export=download",
+        "name": "武器.png",
+        "sha256": "904b67e2d366a7b6d9aef72b3c637f94f26e5d97e75dc4547ef56a36b129556d"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1wLzwCM77rSyIfi71FZQ_Cxv-OJO-px5k&export=download",
+        "name": "脸.png",
+        "sha256": "5841f7d3053d453e93048073e22d3fabd258085944b7de0532722e57b58c9fb1"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1E4nZwSsPtgn3GYhv8fo2qAc_56B4giR6&export=download",
+        "name": "衣服.png",
+        "sha256": "8d66477e7cf620b3d76b4af917d516b09f9e37ea9fe53a0aa3198519b354769d"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1uOCOhm6VPcByAMDcX55lIIqNX9lxcBzU&export=download",
+        "name": "表情.png",
+        "sha256": "fbd77c78e95fbb9e149e969705548017fabc3a169647385acedfdecc38605136"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1ejefBKCuApIugdW1LR3DdPMzdi9MbwlY&export=download",
+        "name": "裤子.png",
+        "sha256": "7155c7e175a41954d009000ee3266ca29355e50abf1b7859daf6c8804f1b5ac7"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1c0GO0N5D8RxXAVXDt2FF9wRzRj40qR0l&export=download",
+        "name": "阿兰1.0.pmx",
+        "sha256": "17cd840d7745d36915688b709f4465088d86fc70be82634bc50f60ccaf9e092e"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1008/阿兰1.0.pmx",
+    "bundlePath": "public/assets/models/hsr_1008/bundle.json",
+    "archiveSha256": "3ce14d7e88be82054b8ba0ef58c742a930bdc86ea2a63acb618825dd97ce22cc",
+    "pmxSha256": "17cd840d7745d36915688b709f4465088d86fc70be82634bc50f60ccaf9e092e",
+    "vertices": 17557,
+    "triangles": 21851,
+    "bones": 281,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 2329266,
+    "modelName": "阿兰",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1008/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1103",
+    "name": "Serval",
+    "archive": ".cache/official-models/mirror-hsr_1103-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/1DHMtg6ffuVv-Ucnlx7WQtsON-FWa96U2",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^希露瓦2\\.0\\.pmx$",
+    "pmxRelative": "希露瓦2.0.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1P48SLYU7eZtjTurRGpLQ5gMedKRJR0-c&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1dH6IburuMN9Gm2J677LSKfvuEITzHrEB&export=download",
+        "name": "mc3.png",
+        "sha256": "988d8189318072892936e5cf90582c6edfa8dea026c611ec2dcdde84279c1535"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1BzWVAw4MiJpCRGC0E-qDUEYa17KNKbKW&export=download",
+        "name": "toon2.png",
+        "sha256": "9498ddbcb2e57a67e932deadf72d1001238a3f85f6aa58e4b8e4307ce2a47720"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1qHo9ovCqQCgHwmY4rhvpbyWP-z0ASYjM&export=download",
+        "name": "toon3.png",
+        "sha256": "dad85338aa2800ef4cfeaab41b3767318441630163ec078a64ce0f0da87ad695"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Av_2XbdQL30_jY_6OZeFdHyABh1z4CL-&export=download",
+        "name": "使用规则.txt",
+        "sha256": "7aaceed25c4aeee2db86e49d66d740a4c491e7b8c87db8b297d2947d5f3208b3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1_N4UJoJd_OhiH6mx1ch2dKwEXGIM6OUU&export=download",
+        "name": "吉他.pmx",
+        "sha256": "3cab96e6baaec3ca8101efcdd6e803145d6fdbd4ce299af9e734cd5ede711307"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1W5HQa50lYNT-J3ks6yT-FGohaGIgsSBq&export=download",
+        "name": "吉他.png",
+        "sha256": "73710d155d6a6dbc3187d390c260736eb9c3954c56fe9741e67d07c86f631319"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1cAQxuDMWwqtMbfGbu_P_Coz8EOOa3W9q&export=download",
+        "name": "头发.png",
+        "sha256": "06f3968c65ccc62dafbd50bc68868ce126855a808376622681c82b43f055c1e2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=11EQ_pD5SKyEvowdp1QNiIb70uyGItXb-&export=download",
+        "name": "希露瓦2.0.pmx",
+        "sha256": "64ecb99f64a6b37435b47fb1316c0bbef2510dd96226f624be5677417b8468b0"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=179DSkz0p4W6xJ_pC6Bwx38JmQVls2bVa&export=download",
+        "name": "拨片.pmx",
+        "sha256": "60b967e0f23616ac099ea1971618cb17aa8de820bb22916bd77c4c6cc78ba165"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1rVWrtXSSVcE0rNlCQbkPMeIEvaijvBfk&export=download",
+        "name": "脸.png",
+        "sha256": "911babbc09b49b24b054831827dc58fef87ba0252b14110087c644adb1e0ae51"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1hjgaDv2BCiMPt5RczVEPXXZxFRTZ4WSm&export=download",
+        "name": "衣服.png",
+        "sha256": "930b2d399a51a3752e24089db1fc2b0af1d382a9cbacd47055d01cf6057a6488"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1MhRgCfD_DzrK2jS0OnnXDPRFDkLa7yjB&export=download",
+        "name": "衣服1.png",
+        "sha256": "596cfd270e5dd579494bc3209293384c276d63c112885a5b6118fa90d4230bd6"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1v1kvi6Fgjol5burueAZNoAlWZhIPxAkA&export=download",
+        "name": "表情.png",
+        "sha256": "fbd77c78e95fbb9e149e969705548017fabc3a169647385acedfdecc38605136"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1103/希露瓦2.0.pmx",
+    "bundlePath": "public/assets/models/hsr_1103/bundle.json",
+    "archiveSha256": "93929eb795782e606301ef02786679265abd1bfa324f230c9bc96093eceefe06",
+    "pmxSha256": "64ecb99f64a6b37435b47fb1316c0bbef2510dd96226f624be5677417b8468b0",
+    "vertices": 26886,
+    "triangles": 32805,
+    "bones": 477,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3387500,
+    "modelName": "希露瓦",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1103/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1004",
+    "name": "Welt",
+    "archive": ".cache/official-models/mirror-hsr_1004-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/19UBZtCGUBOxJ6ZKnw1eH0W_OtaIcUcwM",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^瓦尔特·杨\\.pmx$",
+    "pmxRelative": "瓦尔特·杨.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1oniZVel4Oq1PmWYoyWb4CBbHhgzSYWoT&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1AEaMbKRDXg2oje1d0vdZvscZZh7AYQwk&export=download",
+        "name": "mc3.png",
+        "sha256": "988d8189318072892936e5cf90582c6edfa8dea026c611ec2dcdde84279c1535"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1lAjAW6U7Q1x-V-be5UjqmjDrZxPd0WST&export=download",
+        "name": "toon2.png",
+        "sha256": "9498ddbcb2e57a67e932deadf72d1001238a3f85f6aa58e4b8e4307ce2a47720"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=18ao-FUACDVbLLmlqTl8kMkMmTgYqwL9D&export=download",
+        "name": "toon3.png",
+        "sha256": "dad85338aa2800ef4cfeaab41b3767318441630163ec078a64ce0f0da87ad695"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1E8-CkhxcEZVHfLXVN_cchGaQh3MSLEs0&export=download",
+        "name": "使用规则.txt",
+        "sha256": "7aaceed25c4aeee2db86e49d66d740a4c491e7b8c87db8b297d2947d5f3208b3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1H1xD7S2KkQk9FQYJtl3Bg5uEV-W33xzp&export=download",
+        "name": "头发.png",
+        "sha256": "71ef5c55872f21c0822b362dbc4e2e751fe054cf7b34770640c705430831adc8"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1_V9og3K1DKxA9S9Nj4WLtjimTFlXFw5n&export=download",
+        "name": "拐杖.pmx",
+        "sha256": "92d7396463f290c08a16d09fbbdb8b474f94c03345ff36a834e79268fd7efcaa"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1oTZWE3MMecJNuhAdbOlq7EYyZhNZ301V&export=download",
+        "name": "武器.png",
+        "sha256": "b1f366b21e624927296ca46f514e4e68c1716dd82a172ed9b6d0f29f26ff95ab"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1q2XqR3j-BXxB9VHmHl2o6sT21sbpI2Il&export=download",
+        "name": "瓦尔特·杨.pmx",
+        "sha256": "7d1655e300d27bf6f6e563207e82e1a389be0e1ede11ed49c9336f14278be9cd"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1MMMj9Gd87Er9ATxSNZdtxDVBYqCrgJOO&export=download",
+        "name": "脸.png",
+        "sha256": "e4893a027d58b2f50b326233e8e56be88fae3b3fb06b0626c6f1c7466dd988de"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=14zVMNEBfKmOdLuhoQTym0XyeDzuvNdY1&export=download",
+        "name": "衣服.png",
+        "sha256": "d7f2cb6b15a8d677be64d66115e699ee11c298a2ef42b583de01db8a3ef62607"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1151m8AW6xhUiTZbDF_KRjKWkYAVsItWC&export=download",
+        "name": "衣服1.png",
+        "sha256": "7e342d39f9cfcd45e76e142cf8d550aab986c87601b75dfbcac6a5a7609af444"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1TsQsEPztSTT_qwA9JcAl9xir-p-mUwWj&export=download",
+        "name": "衣服内侧.png",
+        "sha256": "9599d6d7fb75556170a501f16c16dcb38c246afe0911884c6746b3d1e79291a3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1iBuEVIVU0hnOb90ANwNjh6MYbkts-_JD&export=download",
+        "name": "表情.png",
+        "sha256": "fbd77c78e95fbb9e149e969705548017fabc3a169647385acedfdecc38605136"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1004/瓦尔特·杨.pmx",
+    "bundlePath": "public/assets/models/hsr_1004/bundle.json",
+    "archiveSha256": "848d803eaa1846e8e264cf50791aa2d7fffc69ba31f6d6c5355e29d7996375d0",
+    "pmxSha256": "7d1655e300d27bf6f6e563207e82e1a389be0e1ede11ed49c9336f14278be9cd",
+    "vertices": 25004,
+    "triangles": 32248,
+    "bones": 481,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 4504153,
+    "modelName": "瓦尔特",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1004/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1106",
+    "name": "Pela",
+    "archive": ".cache/official-models/mirror-hsr_1106-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/18_bWmZXYQl8vbFQObTBv1nJFYygwWIEe",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^佩拉\\.pmx$",
+    "pmxRelative": "佩拉.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1GeHvaGp-a8aEPiz4JG5yT3AbkRQj8trF&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Pt_5bzwWtoZVmQdrsntm6Rg5h25___H8&export=download",
+        "name": "mc3.png",
+        "sha256": "988d8189318072892936e5cf90582c6edfa8dea026c611ec2dcdde84279c1535"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1tyqsd_Kb_lELcHsBP8x0Tacos3LkF8dj&export=download",
+        "name": "toon2.png",
+        "sha256": "9498ddbcb2e57a67e932deadf72d1001238a3f85f6aa58e4b8e4307ce2a47720"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1s6frT_F22OUbzesToAAxAd5jcqcerkJs&export=download",
+        "name": "toon3.png",
+        "sha256": "dad85338aa2800ef4cfeaab41b3767318441630163ec078a64ce0f0da87ad695"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=19VOgXeIHk1rCKEW7ehjT7S1xWcFzaV8q&export=download",
+        "name": "书页.png",
+        "sha256": "2a540edfa63001e1bebe9ed99ced21afbeae5e2a0654c4ff163f4fce6d0408ff"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=15Z-5QcKY5tZd1RyZMKIrrMR4DElMGNto&export=download",
+        "name": "佩拉.pmx",
+        "sha256": "af074fe3706f97c72e4353c55dfc871d120a906b5c720bea97acd856dda58cea"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1_qKSSW4VO4DbAxKnSvCRRCVazVgFs142&export=download",
+        "name": "使用规则.txt",
+        "sha256": "7aaceed25c4aeee2db86e49d66d740a4c491e7b8c87db8b297d2947d5f3208b3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=16yF4V08x4KeQjQ1ORByUWTxqhGwzSqSn&export=download",
+        "name": "头发.png",
+        "sha256": "1bf9440423da95928c718389549ac597f22dfa9783eb64a56572133342b962c8"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1WEC8ggZidEyj8QJfFXgOHSQXSub2QfiJ&export=download",
+        "name": "武器.png",
+        "sha256": "bb6c75cae340ad83381a9fbe02282b9e645c6318cf91d3fa5400b24091fb1e90"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=12oiUNIFttrfZdLXlDMMLCN_jcwcjuV0q&export=download",
+        "name": "脸.png",
+        "sha256": "cb0f3702ba5d5dbd4e85e6a0117d431f260bca9ec23dcc4582a13937a4edec86"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1NcUn5EoX1wWudngQkbZ0ks2IVv6H0_KR&export=download",
+        "name": "衣服.png",
+        "sha256": "e123148bd2d8c042db7819db16965a22b40edf5efb69f4285194aa430e7c007e"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1xllPxwzvj49YzSzx_0z4nWyYUbKv7g1Z&export=download",
+        "name": "表情.png",
+        "sha256": "fbd77c78e95fbb9e149e969705548017fabc3a169647385acedfdecc38605136"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1oNgX3ItivTyR5I7s424ZxARG1dBsihMH&export=download",
+        "name": "袖子内侧.png",
+        "sha256": "1d024ec1b517e10681db57628429d4645b096f2c01a7e43449ea30d3e124c930"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1kxKI6Z9z6F05YgODGmhIFDJLZDmjRNBV&export=download",
+        "name": "魔法书.pmx",
+        "sha256": "6d890d1c787bfbff7420b0a6cb91edfc703f4bc16a9a364c3125a1e5fe740000"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1zSAPovXxAaewEbIdK9LdhH73W5kwO5eo&export=download",
+        "name": "龙骑兵.pmx",
+        "sha256": "4a751fa56545b8978a70e442861c5ad333d0f76c46e1f50fd4063dee8b013b36"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1106/佩拉.pmx",
+    "bundlePath": "public/assets/models/hsr_1106/bundle.json",
+    "archiveSha256": "22372afec63189b82cd927ba2eba3438dd66093472ec130a2e0dfb983ec38136",
+    "pmxSha256": "af074fe3706f97c72e4353c55dfc871d120a906b5c720bea97acd856dda58cea",
+    "vertices": 24870,
+    "triangles": 31105,
+    "bones": 474,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3034237,
+    "modelName": "佩拉",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1106/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1107",
+    "name": "Clara",
+    "archive": ".cache/official-models/mirror-hsr_1107-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/1caSsHSy2CtSSbir8BhY2iyY1wDfG1ozR",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^克拉拉\\.pmx$",
+    "pmxRelative": "克拉拉.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=11N79CF8RtpENwO5UZA9t3PtsEtmyMLFj&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1BLU-xwyVOhUb7wERAxZzADLMLMam5AyA&export=download",
+        "name": "mc3.png",
+        "sha256": "988d8189318072892936e5cf90582c6edfa8dea026c611ec2dcdde84279c1535"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1PB08mqHeh8wFZeBeeAAO8VlU2Ld5VyM1&export=download",
+        "name": "toon2.png",
+        "sha256": "9498ddbcb2e57a67e932deadf72d1001238a3f85f6aa58e4b8e4307ce2a47720"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=14I-Bb7pgH6yND6ZyjJmQAmYplCNpp4G0&export=download",
+        "name": "toon3.png",
+        "sha256": "dad85338aa2800ef4cfeaab41b3767318441630163ec078a64ce0f0da87ad695"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1DpuAOHQOTnsXSKnhDvdLvXqF3Ix2rN7v&export=download",
+        "name": "使用规则.txt",
+        "sha256": "7aaceed25c4aeee2db86e49d66d740a4c491e7b8c87db8b297d2947d5f3208b3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1eLBiwerawaPzmPEUIdT45IzrrsX1OpO7&export=download",
+        "name": "克拉拉.pmx",
+        "sha256": "2ecb39c3d4182eaf4bfd12ebefde3b83276238876e3a7801db2aae0e79ecb90b"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Ii9Kqu6hZEa4k6yxYf5NDkfyZgVGwIBy&export=download",
+        "name": "外套.png",
+        "sha256": "f7642e1dc3ec2d182f2bbb38d13af99fee22448c82f6fc16fa88b5b51120991e"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1ol0EtMfLMk1Uu9cDF9P_O1a85g4JjDHb&export=download",
+        "name": "头发.png",
+        "sha256": "44d417216992ed377a28a7c4678bd7b18f89fd40a07734ae9c673c7884b16d4a"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1zZLUzvMKSklWeLT81sGEY7WwFyCYmiuv&export=download",
+        "name": "脸.png",
+        "sha256": "d680075dacd34192c4648370979d8323fe29c9a863854049f7c2a20b6bcacd99"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1afKOYx8XLdtsMK6sYCmWmab-DHUQyKKk&export=download",
+        "name": "衣服.png",
+        "sha256": "6b6ada294fd0eb17401756693fa76e98632065abc7c3fb7bf3481abd929bd1b0"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1etVZYYRLicNvEfUJPeMghtN7glkBlkSW&export=download",
+        "name": "表情.png",
+        "sha256": "fbd77c78e95fbb9e149e969705548017fabc3a169647385acedfdecc38605136"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1107/克拉拉.pmx",
+    "bundlePath": "public/assets/models/hsr_1107/bundle.json",
+    "archiveSha256": "f0d8be419620411cccc1f468c4b01854c69e7ca9cccff3c8ea754935a8ad3388",
+    "pmxSha256": "2ecb39c3d4182eaf4bfd12ebefde3b83276238876e3a7801db2aae0e79ecb90b",
+    "vertices": 19766,
+    "triangles": 26677,
+    "bones": 603,
+    "textureCount": 5,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3224930,
+    "modelName": "克拉拉",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1107/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1109",
+    "name": "Hook",
+    "archive": ".cache/official-models/mirror-hsr_1109-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/1ZTIWXK1Ez-nqashcrbvHgGte0b-kpgxW",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^虎克\\.pmx$",
+    "pmxRelative": "虎克.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=15wxr5b29p4BAlPWn5yHQxIHPFWhy7h-j&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1KUOO0lt3BlZw79HFzq5cmYy7Pk7m7okU&export=download",
+        "name": "mc3.png",
+        "sha256": "988d8189318072892936e5cf90582c6edfa8dea026c611ec2dcdde84279c1535"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=18BTjWC4hUclL_EoaroayPny_71u48P9S&export=download",
+        "name": "toon2.png",
+        "sha256": "9498ddbcb2e57a67e932deadf72d1001238a3f85f6aa58e4b8e4307ce2a47720"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1TzIyO9HpjgM5zrtvwN54SiBmBLO7T9xA&export=download",
+        "name": "toon3.png",
+        "sha256": "dad85338aa2800ef4cfeaab41b3767318441630163ec078a64ce0f0da87ad695"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=133yIMkTKNM9dsf7YDUnR8EvSj4peakEK&export=download",
+        "name": "使用规则.txt",
+        "sha256": "7aaceed25c4aeee2db86e49d66d740a4c491e7b8c87db8b297d2947d5f3208b3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Wb5JJd77N38DMq231QBtbly1yh3IuWhJ&export=download",
+        "name": "太费.png",
+        "sha256": "39bbe19283da454ea57800a273e206782347f55db7f960b9426f1498a6a24819"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1vYkJ9LWPEasLz8LS0Lkmcwuz-DBjFbi5&export=download",
+        "name": "拳套.pmx",
+        "sha256": "034e8b084effc61688a3949c7761364310f49a25923626787b44ac89725fa309"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1ck6a5hovHUSzEzMyk9oahI1Ot0K7uPla&export=download",
+        "name": "拳套.png",
+        "sha256": "837aafea1bb67caa62f6d506c5c69b847716157bd64e8d7e8e37d8c252ed66b3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1NK7Pxs-WEbqijm4Z8ynCPk0MXQHsa3Yd&export=download",
+        "name": "棒棒糖.pmx",
+        "sha256": "a3f54a7e47c39f6fb56b1369910da28021c9f13a0c917e4cf655862d91f12d86"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1oN9xkNq79zyq_aX8c09FTigCgXnzYo7J&export=download",
+        "name": "脸.png",
+        "sha256": "cff61aac2e9b1f80f40aae6739f56d7d9c55f287f0847f2033cd716cfc38c407"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1gR_USk0PpXlUb7eCwnKgie-hFY1e0sIq&export=download",
+        "name": "虎克.pmx",
+        "sha256": "653d3d342f015889d046cb476b535c0cae8a42318d79bae7b5c4e3d1a3e4ba0e"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1OhypCIum489qIbgOfLHWB7zQI4IPbcFR&export=download",
+        "name": "衣服.png",
+        "sha256": "cbc7aa59f1e45e9128e0728dee7fe70b8e2ea1c5ad3a6b7845fb3a7f9d61330e"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=12HwUmjeXhocbeA6Q-fmUvSi-uiOmRIEO&export=download",
+        "name": "表情.png",
+        "sha256": "fbd77c78e95fbb9e149e969705548017fabc3a169647385acedfdecc38605136"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1109/虎克.pmx",
+    "bundlePath": "public/assets/models/hsr_1109/bundle.json",
+    "archiveSha256": "bc72ddf1361cdd959ebe7d0d41c0fdd17dfe71e554342cefe5e57afad40fd71e",
+    "pmxSha256": "653d3d342f015889d046cb476b535c0cae8a42318d79bae7b5c4e3d1a3e4ba0e",
+    "vertices": 19368,
+    "triangles": 25218,
+    "bones": 384,
+    "textureCount": 4,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 2604119,
+    "modelName": "虎克",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1109/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1105",
+    "name": "Natasha",
+    "archive": ".cache/official-models/mirror-hsr_1105-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/11GCZJzHYablfmLYeJY4RGjwpfGGtdRwL",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^娜塔莎1\\.0\\.pmx$",
+    "pmxRelative": "娜塔莎1.0.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1umbTfMGNN53G3VN_N4I2smAfuyf6PuCf&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1x80VexxbgmrPVpESvJW4YghEQzu--mMG&export=download",
+        "name": "mc3.png",
+        "sha256": "988d8189318072892936e5cf90582c6edfa8dea026c611ec2dcdde84279c1535"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1nTAf1gT3py8e_W1p4GDEFmNWQLUEZCUW&export=download",
+        "name": "toon2.png",
+        "sha256": "9498ddbcb2e57a67e932deadf72d1001238a3f85f6aa58e4b8e4307ce2a47720"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1-aqPzRjBXvGJYaPeKSeEmtw5jhlJqMrr&export=download",
+        "name": "toon3.png",
+        "sha256": "dad85338aa2800ef4cfeaab41b3767318441630163ec078a64ce0f0da87ad695"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=16fD9R4ambxiusD8T0T6-LYGCaGLEEr3f&export=download",
+        "name": "使用规则.txt",
+        "sha256": "7aaceed25c4aeee2db86e49d66d740a4c491e7b8c87db8b297d2947d5f3208b3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1RFaVH8DqGmP5DB3B7cwTX2_oTX7jQftS&export=download",
+        "name": "头发.png",
+        "sha256": "d23e69fa82fb56c50cd120bf1ccb6007557927f9defe6612c5b52874e87dcc6a"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=16b9SRMR6U17NfgE1eqFD6Zozi0pvNHW8&export=download",
+        "name": "娜塔莎1.0.pmx",
+        "sha256": "e84433f6a5b261651bf8f37af60b974f76f7e70abe2bfa20cbbb38b69c4712e3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Agu46libBoyCIzgaVOWZz7tnumR9el7k&export=download",
+        "name": "榴弹.pmx",
+        "sha256": "d487a00fc7f343b5a067078c01a356144ef6bc8d98dd202005be99b05badacdc"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1-oud_-IyGs_mI3iHSAXylIgvsVPGKaBl&export=download",
+        "name": "榴弹枪.pmx",
+        "sha256": "4b1ff04c3654771a0a5abe01d72cf40694b96b3ea8356e45f4e2d291bf1f7082"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1i1joKwiNeC5i6thfvqsaJ5ryY7wqtEkI&export=download",
+        "name": "武器.png",
+        "sha256": "25ca886f6420bc1cf36dc24a28bbf6c727ee74e9752daffd573dc06189a595ef"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1iOqPiANxbTwZkd7Zd-t-SYrYdkGXK7p0&export=download",
+        "name": "脸.png",
+        "sha256": "87cff5444c8ab3583e98a7a6c7145fae7592d70bf04b9b1c2f0a1f8b742ab8f3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1tUBoBrZejG9_t5EC6LuMpPm0g6GsY15p&export=download",
+        "name": "药水.png",
+        "sha256": "fa9304fbd966691e379a0f85153b71093219a7d2102e4349c8dadf0e5d5190c7"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1CgmfToJ-9oPtKYJmNBFOtLwDrUZiR7Dj&export=download",
+        "name": "衣服.png",
+        "sha256": "966df64e05d7bc3f66ccf00454614f97e5fbe7282dbbd1ce992f6d9794de9801"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1EiI_VaYq5UZdtOKDg9VIqtIVqOO8RMOY&export=download",
+        "name": "表情.png",
+        "sha256": "fbd77c78e95fbb9e149e969705548017fabc3a169647385acedfdecc38605136"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1W9fsqDbbSf8FRo0cVDQiljCVQkLyCaj4&export=download",
+        "name": "裙子.png",
+        "sha256": "793bbb67bedfc985b8c59fb37ce7f1ef15143992d62323915a4ddc0d275e8b1c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=12Z4mCprkH0Wmbc67y2KGQuDHI6lbaIZE&export=download",
+        "name": "裙子内侧.png",
+        "sha256": "7c58c2608e8ecfcb32fa2f40eaaab890f2f2cb120639f479aba2bdf686d9f1b0"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1dsdFPUf8OJESmugXlXBfz18R_2Taa8mx&export=download",
+        "name": "试管.pmx",
+        "sha256": "2c29e1a3fed0e677cba631fecd0ee4cfadd7b9bf4e01a3e151154d48186ee21c"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1105/娜塔莎1.0.pmx",
+    "bundlePath": "public/assets/models/hsr_1105/bundle.json",
+    "archiveSha256": "2271377a5f93d7cfafc61e1e7083754d76f66e3b99cca5a62d3a4a1d928be5bf",
+    "pmxSha256": "e84433f6a5b261651bf8f37af60b974f76f7e70abe2bfa20cbbb38b69c4712e3",
+    "vertices": 27655,
+    "triangles": 34635,
+    "bones": 415,
+    "textureCount": 7,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 4675485,
+    "modelName": "娜塔莎",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1105/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1224",
+    "name": "March 7th - The Hunt Path",
+    "archive": ".cache/official-models/mirror-hsr_1224-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/19yaTk8F808zXZAOZsKK5iKUZFUw2NbWr",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^星穹铁道—三月七3\\.pmx$",
+    "pmxRelative": "星穹铁道—三月七3.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1-BhRLnxmHfq-YyFnFAEqj47dkqG_MQmD&export=download",
+        "name": "1.png",
+        "sha256": "2a9a96e228bf9c90dd66b9634edf02b1f2dc1a79be1c18d6c685c1e92a5a83d2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1AtBRfqEg_ebomgC37kSFT21U8rf7HnHU&export=download",
+        "name": "2.bmp",
+        "sha256": "5501c3c81bfa8bec3d90b8e817faad6d046d6b34faff5f5dfc54d6162efcb9e5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1HjG_V6C-sTo3D1t2NyVcsvND_Fae4cox&export=download",
+        "name": "31.bmp",
+        "sha256": "8dd50762d09af0f0a8425821f5dcc659e8581d59ebc0270185a991829aa4265e"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Hy7q-oGZz8BIW4j2OVHRjOwrE2_Z2GCd&export=download",
+        "name": "234.jpg",
+        "sha256": "c422a31b4b97fcc914fbef99de9a539a71420926151097c45fc50e1a70f18866"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1YYo5gEKj7iQE7w2om2xkvkF43eHfxlfA&export=download",
+        "name": "a4.bmp",
+        "sha256": "12d1ea8e07796acb59f91d115f4d6c1e80398ad40fb04e0e31b06d2d32f1f39c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1j0bl0F2c8TdQQceOMHTPc5QdgZNiVojq&export=download",
+        "name": "ah1.bmp",
+        "sha256": "d4d2e1e0361e95952d641cb4fcabe12320c1c8dce4db5fc75d6c29590bad08f7"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1DU2pZ-GEBP5UXcHz-dPpEffoZVH3yUfx&export=download",
+        "name": "bq.png",
+        "sha256": "38139e1ca133bef3a6c5bce143d89cc76b4376aca35c1c54a9cb8efee7482c50"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1RyZT3FdvwyApwlXEfEEi8ArbJxYf3KC1&export=download",
+        "name": "hair.bmp",
+        "sha256": "e55abc2fb2713f4e62de35896bca314f96d78a162daf122daced8c385769151d"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1SXYEFw1EtmVhE1gENz2HTWu9X4ulLPm7&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1N_1rgVN8Edjixp2y6jO_hD1CxqOyGGJh&export=download",
+        "name": "mc3.png",
+        "sha256": "0fde1f89ae2c63a95d2ea07458c6798f729210da32ad5aa5ed0863dddd9fc6a5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1ld-Tsay_tV64aBHvqqnCpOTPibk79XsU&export=download",
+        "name": "SP0d_20190820_005614.bmp",
+        "sha256": "564fb070b173965a642ee5429e63f9a051c6c7e44aa46cef7fd8f35751b4eb4c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Z6z8PvxIldegICSI3_OpbZSA1Xemd6bs&export=download",
+        "name": "toon3.png",
+        "sha256": "8d12bd90087202ecfeaafaba9f85fe5658d660d0b3bc445b8d0863d3518e95e2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1V-lkm8-m-zc-orHQvHuXdo_Gk-n4CkEQ&export=download",
+        "name": "toon4.png",
+        "sha256": "9ef9b80593e4fa8b3e59209cea619285d7c9077c5db83efa356b4ed9054d823c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1jLS6LH3jL5EjY5eJDn6YYWJf1nyH9SIl&export=download",
+        "name": "使用规则.txt",
+        "sha256": "4ae157d033f677b97ac131d4a1dc078b92578a01c81a51de85b1e536f6b1feee"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1kJlvV9IvnfkXMb6wMMm74yvxTA2XH30T&export=download",
+        "name": "发.png",
+        "sha256": "c12c8c6a0c1b572c719314e4585f5651c1b14d9acf46827d7069124e228166e6"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1xBubjTEXVmA_rFICYHVOiJvNnkI6tIj7&export=download",
+        "name": "星穹铁道—三月七3.pmx",
+        "sha256": "25f5a15979dbbe700c137db6029f2e9ada95820ab8d4434d799c7d58f5882503"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Xq4Xz-Z_YQBGfchgky8g7IUsNkLzq_BA&export=download",
+        "name": "星穹铁道—三月七双剑.pmx",
+        "sha256": "7afe212d60d63a01feccfc4f6c3191aedbaf75958600149c7f3d7735277f7902"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1wpJ2z75W34L4OYM7HdxCOW3kwlvPKODv&export=download",
+        "name": "武器.png",
+        "sha256": "c84e36fe391a765f6de735534cfd50ab2521b80f41dd6b9fab7d75a5b4c30e4f"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1d4-00GDEsMBZfYdExc8N2kfN57y3nAHq&export=download",
+        "name": "脸.png",
+        "sha256": "fbcff53c5bb940f78f0609d002272a09c7173a15de349c30be899096f3ea81a2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1kWZbHHRAY7yCBLVkmdib4kC32q4BvG3M&export=download",
+        "name": "衣.png",
+        "sha256": "7faa528c2f8d7ec6584e8a2952147168660816d2ab1e592709130bfe209b84a4"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1L406--0Hnu42CIwrSmuLs6dciXOn0AyL&export=download",
+        "name": "衣2.png",
+        "sha256": "ccd0a41218ac5f3061ec6ba76d10f7cead4f298bed7a6b8c18b06051d8f47033"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1JUyTSuBdN6PEQMNrx40iBMEeargut-EJ&export=download",
+        "name": "颜赤.tga",
+        "sha256": "aaf55c0fbcc08cd1dab0b198d937ab07497e4d8b8447fa71813324c2a91e46d5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1exjDoLER-iA9ZNCLRJPPdkbd6GOTpewT&export=download",
+        "name": "黑.jpg",
+        "sha256": "a5d7120b5515857cae4fe8efa84ea845f05daa3aa0bf88d636154074b46a80d4"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1224/星穹铁道—三月七3.pmx",
+    "bundlePath": "public/assets/models/hsr_1224/bundle.json",
+    "archiveSha256": "12a69ae1c53a8f4bf6fa6a63e836b96397b4c6da86c9fc9b2036eb47d8a790b5",
+    "pmxSha256": "25f5a15979dbbe700c137db6029f2e9ada95820ab8d4434d799c7d58f5882503",
+    "vertices": 22754,
+    "triangles": 37371,
+    "bones": 382,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3610732,
+    "modelName": "星穹铁道—三月七",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1224/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1202",
+    "name": "Tingyun",
+    "archive": ".cache/official-models/mirror-hsr_1202-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/1SwRki8EiojXKmuagBajGPiZ4tT94LF8C",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^停云\\.pmx$",
+    "pmxRelative": "停云.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=16T9P6GVsgrPL65FAnmubvNdx1aiX1wrs&export=download",
+        "name": "1.png",
+        "sha256": "2a9a96e228bf9c90dd66b9634edf02b1f2dc1a79be1c18d6c685c1e92a5a83d2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1w-stW0MDOi5u5nuP9yIKH7qKrgGr6WOx&export=download",
+        "name": "a4.bmp",
+        "sha256": "edee0c35c194f2c830eed1bcb258be6883e3d53fc1c50a678af117ebaac4c7f2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1I2Up4Eg5XgCysbvTdmKdmbszl-a44yo4&export=download",
+        "name": "bq.png",
+        "sha256": "38139e1ca133bef3a6c5bce143d89cc76b4376aca35c1c54a9cb8efee7482c50"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1_39cg1hnEOphorEZCFwq2HNOk3Fsh_NV&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=14HXGC6KUylOV6T6hYGWK78eV7eT8pkGO&export=download",
+        "name": "mc3.png",
+        "sha256": "0fde1f89ae2c63a95d2ea07458c6798f729210da32ad5aa5ed0863dddd9fc6a5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1vstJx9JOerpmwd2ZvpSaSf9yWVFnJbY2&export=download",
+        "name": "toon2.png",
+        "sha256": "fbfbeb3edc13558025a0e29af92237d45fb490819b44bbfcae77552dec87c0f0"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Hn1PRq0psHxRoonUGKhUNia3TlyVYfA-&export=download",
+        "name": "toon3.png",
+        "sha256": "8d12bd90087202ecfeaafaba9f85fe5658d660d0b3bc445b8d0863d3518e95e2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1ZegtkSvvY8R4dzXhUsS3mrDbMpYJmSN2&export=download",
+        "name": "toon4.png",
+        "sha256": "22b7c98bcf25ab3b269c56290f5f79f2ee9fd11bbbe7419c0eb31e0598377cbf"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1hpH0KNrVhujWB6ubC5hk3OQYoliXOThv&export=download",
+        "name": "toon5.png",
+        "sha256": "5a98b4274f034b8d14fb76a2d7996135cad6950fd402a56a7cdb754a7d78bed1"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Tbopn8SELa4YOGaXjFMGijHwwp0o2YMW&export=download",
+        "name": "使用规则.txt",
+        "sha256": "4ae157d033f677b97ac131d4a1dc078b92578a01c81a51de85b1e536f6b1feee"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Szkb92Hbp5mUlZUy3Tz5kjtVCIporL5L&export=download",
+        "name": "停云.pmx",
+        "sha256": "ff4059992ab4f76b121024b435d7bd825ee2f33bc47cf93ef6f4e0ef2fafcd10"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1JfdspZRPf0IlQ8RmBLBxtKAV_bRTp56D&export=download",
+        "name": "停云武器.pmx",
+        "sha256": "726f076c61e36900eb6008dd5b7734a2832f84b7b0a9447ca7b38f1357696816"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=167F4cvKeCooQzucjOPeCCYU7LwTGSp8m&export=download",
+        "name": "服一.png",
+        "sha256": "14d60c2f4b8c9eb9f86393af8c4645b8fead2a31b7c3a124ef313ed8d5057c21"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1tLHX8oMvb2yP5-gUuqFXCESNyRVa6zcL&export=download",
+        "name": "服一B.png",
+        "sha256": "7c88c8946e982595274ac43a2f6e98345b1aa1e347004786f2466c7fa9d5e39a"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1VHGX4Qr-dj9kRPzD51qHiy03tH68cpoD&export=download",
+        "name": "服二.png",
+        "sha256": "cd9501e8454640134a2bc54cd1977ebee66ab00db9ded932231831001844f85e"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1WpWM_s9M8-Qwgm-7-V6adFp2ZJ7EoQJL&export=download",
+        "name": "服二B.png",
+        "sha256": "991c8b388596f2e21c666d321f907a51d804adbaa81ab81b937efe74c1ec9265"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1mRlaCaBox_2IMT2GPg57Ha9yo7l-7Kuf&export=download",
+        "name": "武器.png",
+        "sha256": "fd73022a5ce569c9be7fcad92b8ddea76e2f6a025d0ea367505398ba8d2bb978"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1X-oIlp07gzSKanxLwehxHmUsqhk3d8Wl&export=download",
+        "name": "颜.jpg",
+        "sha256": "25bd52e8deafe9ff5e0c70315413c69f6262ee744ed72b560ecaa271573bb5f4"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1DSvWVZC3YhywrsOB4ndrjLeMMKZa1Ki5&export=download",
+        "name": "颜赤.tga",
+        "sha256": "99f5554a2ae0c36b1b9505635154863e47bc230f7ed6c0eabb018d8ffecbce0f"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1zHN0l1wA3ad56vjs_7fboB9oEn8ufZBk&export=download",
+        "name": "髪.png",
+        "sha256": "efb9bbe80e0a7ed98ec91238b640fd94d5f4485ccfa416cb3b12b4d6c37fb59e"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1202/停云.pmx",
+    "bundlePath": "public/assets/models/hsr_1202/bundle.json",
+    "archiveSha256": "bc419f815aeec053cd2c4ae17267d9fa2a074696bce0b59097ac0bbed64e6b1d",
+    "pmxSha256": "ff4059992ab4f76b121024b435d7bd825ee2f33bc47cf93ef6f4e0ef2fafcd10",
+    "vertices": 28357,
+    "triangles": 39334,
+    "bones": 604,
+    "textureCount": 8,
+    "bundleBytes": 5456739,
+    "modelName": "停云",
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1202/使用规则.txt"
+    ],
+    "missingTextures": "No unresolved initially visible diffuse textures; explicit same-character source-package reference repairs documented",
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "textureReferenceRepairs": [
+      {
+        "0": "同",
+        "1": "一",
+        "2": "角",
+        "3": "色",
+        "4": "原",
+        "5": "包",
+        "6": "：",
+        "7": "l",
+        "8": "a",
+        "9": "m",
+        "10": "b",
+        "11": "e",
+        "12": "r",
+        "13": "t",
+        "14": "2",
+        "15": "是",
+        "16": "残",
+        "17": "留",
+        "18": "材",
+        "19": "质",
+        "20": "名",
+        "21": "，",
+        "22": "缺",
+        "23": "失",
+        "24": "引",
+        "25": "用",
+        "26": "只",
+        "27": "用",
+        "28": "于",
+        "29": "顏",
+        "30": "遮",
+        "31": "的",
+        "32": "5",
+        "33": "2",
+        "34": "三",
+        "35": "角",
+        "36": "内",
+        "37": "部",
+        "38": "封",
+        "39": "口",
+        "40": "，",
+        "41": "其",
+        "42": "中",
+        "43": "8",
+        "44": "2",
+        "45": "/",
+        "46": "1",
+        "47": "5",
+        "48": "6",
+        "49": "顶",
+        "50": "点",
+        "51": "位",
+        "52": "于",
+        "53": "现",
+        "54": "有",
+        "55": "颜",
+        "56": "材",
+        "57": "质",
+        "58": "边",
+        "59": "界",
+        "60": "；",
+        "61": "颜",
+        "62": "、",
+        "63": "口",
+        "64": "齿",
+        "65": "、",
+        "66": "白",
+        "67": "目",
+        "68": "、",
+        "69": "目",
+        "70": "、",
+        "71": "眉",
+        "72": "目",
+        "73": "均",
+        "74": "引",
+        "75": "用",
+        "76": "颜",
+        "77": ".",
+        "78": "j",
+        "79": "p",
+        "80": "g",
+        "81": "。",
+        "82": "此",
+        "83": "遮",
+        "84": "挡",
+        "85": "面",
+        "86": "保",
+        "87": "留",
+        "88": "原",
+        "89": "包",
+        "90": "退",
+        "91": "化",
+        "92": "U",
+        "93": "V",
+        "94": "，",
+        "95": "以",
+        "96": "本",
+        "97": "角",
+        "98": "色",
+        "99": "现",
+        "100": "有",
+        "101": "脸",
+        "102": "图",
+        "103": "集",
+        "104": "修",
+        "105": "复",
+        "106": "不",
+        "107": "可",
+        "108": "解",
+        "109": "析",
+        "110": "引",
+        "111": "用",
+        "112": "；",
+        "113": "不",
+        "114": "声",
+        "115": "称",
+        "116": "恢",
+        "117": "复",
+        "118": "原",
+        "119": "引",
+        "120": "擎",
+        "121": "遮",
+        "122": "挡",
+        "123": "着",
+        "124": "色",
+        "125": "器",
+        "126": "。",
+        "original": "lambert2"
+      }
+    ],
+    "materialEvidence": "docs/model-material-evidence-legacy.json",
+    "limitations": [
+      "Internal face occlusion materials retain source degenerate UV; same-character face atlas is used as a local renderer adaptation, not a reconstruction of original game shaders."
+    ],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1014",
+    "name": "Saber",
+    "archive": ".cache/official-models/mirror-hsr_1014-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/15CdO4WGvHWHsrx8kYxYBrHk0b5L6FSpZ",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^Saber\\.pmx$",
+    "pmxRelative": "Saber.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1o3WQH_j0lw2_39u3kvAMapn8VKODLTFe&export=download",
+        "name": "1.png",
+        "sha256": "f1fa0d5f1e5948c4140e4b9d9222df11efa02ecc2102b32b8256426fa54ca299"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1myFsiIzKON6ws0qFJUSGhGmDChRh9fAD&export=download",
+        "name": "2.bmp",
+        "sha256": "5501c3c81bfa8bec3d90b8e817faad6d046d6b34faff5f5dfc54d6162efcb9e5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1u25Wc1DNNCeM7Qy_sXBAsXuOXTVHmCHo&export=download",
+        "name": "31.bmp",
+        "sha256": "8dd50762d09af0f0a8425821f5dcc659e8581d59ebc0270185a991829aa4265e"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1rOj3SQXqKYWB0YRhcuRPeSPvnwoVKT4P&export=download",
+        "name": "234.jpg",
+        "sha256": "c422a31b4b97fcc914fbef99de9a539a71420926151097c45fc50e1a70f18866"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1cpoy5zIkj4wxxZb-1eLDggH0Pyhe8xJn&export=download",
+        "name": "a4.bmp",
+        "sha256": "12d1ea8e07796acb59f91d115f4d6c1e80398ad40fb04e0e31b06d2d32f1f39c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=14Klv4PPyC4ny9u_jQ97VJ4OiLANTEu-Y&export=download",
+        "name": "ah1.bmp",
+        "sha256": "d4d2e1e0361e95952d641cb4fcabe12320c1c8dce4db5fc75d6c29590bad08f7"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=19lp95TPDhuLIA6NyVIxKWyV89Riu5DEy&export=download",
+        "name": "bq.png",
+        "sha256": "38139e1ca133bef3a6c5bce143d89cc76b4376aca35c1c54a9cb8efee7482c50"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=17tmiKVSSYCtyP41fQhVd1zZ6-BMAXtya&export=download",
+        "name": "heisi.png",
+        "sha256": "bc7156ccef773cb2836f4caf75b3affc4fcf803673b43d7e26aeb52a592a3b0c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1hBI80UbvtfGUkV6LmYNODc0UOf6O4nBj&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1o6_IQKaZlv3o-45JxZ4MewjcFVTtO-6Y&export=download",
+        "name": "mc3.png",
+        "sha256": "0fde1f89ae2c63a95d2ea07458c6798f729210da32ad5aa5ed0863dddd9fc6a5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1y1U8ow0y4fcCppdzVOj-vv3CByEKtz19&export=download",
+        "name": "Saber.pmx",
+        "sha256": "bd97f650fbc54a505cefb90169a1d2a9539721cf72e194dfef2dd79724e0ab70"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1fStM-fC0smPs1Lp5LxSI3OQ-pTnRPrDN&export=download",
+        "name": "SP0d_20190820_005614.bmp",
+        "sha256": "564fb070b173965a642ee5429e63f9a051c6c7e44aa46cef7fd8f35751b4eb4c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Rf3utAFM5tqI39N8MFw8Gi7Td99urQh7&export=download",
+        "name": "toon3.png",
+        "sha256": "8d12bd90087202ecfeaafaba9f85fe5658d660d0b3bc445b8d0863d3518e95e2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1qNF6CuS0smJvXIAq_yUZy2NQi0KG63TM&export=download",
+        "name": "toon4.png",
+        "sha256": "9ef9b80593e4fa8b3e59209cea619285d7c9077c5db83efa356b4ed9054d823c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1-5LjQ7huKC47NtAuAgITHQ5fGXgOlG9P&export=download",
+        "name": "toon5.png",
+        "sha256": "f9e1cd94eef8581519d3444f9413a8a66424fdc2b0fa77b8d7abb54c5d46bb62"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=14fdMIImn9o7ziXrg4efAPFyW671wLr-i&export=download",
+        "name": "使用规则.txt",
+        "sha256": "4ae157d033f677b97ac131d4a1dc078b92578a01c81a51de85b1e536f6b1feee"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1ry_IqdD1I2k5a_p1QvbWikViLlzZcrtW&export=download",
+        "name": "剑.pmx",
+        "sha256": "6b9ce331f86942e92d33f9a67b0e90eb75b0789bd987d88ad71d2f35b424a0be"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1FTafTXV5Vo1H9Twsg-U6tWnce58M7T2n&export=download",
+        "name": "武器.png",
+        "sha256": "1366b1a10bcb8919c11ee4a0dcb88c72ef6e2eccfb238253a0de1899de79a9b5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1GvKyMP0FsbJgqg3i16qd3L547H-sFrUG&export=download",
+        "name": "肌.png",
+        "sha256": "0e73145f0f06ca3e92ae99c7578a716f71a184db29c0a787f1dfc362b3a1c2bb"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1TTxFAYB6tY4sjU8nA3wKSm3iG5-8gtxO&export=download",
+        "name": "衣.png",
+        "sha256": "a729eeb447bd3fac613180c6c79913532a6fb61178187195897e120ffc1271a8"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1wzK25VwKf1AOhCTrK-ZywYaH46Ya_8UF&export=download",
+        "name": "颜.png",
+        "sha256": "fcae11ff5f74fe543146e779eb7916828f197897b58c545977558c6d53bf03b6"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1nWwO04Zq0u88nm18xE9pMR5oahqLQ0DO&export=download",
+        "name": "颜赤.tga",
+        "sha256": "4eb4c0e77ebfbb4be714b2972eee905a5fffdebe3fc63338dfeefde16d023afb"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1EXBrk3rZu0z9QiOZHedAmUKnOc4VgVMW&export=download",
+        "name": "髪.png",
+        "sha256": "612aeec4c35cfb3939dc89e724943ac42b9ed17016cd7f848f1e33bc6d883d72"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1tbSwhZzxK3SzLS6R0eYwg0UrqWyKmL1u&export=download",
+        "name": "黑.jpg",
+        "sha256": "a5d7120b5515857cae4fe8efa84ea845f05daa3aa0bf88d636154074b46a80d4"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1014/Saber.pmx",
+    "bundlePath": "public/assets/models/hsr_1014/bundle.json",
+    "archiveSha256": "f856f244696dd191d3ac1c988b86992b4ec6adc576c6271e928ec5bf1a7ce4b3",
+    "pmxSha256": "bd97f650fbc54a505cefb90169a1d2a9539721cf72e194dfef2dd79724e0ab70",
+    "vertices": 28469,
+    "triangles": 40819,
+    "bones": 426,
+    "textureCount": 6,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3912127,
+    "modelName": "Saber",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1014/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "颜+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1201",
+    "name": "Qingque",
+    "archive": ".cache/official-models/mirror-hsr_1201-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/1MaHPhOlWX40_D8wxa5UBzU2rmIdK8CJa",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^青雀（分桦）\\.pmx$",
+    "pmxRelative": "青雀（分桦）.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1gZBJOIoM1ndlgINi5QPXHfG_lKCui5XB&export=download",
+        "name": "1.png",
+        "sha256": "2a9a96e228bf9c90dd66b9634edf02b1f2dc1a79be1c18d6c685c1e92a5a83d2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1zRaB-_U_NuQyIUIauOFMLlqzLktY6VvU&export=download",
+        "name": "a4.bmp",
+        "sha256": "edee0c35c194f2c830eed1bcb258be6883e3d53fc1c50a678af117ebaac4c7f2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1BiNyAqkx53acV_Ai9Uc0GEC9FY7MElPQ&export=download",
+        "name": "bq.png",
+        "sha256": "38139e1ca133bef3a6c5bce143d89cc76b4376aca35c1c54a9cb8efee7482c50"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1RDgeyqSRUsFKAAl2vCsGhJWm8b_1mJW-&export=download",
+        "name": "mc3.png",
+        "sha256": "0fde1f89ae2c63a95d2ea07458c6798f729210da32ad5aa5ed0863dddd9fc6a5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1vC1DB4g_UF0RmaMcGAM-XeJ_C7LmAaeG&export=download",
+        "name": "toon2.png",
+        "sha256": "d0a4553ee9898e628a6c9e92cd74c01d3b774b75903dcdc645c16170c0016d65"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1DNpmqKCAj-rozeMnCq_N3dP7lqEbmYaS&export=download",
+        "name": "toon3.png",
+        "sha256": "8d12bd90087202ecfeaafaba9f85fe5658d660d0b3bc445b8d0863d3518e95e2"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1tnY2VGTveWoAh1lYwVxtClVVFrwyu2N6&export=download",
+        "name": "toon4.png",
+        "sha256": "22b7c98bcf25ab3b269c56290f5f79f2ee9fd11bbbe7419c0eb31e0598377cbf"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=19EYDxDf-ltyZo4agCD9hqyzE0wtlgUdw&export=download",
+        "name": "toon5.png",
+        "sha256": "b98480db6b55802fb1549c52fe771841387553dcb74f19ea25487ac9c15bdcf4"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1u20s4crJjDyo71MP3aeSm0Od_HFUZnYu&export=download",
+        "name": "使用规则.txt",
+        "sha256": "4ae157d033f677b97ac131d4a1dc078b92578a01c81a51de85b1e536f6b1feee"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1gxNeybVMHrWQhVCCqsTJD0SwMo0uhhaC&export=download",
+        "name": "服一.png",
+        "sha256": "710d0f8d442c2921074d1c1b6bd4337df9bc2d2211d7bfee53a4ae944a0b5946"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Y4tdvrblvJqelSNXF8nwhPVVLCY_BkiJ&export=download",
+        "name": "服一B.png",
+        "sha256": "869c2282105024c075d3eb75d44484be271d1d2ee495513aa1a3615b35bb7d3c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1viFhRh7X7aeGQFEnOCuUS065Pm3YKPxk&export=download",
+        "name": "服二.png",
+        "sha256": "17089b06bdecbf69708dda0006cbbd4efd8e9deb421bf9ed05584930c60a4631"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1ue1rxjeIG3-3ALr0KlYqWhUP5IlVzI2i&export=download",
+        "name": "服二B.png",
+        "sha256": "120fb224a4f019181c37890f1846831b676e5dbcb9c6d23813b963b1e37bb92c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1HZER0rr_O3dmdRITpmm6U9LeQyW0Kj_b&export=download",
+        "name": "武器.jpg",
+        "sha256": "582b49f85ccec40ce2f3779bbe732dca593cc1e4ff0311198ef5d29d8ae57ef3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1PIHo-SIn4l2zUlQ0goDMezGuIiKsSQXS&export=download",
+        "name": "武器（青雀）.pmx",
+        "sha256": "0f213c036d4c6a5b88842eb1acca21c29c15578fdbebf6bc1e433d20d7848aba"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1UrtiZT-9OmfJihTn4YJf_3V_FoeNO4Zh&export=download",
+        "name": "武器2.png",
+        "sha256": "6b9abfabf0f3c7b478009d51261337078ca275c060ad19242b48c5d11ab2ab0d"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=15Zsyx1YhNRW_iNoHnc5qvrwN1d2wDhWO&export=download",
+        "name": "青雀（分桦）.pmx",
+        "sha256": "ab5e739c2bbd0fdeaecf8890a5c223c9db20bdc8e8fb9331d01962d4724ecab8"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=185w-1UaRokafGvejhXkgVTmnuwwYv4Jf&export=download",
+        "name": "颜.png",
+        "sha256": "571733e3856331d7322ecd861d9ac70f4f40b69dfbc07b8f960a2cf6679777e6"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1AI70a3Uj_1Tsz6nSKc9sXlSLjyeprpRM&export=download",
+        "name": "颜赤.tga",
+        "sha256": "3b7cefa7ea3f099bf9e2d82b0576a36d1d9d501c22b391322a460a6fe78574b6"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1PdZRqYOxnot98hW19awrmBZubhOyTdNw&export=download",
+        "name": "髪.png",
+        "sha256": "48b6cb4b03334cc154d100129dfbe624278ddcf65facf7df568d2c25b1eb5a2d"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1201/青雀（分桦）.pmx",
+    "bundlePath": "public/assets/models/hsr_1201/bundle.json",
+    "archiveSha256": "b673500e39b273baf89e922f01c5ad0ac201d1227307f339b7ee4830fa376262",
+    "pmxSha256": "ab5e739c2bbd0fdeaecf8890a5c223c9db20bdc8e8fb9331d01962d4724ecab8",
+    "vertices": 23144,
+    "triangles": 33643,
+    "bones": 356,
+    "textureCount": 8,
+    "bundleBytes": 4562343,
+    "modelName": "青雀",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1201/使用规则.txt"
+    ],
+    "missingTextures": "No unresolved initially visible diffuse textures; explicit same-character source-package reference repairs documented",
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "textureReferenceRepairs": [
+      {
+        "0": "同",
+        "1": "一",
+        "2": "角",
+        "3": "色",
+        "4": "原",
+        "5": "包",
+        "6": "：",
+        "7": "缺",
+        "8": "失",
+        "9": "引",
+        "10": "用",
+        "11": "只",
+        "12": "用",
+        "13": "于",
+        "14": "F",
+        "15": "a",
+        "16": "c",
+        "17": "e",
+        "18": "_",
+        "19": "M",
+        "20": "a",
+        "21": "s",
+        "22": "k",
+        "23": "_",
+        "24": "M",
+        "25": "a",
+        "26": "t",
+        "27": "1",
+        "28": "的",
+        "29": "4",
+        "30": "2",
+        "31": "三",
+        "32": "角",
+        "33": "内",
+        "34": "部",
+        "35": "封",
+        "36": "口",
+        "37": "，",
+        "38": "其",
+        "39": "中",
+        "40": "8",
+        "41": "0",
+        "42": "/",
+        "43": "1",
+        "44": "1",
+        "45": "9",
+        "46": "顶",
+        "47": "点",
+        "48": "位",
+        "49": "于",
+        "50": "已",
+        "51": "有",
+        "52": "顏",
+        "53": "材",
+        "54": "质",
+        "55": "边",
+        "56": "界",
+        "57": "；",
+        "58": "顏",
+        "59": "、",
+        "60": "白",
+        "61": "目",
+        "62": "、",
+        "63": "目",
+        "64": "、",
+        "65": "眉",
+        "66": "目",
+        "67": "等",
+        "68": "均",
+        "69": "引",
+        "70": "用",
+        "71": "颜",
+        "72": ".",
+        "73": "p",
+        "74": "n",
+        "75": "g",
+        "76": "。",
+        "77": "此",
+        "78": "内",
+        "79": "部",
+        "80": "封",
+        "81": "口",
+        "82": "保",
+        "83": "留",
+        "84": "原",
+        "85": "包",
+        "86": "退",
+        "87": "化",
+        "88": "U",
+        "89": "V",
+        "90": "，",
+        "91": "明",
+        "92": "确",
+        "93": "以",
+        "94": "本",
+        "95": "角",
+        "96": "色",
+        "97": "现",
+        "98": "有",
+        "99": "脸",
+        "100": "图",
+        "101": "集",
+        "102": "修",
+        "103": "复",
+        "104": "错",
+        "105": "误",
+        "106": "文",
+        "107": "件",
+        "108": "名",
+        "109": "；",
+        "110": "未",
+        "111": "改",
+        "112": "外",
+        "113": "脸",
+        "114": "U",
+        "115": "V",
+        "116": "或",
+        "117": "几",
+        "118": "何",
+        "119": "。",
+        "original": "Avatar_Qingque_00_Face_Color.png"
+      }
+    ],
+    "materialEvidence": "docs/model-material-evidence-legacy.json",
+    "limitations": [
+      "Internal face occlusion materials retain source degenerate UV; same-character face atlas is used as a local renderer adaptation, not a reconstruction of original game shaders."
+    ],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  },
+  {
+    "id": "hsr_1015",
+    "name": "Archer",
+    "archive": ".cache/official-models/mirror-hsr_1015-original-files.zip",
+    "source": "https://drive.google.com/drive/folders/1XzAuJosP0ucHRdVuxvzWQfjFW_yFlFM6",
+    "sourceKind": "public-community-mirror-of-official-model",
+    "match": "^Archer\\.pmx$",
+    "pmxRelative": "Archer.pmx",
+    "sourceIndex": "https://docs.google.com/spreadsheets/d/18-E8xdCLyb7rb2XhupveiAWbjkY_toLH7DGIUjL_Miw/edit",
+    "archiveType": "local snapshot ZIP of unmodified public mirror files; not claimed to be original official release ZIP",
+    "originalFiles": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1kbwjk8weYk77IhlJvHNsybwMG8TmHDNT&export=download",
+        "name": "1.png",
+        "sha256": "f1fa0d5f1e5948c4140e4b9d9222df11efa02ecc2102b32b8256426fa54ca299"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=13u431yeL5la0ya_tdT2-dHSst6PD5-tc&export=download",
+        "name": "2.bmp",
+        "sha256": "5501c3c81bfa8bec3d90b8e817faad6d046d6b34faff5f5dfc54d6162efcb9e5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1i4629DxH9sbE3BvZ35N0QkhktYyPKaRO&export=download",
+        "name": "31.bmp",
+        "sha256": "8dd50762d09af0f0a8425821f5dcc659e8581d59ebc0270185a991829aa4265e"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1jBnUqnATNArlKXcb4sGTez_7w8-tyjec&export=download",
+        "name": "234.jpg",
+        "sha256": "c422a31b4b97fcc914fbef99de9a539a71420926151097c45fc50e1a70f18866"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1MXEoUEV8mpTUU8eMyoTdiGihK5LOCe3N&export=download",
+        "name": "ah1.bmp",
+        "sha256": "d4d2e1e0361e95952d641cb4fcabe12320c1c8dce4db5fc75d6c29590bad08f7"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1tI-pMVmXyuunXwQS1wB211-c-iSm7jn2&export=download",
+        "name": "Archer.pmx",
+        "sha256": "ad5f5b11dc07af7b9f81edea8f572e7d1e29f38eea0780d166525223076343df"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=135lcNBr_1DfmmhQW4iV552bAfR-Bq-4b&export=download",
+        "name": "bq.png",
+        "sha256": "38139e1ca133bef3a6c5bce143d89cc76b4376aca35c1c54a9cb8efee7482c50"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=11KT-WQ9TGy3ndP2NhPbg5MS4PfD75P9e&export=download",
+        "name": "mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1gOt7KTQZKz_0Dy2phuFk-_M2Q9y-c3ny&export=download",
+        "name": "mc3.png",
+        "sha256": "0fde1f89ae2c63a95d2ea07458c6798f729210da32ad5aa5ed0863dddd9fc6a5"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1wFi00YeYwqmn7b3xvpIi2Nxtx_AMeFAV&export=download",
+        "name": "SP0d_20190820_005614.bmp",
+        "sha256": "564fb070b173965a642ee5429e63f9a051c6c7e44aa46cef7fd8f35751b4eb4c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1psdju6Gku3ZWwry2JmSb0V94Kw-RtoQ_&export=download",
+        "name": "toon3.png",
+        "sha256": "3c68b77c00a9e4a34d0ae6b88a7af6852708ce4fde4e84b354050110f866f386"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=146Rx2ocDIlKnP0B_KXx_VWvcSmOcqGJA&export=download",
+        "name": "toon4.png",
+        "sha256": "9ef9b80593e4fa8b3e59209cea619285d7c9077c5db83efa356b4ed9054d823c"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1MIGoxi1lGksLv0Z1VUin-uiYiP2UXuq8&export=download",
+        "name": "toon5.png",
+        "sha256": "f9e1cd94eef8581519d3444f9413a8a66424fdc2b0fa77b8d7abb54c5d46bb62"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1msF7w8Rucvl3xwHl46VSDgbSXdv04CbD&export=download",
+        "name": "使用规则.txt",
+        "sha256": "4ae157d033f677b97ac131d4a1dc078b92578a01c81a51de85b1e536f6b1feee"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=11JjHmnu9nnFh92frDigNxnMceqmHptBZ&export=download",
+        "name": "刃.pmx",
+        "sha256": "22fa1dc135fcb2650a713fa4903e5a7653037038c8fe678decb69e9270c7fb1a"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=10Q7ROWucsMBrmU5E6TlyezL8tLas_-EO&export=download",
+        "name": "劍.pmx",
+        "sha256": "db9b41a16c531fd6fb3521749b644e46f4fc1139f038b67187502377f92040d0"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Fg4qufQwnUOmgOzj_Hpcm3x2iA6im4gT&export=download",
+        "name": "弓.pmx",
+        "sha256": "e2ce1c7a0de81e4025d00d4dadcaa3ce73a3945dbe1e2a91f62b27d843955bb3"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1dyQO3IWX5HwpwaHrUvQJgvs9zcvbK7qn&export=download",
+        "name": "武器.png",
+        "sha256": "9305de491c25ab934c6c9c87ebccd3c16ad23edef3b45ba195f4b6011d22cb00"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=12prKxHXczIgYVfMzlDrS38b57O99BAFR&export=download",
+        "name": "衣.png",
+        "sha256": "610eaeb1b24b9805ef930368772d1fea965d2f09d2421989d4f70fbe5471e237"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1piL6Dd9ZjUJbWmYo66JI6OYvEbFT6Pni&export=download",
+        "name": "颜.png",
+        "sha256": "c1932cfb20167077b72e2ce1c1ca32e7504331757fee481786e23f111a1701a6"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1SgSIT_gSiZGgwCbvyj88IKwbAls2ZgIX&export=download",
+        "name": "颜赤.tga",
+        "sha256": "2eb2d845008acb26cbf3ac95d51f91b988ac2367ac99f77ee1243dc21ac99a89"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1KtZfQv3hobZh2oILDEo2wuODao5ddycZ&export=download",
+        "name": "髪.png",
+        "sha256": "2b0dc0f6aac83613e49d16a0550188cda4fe4d2f44c76f2dea3eb35655edb45b"
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Ch0RkMbNz7yUnotEpk7dtO-FsYx7dn_z&export=download",
+        "name": "黑.jpg",
+        "sha256": "a5d7120b5515857cae4fe8efa84ea845f05daa3aa0bf88d636154074b46a80d4"
+      }
+    ],
+    "status": "converted",
+    "pmxPath": "public/assets/models/hsr_1015/Archer.pmx",
+    "bundlePath": "public/assets/models/hsr_1015/bundle.json",
+    "archiveSha256": "25f435237dd517700c859aacf8d4563be5a192cadd164f0109b99a693046c499",
+    "pmxSha256": "ad5f5b11dc07af7b9f81edea8f572e7d1e29f38eea0780d166525223076343df",
+    "vertices": 25010,
+    "triangles": 35865,
+    "bones": 368,
+    "textureCount": 4,
+    "missingTextures": "No missing initially visible diffuse textures; see omittedTransparentMaterials for disabled expression layers",
+    "bundleBytes": 3612607,
+    "modelName": "星穹鐵道—Archer",
+    "originalComment": "允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：流云景\r\n\r\n模型版权所属miHoYo",
+    "rules": [
+      "public/assets/models/hsr_1015/使用规则.txt"
+    ],
+    "omittedTransparentMaterials": [
+      {
+        "name": "顏+",
+        "texture": "颜赤.tga",
+        "reason": "Source material starts fully transparent; expression morphs are not enabled"
+      }
+    ],
+    "texturePathAliases": [],
+    "verification": {
+      "rawPmxUnchanged": true,
+      "archiveHashVerified": true,
+      "visibleTextureDataEmbedded": true,
+      "maxTextureDimension": 256,
+      "browserRenderVerified": false
+    }
+  }
+]

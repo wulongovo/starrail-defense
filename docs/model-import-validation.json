@@ -1,0 +1,1097 @@
+{
+  "generatedAt": "2026-09-28T08:19:54.679Z",
+  "validation": "Actual PMX parsing and skinned geometry checks, followed by browser texture loading and visual inspection. Custom motions are not official battle animations.",
+  "models": [
+    {
+      "id": "aventurine",
+      "modelName": "星穹铁道—砂金",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1711445363261.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "6ac9e989833b30d3372ed5f07a8752b58b53e912fee05895c7181895044826c1",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/aventurine/bundle.json",
+      "bundleBytes": 4205162,
+      "vertices": 28447,
+      "triangles": 39360,
+      "bones": 370,
+      "sourceMaterials": 38,
+      "renderGroups": 38,
+      "diffuseTextures": 7,
+      "textureDimensions": {
+        "颜.png": [
+          512,
+          512
+        ],
+        "颜赤.tga": [
+          512,
+          512
+        ],
+        "衣.png": [
+          512,
+          256
+        ],
+        "发.png": [
+          512,
+          512
+        ],
+        "衣内.png": [
+          512,
+          256
+        ],
+        "bq.png": [
+          512,
+          512
+        ],
+        "黑.jpg": [
+          300,
+          300
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 12926,
+        "BDEF2": 8187,
+        "BDEF4": 7334,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "bailu",
+      "modelName": "白露",
+      "source": "https://activity.hdslb.com/blackboard/static/20230829/952f7c986d30869651e51a154c9fc2bc/46Z6WYWYGS.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "676294865f5a4c7fd3462ed9edddd65d00e7f0dd0340d6c8de1224a6d412af1a",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/bailu/bundle.json",
+      "bundleBytes": 5272828,
+      "vertices": 23687,
+      "triangles": 33346,
+      "bones": 548,
+      "sourceMaterials": 33,
+      "renderGroups": 33,
+      "diffuseTextures": 5,
+      "textureDimensions": {
+        "衣服.png": [
+          512,
+          512
+        ],
+        "外套.png": [
+          512,
+          512
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 10598,
+        "BDEF2": 6898,
+        "BDEF4": 6191,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "blade",
+      "modelName": "刃",
+      "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/SznrBfZC3U.rar",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "2a9d2dd8ba5116363ec67896de95cffc8c9a877a0fbecb19d049341f47de729c",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/blade/bundle.json",
+      "bundleBytes": 5184236,
+      "vertices": 22360,
+      "triangles": 27429,
+      "bones": 515,
+      "sourceMaterials": 24,
+      "renderGroups": 24,
+      "diffuseTextures": 6,
+      "textureDimensions": {
+        "头发.png": [
+          512,
+          512
+        ],
+        "衣服.png": [
+          512,
+          512
+        ],
+        "衣服1.png": [
+          512,
+          512
+        ],
+        "衣服内侧.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 7451,
+        "BDEF2": 11583,
+        "BDEF4": 3326,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "bronya",
+      "modelName": "布洛妮娅",
+      "source": "https://activity.hdslb.com/blackboard/static/20230425/952f7c986d30869651e51a154c9fc2bc/YD2dl93Doi.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "5654ac242594f41ba8431f636ee2fd4a06ae9e19653612c5366e243d1ce30344",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/bronya/bundle.json",
+      "bundleBytes": 3614776,
+      "vertices": 30683,
+      "triangles": 36272,
+      "bones": 395,
+      "sourceMaterials": 33,
+      "renderGroups": 33,
+      "diffuseTextures": 6,
+      "textureDimensions": {
+        "衣服.png": [
+          512,
+          512
+        ],
+        "裙子.png": [
+          512,
+          512
+        ],
+        "裙内侧.png": [
+          512,
+          512
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 9129,
+        "BDEF2": 15676,
+        "BDEF4": 5878,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "dan",
+      "modelName": "丹恒",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/YPughPO7Vb.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "29ae44666059f2e1149b2b0598fd74347c461ce0566e3ff6216903ef106179dd",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/dan/bundle.json",
+      "bundleBytes": 2981565,
+      "vertices": 23481,
+      "triangles": 28311,
+      "bones": 350,
+      "sourceMaterials": 23,
+      "renderGroups": 23,
+      "diffuseTextures": 5,
+      "textureDimensions": {
+        "衣服.png": [
+          512,
+          512
+        ],
+        "衣服内侧.png": [
+          512,
+          512
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 10069,
+        "BDEF2": 9586,
+        "BDEF4": 3621,
+        "SDEF": 205,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "firefly",
+      "modelName": "流萤",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1718720946239.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "d6a7fb40d774490cd345b04a57e6fc6bd7a9764a93b12fb6b3b32f8cb9ba9b51",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/firefly/bundle.json",
+      "bundleBytes": 3678865,
+      "vertices": 28407,
+      "triangles": 37686,
+      "bones": 750,
+      "sourceMaterials": 34,
+      "renderGroups": 34,
+      "diffuseTextures": 4,
+      "textureDimensions": {
+        "衣服.png": [
+          512,
+          256
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 9735,
+        "BDEF2": 13155,
+        "BDEF4": 5517,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "gepard",
+      "modelName": "杰帕德",
+      "source": "https://drive.google.com/drive/folders/16GcwWJW741Nq9pvZYKQhAvQUewMJmOq3",
+      "sourceKind": "community-drive-mirror",
+      "sourceSha256": "cd2fe217f436a65fb88e05130c30d2d8a3311d76168d66316d6864e933d08aed",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "not-available",
+      "bundlePath": "public/assets/models/gepard/bundle.json",
+      "bundleBytes": 3303188,
+      "vertices": 28040,
+      "triangles": 34063,
+      "bones": 166,
+      "sourceMaterials": 24,
+      "renderGroups": 24,
+      "diffuseTextures": 6,
+      "textureDimensions": {
+        "衣服.png": [
+          512,
+          512
+        ],
+        "衣服内侧.png": [
+          512,
+          512
+        ],
+        "衣服2.png": [
+          512,
+          512
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 12672,
+        "BDEF2": 9435,
+        "BDEF4": 5933,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "herta",
+      "modelName": "黑塔",
+      "source": "https://activity.hdslb.com/blackboard/static/20230601/952f7c986d30869651e51a154c9fc2bc/29DY5Kmjul.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "1151239e4765e6fdd075f02eda2ce7f713842b908e43212814bcf21a3bd4e453",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/herta/bundle.json",
+      "bundleBytes": 3363489,
+      "vertices": 21908,
+      "triangles": 26234,
+      "bones": 613,
+      "sourceMaterials": 30,
+      "renderGroups": 30,
+      "diffuseTextures": 5,
+      "textureDimensions": {
+        "衣服.png": [
+          512,
+          512
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "衣服内侧.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 11238,
+        "BDEF2": 7191,
+        "BDEF4": 3479,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "himeko",
+      "modelName": "Tda式ミク・アペンド - 巻髪",
+      "source": "https://drive.google.com/drive/folders/1Z0nnz5ATSU3ED3nynoa1Le1Nt_Y6uIge",
+      "sourceKind": "community-drive-mirror",
+      "sourceSha256": "05fa86abee25e883927d696e4f4242c14ef56292c36f5db3e1d564082f79abd4",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "not-available",
+      "bundlePath": "public/assets/models/himeko/bundle.json",
+      "bundleBytes": 5231447,
+      "vertices": 28394,
+      "triangles": 36574,
+      "bones": 740,
+      "sourceMaterials": 29,
+      "renderGroups": 29,
+      "diffuseTextures": 6,
+      "textureDimensions": {
+        "衣服.png": [
+          512,
+          512
+        ],
+        "衣服1.png": [
+          512,
+          512
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "裙内侧.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 10708,
+        "BDEF2": 14267,
+        "BDEF4": 3419,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "provenanceCaveat": "PMX internal name retains Tda-style Miku label; source file is 姬子2.0.pmx. Original credits retained; identity requires rendered appearance check.",
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "kafka",
+      "modelName": "卡芙卡",
+      "source": "https://activity.hdslb.com/blackboard/static/20230717/952f7c986d30869651e51a154c9fc2bc/sCo8renFJl.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "f2394590f915b2280af0f04ad949ed19d7ae42838989f12d23310cb364196394",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/kafka/bundle.json",
+      "bundleBytes": 3119124,
+      "vertices": 18546,
+      "triangles": 23800,
+      "bones": 498,
+      "sourceMaterials": 25,
+      "renderGroups": 25,
+      "diffuseTextures": 6,
+      "textureDimensions": {
+        "外套.png": [
+          512,
+          512
+        ],
+        "衣服.png": [
+          512,
+          512
+        ],
+        "外套内侧.png": [
+          512,
+          512
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 6071,
+        "BDEF2": 7242,
+        "BDEF4": 5233,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "march",
+      "modelName": "三月七",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/KkVjYLh8y3.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "942aef2af3a465e77c1569369b3c422fdf64f8494cbdf3b529a88c3cc66c13dc",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/march/bundle.json",
+      "bundleBytes": 5299774,
+      "vertices": 21218,
+      "triangles": 28039,
+      "bones": 371,
+      "sourceMaterials": 30,
+      "renderGroups": 30,
+      "diffuseTextures": 5,
+      "textureDimensions": {
+        "脸.png": [
+          512,
+          512
+        ],
+        "衣服1.png": [
+          512,
+          512
+        ],
+        "衣服.png": [
+          512,
+          512
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 6846,
+        "BDEF2": 9361,
+        "BDEF4": 5011,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "marchBow",
+      "modelName": "武器",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/KkVjYLh8y3.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "7c693b7abc272786fb06f3c4544ce1ce230c4a4f6a1d606ecb9ca97c8f7aba38",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/marchBow/bundle.json",
+      "bundleBytes": 246073,
+      "vertices": 3064,
+      "triangles": 2374,
+      "bones": 14,
+      "sourceMaterials": 1,
+      "renderGroups": 1,
+      "diffuseTextures": 1,
+      "textureDimensions": {
+        "武器.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 3022,
+        "BDEF2": 42,
+        "BDEF4": 0,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.1,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "preservationLance",
+      "modelName": "3.1",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/GFamSO99HT.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "d49d47414704e3cc8ecba9688d5ac8e0f827183c5a41849d6e632b05d23608d3",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/preservationLance/bundle.json",
+      "bundleBytes": 308858,
+      "vertices": 3870,
+      "triangles": 3498,
+      "bones": 5,
+      "sourceMaterials": 2,
+      "renderGroups": 2,
+      "diffuseTextures": 1,
+      "textureDimensions": {
+        "武器1.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 3870,
+        "BDEF2": 0,
+        "BDEF4": 0,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.5,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "robin",
+      "modelName": "星穹铁道—知更鸟",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1715061714157.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "e41374eb4c8b85f55f7550ae24b913067349708aa52f53b215b3801a7fd886fd",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/robin/bundle.json",
+      "bundleBytes": 4881107,
+      "vertices": 30921,
+      "triangles": 49756,
+      "bones": 520,
+      "sourceMaterials": 35,
+      "renderGroups": 35,
+      "diffuseTextures": 7,
+      "textureDimensions": {
+        "颜.png": [
+          512,
+          512
+        ],
+        "颜赤.tga": [
+          512,
+          512
+        ],
+        "衣.png": [
+          512,
+          256
+        ],
+        "发.png": [
+          512,
+          512
+        ],
+        "衣内.png": [
+          512,
+          256
+        ],
+        "bq.png": [
+          512,
+          512
+        ],
+        "黑.jpg": [
+          300,
+          300
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 11515,
+        "BDEF2": 9615,
+        "BDEF4": 9485,
+        "SDEF": 306,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "sam",
+      "modelName": "萨姆",
+      "source": "https://activity.hdslb.com/blackboard/maxfiles/d0f1584af802138e3e94a47e7d419635/1718720946239.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "9d8b847560b55ff5ceb9582f89c8790310506852d8d59aea4194add3ca711c07",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/sam/bundle.json",
+      "bundleBytes": 1966603,
+      "vertices": 28698,
+      "triangles": 28884,
+      "bones": 194,
+      "sourceMaterials": 5,
+      "renderGroups": 5,
+      "diffuseTextures": 1,
+      "textureDimensions": {
+        "身体.png": [
+          512,
+          256
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 16580,
+        "BDEF2": 9862,
+        "BDEF4": 2256,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "sampo",
+      "modelName": "桑博",
+      "source": "https://drive.google.com/drive/folders/1j5ocYy1VV65iDNPBKiVFuX8O5-HxuNIB",
+      "sourceKind": "community-drive-mirror",
+      "sourceSha256": "b25f15e08efc91098a7a2cfec1a0ffa5f1ecd25da94439471fe1051cf6e7eae1",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "not-available",
+      "bundlePath": "public/assets/models/sampo/bundle.json",
+      "bundleBytes": 3079955,
+      "vertices": 24249,
+      "triangles": 29686,
+      "bones": 227,
+      "sourceMaterials": 23,
+      "renderGroups": 23,
+      "diffuseTextures": 5,
+      "textureDimensions": {
+        "pants.png": [
+          512,
+          512
+        ],
+        "clothing.png": [
+          512,
+          512
+        ],
+        "hair.png": [
+          512,
+          512
+        ],
+        "skin.png": [
+          512,
+          512
+        ],
+        "expression.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 7708,
+        "BDEF2": 9492,
+        "BDEF4": 7049,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "silverWolf",
+      "modelName": "银狼",
+      "source": "https://activity.hdslb.com/blackboard/static/20230601/952f7c986d30869651e51a154c9fc2bc/Iz7PqiFe3p.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "35fbb8de0482394658cd22d6a6165caece363a9c2fdf52ae807f3bfca7b3f724",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/silverWolf/bundle.json",
+      "bundleBytes": 3664925,
+      "vertices": 25838,
+      "triangles": 32070,
+      "bones": 440,
+      "sourceMaterials": 34,
+      "renderGroups": 34,
+      "diffuseTextures": 5,
+      "textureDimensions": {
+        "头发.png": [
+          512,
+          512
+        ],
+        "衣服.png": [
+          512,
+          512
+        ],
+        "外套.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 10777,
+        "BDEF2": 9031,
+        "BDEF4": 6030,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "sparkle",
+      "modelName": "花火",
+      "source": "https://activity.hdslb.com/blackboard/static/20240205/9634f55137cff5d24df20d1d2d7780b9/056mDPC3Hc.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "8be03543b8238a4e374f3d7d48c0086804f20721b16645cf0a76ac792aca6e79",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/sparkle/bundle.json",
+      "bundleBytes": 3898617,
+      "vertices": 29094,
+      "triangles": 38025,
+      "bones": 718,
+      "sourceMaterials": 40,
+      "renderGroups": 40,
+      "diffuseTextures": 5,
+      "textureDimensions": {
+        "面具.png": [
+          512,
+          512
+        ],
+        "衣服.png": [
+          512,
+          256
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 11715,
+        "BDEF2": 14700,
+        "BDEF4": 2679,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "sunday",
+      "modelName": "星穹铁道—星期日",
+      "source": "https://drive.google.com/drive/folders/161UQnJP1oiN8epVs24DFlt0g2UHCT4W3",
+      "sourceKind": "community-drive-mirror",
+      "sourceSha256": "6809e0af090315e1bb28d7a03f4818ed6b06620fdd616754991a9e696f6c10be",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "not-available",
+      "bundlePath": "public/assets/models/sunday/bundle.json",
+      "bundleBytes": 3498866,
+      "vertices": 20957,
+      "triangles": 34746,
+      "bones": 448,
+      "sourceMaterials": 31,
+      "renderGroups": 31,
+      "diffuseTextures": 7,
+      "textureDimensions": {
+        "颜.png": [
+          512,
+          512
+        ],
+        "颜赤.tga": [
+          512,
+          512
+        ],
+        "衣.png": [
+          512,
+          256
+        ],
+        "衣内.png": [
+          512,
+          256
+        ],
+        "发.png": [
+          512,
+          512
+        ],
+        "bq.png": [
+          512,
+          512
+        ],
+        "黑.jpg": [
+          300,
+          300
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 8896,
+        "BDEF2": 7892,
+        "BDEF4": 4169,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "trailblazer",
+      "modelName": "女主",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/GFamSO99HT.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "9ca0e397fca6b5b0bdb1d74672d8e729e8ecd85eebb95eda1117ccc66a30fa93",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/trailblazer/bundle.json",
+      "bundleBytes": 3098778,
+      "vertices": 20030,
+      "triangles": 25322,
+      "bones": 545,
+      "sourceMaterials": 21,
+      "renderGroups": 21,
+      "diffuseTextures": 5,
+      "textureDimensions": {
+        "衣服.png": [
+          512,
+          512
+        ],
+        "头发.png": [
+          512,
+          512
+        ],
+        "衣服内侧.png": [
+          512,
+          512
+        ],
+        "脸.png": [
+          512,
+          512
+        ],
+        "表情.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 6825,
+        "BDEF2": 8119,
+        "BDEF4": 5086,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 1.35,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    },
+    {
+      "id": "trailblazerBat",
+      "modelName": "女主",
+      "source": "https://activity.hdslb.com/blackboard/static/20221205/d7f098333308ba7412aa9b57601bfa1d/GFamSO99HT.zip",
+      "sourceKind": "official-activity-cdn",
+      "sourceSha256": "6bae31ff7bffa15ba0ec84f96305fa5735e0167b8393b2301156f4dfe7ce1822",
+      "sha256Verified": true,
+      "originalCommentPreserved": true,
+      "officialArchiveByteComparison": "direct-source",
+      "bundlePath": "public/assets/models/trailblazerBat/bundle.json",
+      "bundleBytes": 100464,
+      "vertices": 560,
+      "triangles": 740,
+      "bones": 1,
+      "sourceMaterials": 1,
+      "renderGroups": 1,
+      "diffuseTextures": 1,
+      "textureDimensions": {
+        "武器.png": [
+          512,
+          512
+        ]
+      },
+      "weightTypes": {
+        "BDEF1": 560,
+        "BDEF2": 0,
+        "BDEF4": 0,
+        "SDEF": 0,
+        "QDEF": 0
+      },
+      "normalizedHeight": 0.8,
+      "geometryBuilt": true,
+      "boneMatricesFinite": true,
+      "browserVisualVerified": true,
+      "browserEvidence": "tests/evidence/official-roster.png; tests/evidence/trailblazer-paths.png"
+    }
+  ],
+  "totalModels": 21,
+  "totalBundleBytes": 69998700,
+  "limitations": [
+    "Original meshes, UVs and skin weights are retained; diffuse images resized to at most 512px.",
+    "SDEF and QDEF use linear skinning approximation.",
+    "MMD physics, IK, grant solvers, morphs and original MMD toon/sphere rendering are not reproduced.",
+    "Game-specific poses animate original skeletons; no official animation clips are claimed.",
+    "Source archives contain no-redistribution and non-commercial-use conditions. Local integration does not establish redistribution permission.",
+    "Browser image, face orientation, accessories and motion acceptance pending parent review.",
+    "Four community mirrors retain miHoYo credits and pinned file hashes, but were not byte-compared with an official upstream archive. Their provenance is distinct from official CDN downloads."
+  ],
+  "reproductionCommand": "node --test tests/official-models.test.mjs",
+  "directOfficialCDNBundles": 17,
+  "communityMirrorBundles": 4,
+  "browserVerification": {
+    "verifiedAt": "2026-09-28T08:55:21.561725+00:00",
+    "report": "tests/evidence/boss-browser-report.json",
+    "models": 18,
+    "weapons": 3,
+    "textureErrors": 0,
+    "uncaughtErrors": 0
+  }
+}

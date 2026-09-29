@@ -1,0 +1,14 @@
+{
+  "zip": "D:\\daily\\starrail-defense\\release\\星穹防线-0.3.0-local-preview.zip",
+  "bytes": 205480316,
+  "files": [
+    "星穹防线.html",
+    "README-先读我.txt",
+    "模型来源与使用边界.md",
+    "角色与怪物图片来源.json",
+    "模型接入清单.json"
+  ],
+  "htmlSha256": "0174269ab7827b307ccc4dea7e35c70364413674e9e0e00ab93996e679b059c1",
+  "crcPassed": true,
+  "coverage": 92
+}

@@ -1,0 +1,681 @@
+﻿[
+    {
+        "id":  "march",
+        "gameId":  "1001",
+        "name":  "March 7th",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1001.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\march.png"
+    },
+    {
+        "id":  "dan",
+        "gameId":  "1002",
+        "name":  "Dan Heng",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1002.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\dan.png"
+    },
+    {
+        "id":  "himeko",
+        "gameId":  "1003",
+        "name":  "Himeko",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1003.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\himeko.png"
+    },
+    {
+        "id":  "hsr_1004",
+        "gameId":  "1004",
+        "name":  "Welt",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1004.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1004.png"
+    },
+    {
+        "id":  "kafka",
+        "gameId":  "1005",
+        "name":  "Kafka",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1005.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\kafka.png"
+    },
+    {
+        "id":  "silverWolf",
+        "gameId":  "1006",
+        "name":  "Silver Wolf",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1006.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\silverWolf.png"
+    },
+    {
+        "id":  "hsr_1008",
+        "gameId":  "1008",
+        "name":  "Arlan",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1008.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1008.png"
+    },
+    {
+        "id":  "hsr_1009",
+        "gameId":  "1009",
+        "name":  "Asta",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1009.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1009.png"
+    },
+    {
+        "id":  "herta",
+        "gameId":  "1013",
+        "name":  "Herta",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1013.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\herta.png"
+    },
+    {
+        "id":  "hsr_1014",
+        "gameId":  "1014",
+        "name":  "Saber",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1014.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1014.png"
+    },
+    {
+        "id":  "hsr_1015",
+        "gameId":  "1015",
+        "name":  "Archer",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1015.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1015.png"
+    },
+    {
+        "id":  "bronya",
+        "gameId":  "1101",
+        "name":  "Bronya",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1101.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\bronya.png"
+    },
+    {
+        "id":  "hsr_1102",
+        "gameId":  "1102",
+        "name":  "Seele",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1102.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1102.png"
+    },
+    {
+        "id":  "hsr_1103",
+        "gameId":  "1103",
+        "name":  "Serval",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1103.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1103.png"
+    },
+    {
+        "id":  "gepard",
+        "gameId":  "1104",
+        "name":  "Gepard",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1104.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\gepard.png"
+    },
+    {
+        "id":  "hsr_1105",
+        "gameId":  "1105",
+        "name":  "Natasha",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1105.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1105.png"
+    },
+    {
+        "id":  "hsr_1106",
+        "gameId":  "1106",
+        "name":  "Pela",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1106.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1106.png"
+    },
+    {
+        "id":  "hsr_1107",
+        "gameId":  "1107",
+        "name":  "Clara",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1107.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1107.png"
+    },
+    {
+        "id":  "sampo",
+        "gameId":  "1108",
+        "name":  "Sampo",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1108.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\sampo.png"
+    },
+    {
+        "id":  "hsr_1109",
+        "gameId":  "1109",
+        "name":  "Hook",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1109.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1109.png"
+    },
+    {
+        "id":  "hsr_1110",
+        "gameId":  "1110",
+        "name":  "Lynx",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1110.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1110.png"
+    },
+    {
+        "id":  "hsr_1111",
+        "gameId":  "1111",
+        "name":  "Luka",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1111.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1111.png"
+    },
+    {
+        "id":  "topaz",
+        "gameId":  "1112",
+        "name":  "Topaz \u0026 Numby",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1112.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\topaz.png"
+    },
+    {
+        "id":  "hsr_1201",
+        "gameId":  "1201",
+        "name":  "Qingque",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1201.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1201.png"
+    },
+    {
+        "id":  "hsr_1202",
+        "gameId":  "1202",
+        "name":  "Tingyun",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1202.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1202.png"
+    },
+    {
+        "id":  "hsr_1203",
+        "gameId":  "1203",
+        "name":  "Luocha",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1203.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1203.png"
+    },
+    {
+        "id":  "jingyuan",
+        "gameId":  "1204",
+        "name":  "Jing Yuan",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1204.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\jingyuan.png"
+    },
+    {
+        "id":  "blade",
+        "gameId":  "1205",
+        "name":  "Blade",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1205.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\blade.png"
+    },
+    {
+        "id":  "hsr_1206",
+        "gameId":  "1206",
+        "name":  "Sushang",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1206.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1206.png"
+    },
+    {
+        "id":  "hsr_1207",
+        "gameId":  "1207",
+        "name":  "Yukong",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1207.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1207.png"
+    },
+    {
+        "id":  "hsr_1208",
+        "gameId":  "1208",
+        "name":  "Fu Xuan",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1208.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1208.png"
+    },
+    {
+        "id":  "hsr_1209",
+        "gameId":  "1209",
+        "name":  "Yanqing",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1209.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1209.png"
+    },
+    {
+        "id":  "hsr_1210",
+        "gameId":  "1210",
+        "name":  "Guinaifen",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1210.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1210.png"
+    },
+    {
+        "id":  "bailu",
+        "gameId":  "1211",
+        "name":  "Bailu",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1211.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\bailu.png"
+    },
+    {
+        "id":  "hsr_1212",
+        "gameId":  "1212",
+        "name":  "Jingliu",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1212.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1212.png"
+    },
+    {
+        "id":  "imbibitor",
+        "gameId":  "1213",
+        "name":  "Dan Heng 鈥?Imbibitor Lunae",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1213.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\imbibitor.png"
+    },
+    {
+        "id":  "hsr_1214",
+        "gameId":  "1214",
+        "name":  "Xueyi",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1214.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1214.png"
+    },
+    {
+        "id":  "hsr_1215",
+        "gameId":  "1215",
+        "name":  "Hanya",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1215.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1215.png"
+    },
+    {
+        "id":  "hsr_1217",
+        "gameId":  "1217",
+        "name":  "Huohuo",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1217.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1217.png"
+    },
+    {
+        "id":  "hsr_1218",
+        "gameId":  "1218",
+        "name":  "Jiaoqiu",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1218.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1218.png"
+    },
+    {
+        "id":  "hsr_1220",
+        "gameId":  "1220",
+        "name":  "Feixiao",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1220.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1220.png"
+    },
+    {
+        "id":  "yunli",
+        "gameId":  "1221",
+        "name":  "Yunli",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1221.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\yunli.png"
+    },
+    {
+        "id":  "hsr_1222",
+        "gameId":  "1222",
+        "name":  "Lingsha",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1222.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1222.png"
+    },
+    {
+        "id":  "hsr_1223",
+        "gameId":  "1223",
+        "name":  "Moze",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1223.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1223.png"
+    },
+    {
+        "id":  "hsr_1224",
+        "gameId":  "1224",
+        "name":  "March 7th",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1224.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1224.png"
+    },
+    {
+        "id":  "fugue",
+        "gameId":  "1225",
+        "name":  "Fugue",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1225.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\fugue.png"
+    },
+    {
+        "id":  "hsr_1301",
+        "gameId":  "1301",
+        "name":  "Gallagher",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1301.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1301.png"
+    },
+    {
+        "id":  "hsr_1302",
+        "gameId":  "1302",
+        "name":  "Argenti",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1302.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1302.png"
+    },
+    {
+        "id":  "ruanmei",
+        "gameId":  "1303",
+        "name":  "Ruan Mei",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1303.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\ruanmei.png"
+    },
+    {
+        "id":  "aventurine",
+        "gameId":  "1304",
+        "name":  "Aventurine",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1304.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\aventurine.png"
+    },
+    {
+        "id":  "hsr_1305",
+        "gameId":  "1305",
+        "name":  "Dr. Ratio",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1305.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1305.png"
+    },
+    {
+        "id":  "sparkle",
+        "gameId":  "1306",
+        "name":  "Sparkle",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1306.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\sparkle.png"
+    },
+    {
+        "id":  "hsr_1307",
+        "gameId":  "1307",
+        "name":  "Black Swan",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1307.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1307.png"
+    },
+    {
+        "id":  "acheron",
+        "gameId":  "1308",
+        "name":  "Acheron",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1308.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\acheron.png"
+    },
+    {
+        "id":  "robin",
+        "gameId":  "1309",
+        "name":  "Robin",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1309.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\robin.png"
+    },
+    {
+        "id":  "firefly",
+        "gameId":  "1310",
+        "name":  "Firefly",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1310.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\firefly.png"
+    },
+    {
+        "id":  "hsr_1312",
+        "gameId":  "1312",
+        "name":  "Misha",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1312.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1312.png"
+    },
+    {
+        "id":  "sunday",
+        "gameId":  "1313",
+        "name":  "Sunday",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1313.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\sunday.png"
+    },
+    {
+        "id":  "hsr_1314",
+        "gameId":  "1314",
+        "name":  "Jade",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1314.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1314.png"
+    },
+    {
+        "id":  "hsr_1315",
+        "gameId":  "1315",
+        "name":  "Boothill",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1315.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1315.png"
+    },
+    {
+        "id":  "hsr_1317",
+        "gameId":  "1317",
+        "name":  "Rappa",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1317.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1317.png"
+    },
+    {
+        "id":  "hsr_1321",
+        "gameId":  "1321",
+        "name":  "The Dahlia",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1321.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1321.png"
+    },
+    {
+        "id":  "hsr_1401",
+        "gameId":  "1401",
+        "name":  "The Herta",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1401.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1401.png"
+    },
+    {
+        "id":  "hsr_1402",
+        "gameId":  "1402",
+        "name":  "Aglaea",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1402.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1402.png"
+    },
+    {
+        "id":  "hsr_1403",
+        "gameId":  "1403",
+        "name":  "Tribbie",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1403.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1403.png"
+    },
+    {
+        "id":  "hsr_1404",
+        "gameId":  "1404",
+        "name":  "Mydei",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1404.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1404.png"
+    },
+    {
+        "id":  "hsr_1405",
+        "gameId":  "1405",
+        "name":  "Anaxa",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1405.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1405.png"
+    },
+    {
+        "id":  "hsr_1406",
+        "gameId":  "1406",
+        "name":  "Cipher",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1406.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1406.png"
+    },
+    {
+        "id":  "hsr_1407",
+        "gameId":  "1407",
+        "name":  "Castorice",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1407.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1407.png"
+    },
+    {
+        "id":  "hsr_1408",
+        "gameId":  "1408",
+        "name":  "Phainon",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1408.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1408.png"
+    },
+    {
+        "id":  "hsr_1409",
+        "gameId":  "1409",
+        "name":  "Hyacine",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1409.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1409.png"
+    },
+    {
+        "id":  "hsr_1410",
+        "gameId":  "1410",
+        "name":  "Hysilens",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1410.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1410.png"
+    },
+    {
+        "id":  "hsr_1412",
+        "gameId":  "1412",
+        "name":  "Cerydra",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1412.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1412.png"
+    },
+    {
+        "id":  "hsr_1413",
+        "gameId":  "1413",
+        "name":  "Evernight",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1413.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1413.png"
+    },
+    {
+        "id":  "permansor",
+        "gameId":  "1414",
+        "name":  "Dan Heng 鈥?Permansor Terrae",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1414.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\permansor.png"
+    },
+    {
+        "id":  "hsr_1415",
+        "gameId":  "1415",
+        "name":  "Cyrene",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1415.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1415.png"
+    },
+    {
+        "id":  "hsr_1501",
+        "gameId":  "1501",
+        "name":  "Sparxie",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1501.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1501.png"
+    },
+    {
+        "id":  "hsr_1502",
+        "gameId":  "1502",
+        "name":  "Yao Guang",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1502.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1502.png"
+    },
+    {
+        "id":  "hsr_1504",
+        "gameId":  "1504",
+        "name":  "Ashveil",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1504.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1504.png"
+    },
+    {
+        "id":  "hsr_1505",
+        "gameId":  "1505",
+        "name":  "Evanescia",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1505.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1505.png"
+    },
+    {
+        "id":  "hsr_1506",
+        "gameId":  "1506",
+        "name":  "Silver Wolf LV.999",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1506.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1506.png"
+    },
+    {
+        "id":  "hsr_1507",
+        "gameId":  "1507",
+        "name":  "Mortenax Blade",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1507.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1507.png"
+    },
+    {
+        "id":  "hsr_1508",
+        "gameId":  "1508",
+        "name":  "Rin Tohsaka",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1508.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1508.png"
+    },
+    {
+        "id":  "hsr_1509",
+        "gameId":  "1509",
+        "name":  "Gilgamesh",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1509.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1509.png"
+    },
+    {
+        "id":  "hsr_1510",
+        "gameId":  "1510",
+        "name":  "Himeko 鈥?Nova",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1510.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1510.png"
+    },
+    {
+        "id":  "hsr_1512",
+        "gameId":  "1512",
+        "name":  "Robin 鈥?Summeretto",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1512.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1512.png"
+    },
+    {
+        "id":  "hsr_1513",
+        "gameId":  "1513",
+        "name":  "Aventurine 鈥?Waveflair",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/1513.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_1513.png"
+    },
+    {
+        "id":  "hsr_8001",
+        "gameId":  "8001",
+        "name":  "{NICKNAME}",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/8001.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_8001.png"
+    },
+    {
+        "id":  "trailblazer",
+        "gameId":  "8002",
+        "name":  "{NICKNAME}",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/8002.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\trailblazer.png"
+    },
+    {
+        "id":  "hsr_8003",
+        "gameId":  "8003",
+        "name":  "{NICKNAME}",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/8003.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_8003.png"
+    },
+    {
+        "id":  "preservation",
+        "gameId":  "8004",
+        "name":  "{NICKNAME}",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/8004.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\preservation.png"
+    },
+    {
+        "id":  "hsr_8005",
+        "gameId":  "8005",
+        "name":  "{NICKNAME}",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/8005.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_8005.png"
+    },
+    {
+        "id":  "harmony",
+        "gameId":  "8006",
+        "name":  "{NICKNAME}",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/8006.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\harmony.png"
+    },
+    {
+        "id":  "hsr_8007",
+        "gameId":  "8007",
+        "name":  "{NICKNAME}",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/8007.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_8007.png"
+    },
+    {
+        "id":  "remembrance",
+        "gameId":  "8008",
+        "name":  "{NICKNAME}",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/8008.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\remembrance.png"
+    },
+    {
+        "id":  "hsr_8009",
+        "gameId":  "8009",
+        "name":  "{NICKNAME}",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/8009.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\hsr_8009.png"
+    },
+    {
+        "id":  "elation",
+        "gameId":  "8010",
+        "name":  "{NICKNAME}",
+        "url":  "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/image/character_portrait/8010.png",
+        "path":  "D:\\daily\\starrail-defense\\public\\assets\\characters\\elation.png"
+    }
+]

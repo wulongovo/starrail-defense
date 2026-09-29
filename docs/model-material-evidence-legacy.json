@@ -1,0 +1,215 @@
+[
+  {
+    "id": "hsr_1009",
+    "details": [
+      {
+        "name": "內遮",
+        "texture": "Avatar_Asta_00_Face_Color.png",
+        "vertices": 168,
+        "uniqueUVs": 57,
+        "uvExamples": [
+          "0.6265,0.1336",
+          "0.6043,0.1408",
+          "0.5000,0.3337",
+          "0.5375,0.1519",
+          "0.5000,0.1513",
+          "0.4360,0.5572",
+          "0.4380,0.5407",
+          "0.6279,0.6698",
+          "0.6119,0.6507",
+          "0.6403,0.6816",
+          "0.6496,0.6829",
+          "0.6357,0.6756"
+        ],
+        "candidates": [
+          {
+            "name": "臉",
+            "texture": "颜.png",
+            "sharedPositionVertices": 112,
+            "sharedPositionAndUV": 0
+          },
+          {
+            "name": "身體",
+            "texture": "服.png",
+            "sharedPositionVertices": 42,
+            "sharedPositionAndUV": 0
+          },
+          {
+            "name": "髪",
+            "texture": "髪.png",
+            "sharedPositionVertices": 6,
+            "sharedPositionAndUV": 0
+          }
+        ]
+      },
+      {
+        "name": "上衣內襯+",
+        "texture": "Avatar_Asta_00_Body1_Color.png",
+        "vertices": 2506,
+        "uniqueUVs": 1217,
+        "uvExamples": [
+          "0.2065,0.4295",
+          "0.2065,0.4032",
+          "0.2170,0.4295",
+          "0.3606,0.0676",
+          "0.3547,0.1237",
+          "0.3473,0.0676",
+          "0.3721,0.1237",
+          "0.3479,0.0067",
+          "0.3642,0.0067",
+          "0.3324,0.0676",
+          "0.9153,0.4935",
+          "0.9061,0.4842"
+        ],
+        "candidates": [
+          {
+            "name": "上衣",
+            "texture": "服.png",
+            "sharedPositionVertices": 2506,
+            "sharedPositionAndUV": 2506
+          },
+          {
+            "name": "身體",
+            "texture": "服.png",
+            "sharedPositionVertices": 81,
+            "sharedPositionAndUV": 0
+          },
+          {
+            "name": "裙",
+            "texture": "外套.png",
+            "sharedPositionVertices": 19,
+            "sharedPositionAndUV": 0
+          },
+          {
+            "name": "裙內側+",
+            "texture": "外套内.png",
+            "sharedPositionVertices": 19,
+            "sharedPositionAndUV": 0
+          }
+        ]
+      },
+      {
+        "name": "裙內側2+",
+        "texture": "Avatar_Asta_00_Body2_Color_A.png",
+        "vertices": 130,
+        "uniqueUVs": 127,
+        "uvExamples": [
+          "0.0112,0.4885",
+          "0.0319,0.4586",
+          "0.0330,0.4874",
+          "0.0112,0.4572",
+          "0.0557,0.4599",
+          "0.0577,0.4850",
+          "0.0254,0.2616",
+          "0.0112,0.2608",
+          "0.0243,0.2234",
+          "0.0112,0.2231",
+          "0.0231,0.1854",
+          "0.0380,0.1858"
+        ],
+        "candidates": [
+          {
+            "name": "下擺",
+            "texture": "外套.png",
+            "sharedPositionVertices": 130,
+            "sharedPositionAndUV": 130
+          },
+          {
+            "name": "裙內側+",
+            "texture": "外套内.png",
+            "sharedPositionVertices": 24,
+            "sharedPositionAndUV": 13
+          },
+          {
+            "name": "上衣2",
+            "texture": "外套.png",
+            "sharedPositionVertices": 12,
+            "sharedPositionAndUV": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hsr_1201",
+    "details": [
+      {
+        "name": "Face_Mask_Mat1",
+        "texture": "Avatar_Qingque_00_Face_Color.png",
+        "vertices": 119,
+        "uniqueUVs": 8,
+        "uvExamples": [
+          "0.5000,0.0000",
+          "0.0000,0.0000",
+          "0.3261,0.0000",
+          "0.2133,0.0000",
+          "0.6523,0.0000",
+          "0.7867,0.0000",
+          "0.6739,0.0000",
+          "0.3477,0.0000"
+        ],
+        "candidates": [
+          {
+            "name": "顏",
+            "texture": "颜.png",
+            "sharedPositionVertices": 80,
+            "sharedPositionAndUV": 0
+          },
+          {
+            "name": "顏+",
+            "texture": "颜赤.tga",
+            "sharedPositionVertices": 80,
+            "sharedPositionAndUV": 0
+          },
+          {
+            "name": "體",
+            "texture": "服一.png",
+            "sharedPositionVertices": 22,
+            "sharedPositionAndUV": 0
+          },
+          {
+            "name": "髪",
+            "texture": "髪.png",
+            "sharedPositionVertices": 10,
+            "sharedPositionAndUV": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hsr_1202",
+    "details": [
+      {
+        "name": "顏遮",
+        "texture": "lambert2",
+        "vertices": 156,
+        "uniqueUVs": 2,
+        "uvExamples": [
+          "0.0000,0.0000",
+          "0.5000,0.0000"
+        ],
+        "candidates": [
+          {
+            "name": "颜",
+            "texture": "颜.jpg",
+            "sharedPositionVertices": 82,
+            "sharedPositionAndUV": 0
+          },
+          {
+            "name": "颜+",
+            "texture": "颜赤.tga",
+            "sharedPositionVertices": 82,
+            "sharedPositionAndUV": 0
+          },
+          {
+            "name": "體",
+            "texture": "服一.png",
+            "sharedPositionVertices": 40,
+            "sharedPositionAndUV": 0
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "name": "wulong-starrail-defense",
+  "version": "0.4.0",
+  "private": true,
+  "type": "module",
+  "description": "星穹防线 v0.4：3D帕姆防线、阵营朝向、强化怪物与五秒言灵",
+  "scripts": {
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "package": "node scripts/package.mjs",
+    "desktop": "electron electron/main.cjs",
+    "dist:win": "npm run build && electron-builder --win portable"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.0"
+  },
+  "main": "electron/main.cjs",
+  "build": {
+    "appId": "dev.wulong.starraildefense",
+    "productName": "星穹防线",
+    "directories": {
+      "output": "release/desktop"
+    },
+    "files": [
+      "dist/index.html",
+      "electron/main.cjs",
+      "package.json"
+    ],
+    "win": {
+      "target": "portable"
+    },
+    "artifactName": "StarRailDefense-${version}-portable.${ext}"
+  }
+}

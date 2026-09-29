@@ -1,0 +1,21 @@
+{
+  "id": "mimi",
+  "name": "迷迷",
+  "asset": "public/assets/characters/mimi.png",
+  "sourcePage": "https://www.zerochan.net/4612952",
+  "sourceImage": "https://static.zerochan.net/Mem.%28Honkai.Star.Rail%29.full.4612952.png",
+  "sourceKind": "community-gallery-reproduction",
+  "attribution": "Gallery entry indexed as Image by HoYoverse / official illustration; this is a red activity-outfit illustration of Mem, not the base white-purple battle model.",
+  "sha256": "f2163965ac1f4d8f416e8c5b78467105072be9e3cb36841030e5d5dab2dd4a1a",
+  "width": 917,
+  "height": 1189,
+  "mode": "RGBA",
+  "alphaExtrema": [
+    0,
+    255
+  ],
+  "transformation": "None. Original PNG copied byte-for-byte; no generation, redraw, crop or background removal.",
+  "assetType": "transparent 2D original-art reproduction, not a 3D model",
+  "visuallyInspected": true,
+  "limitations": "Community host attribution was not cross-checked byte-for-byte against an official CDN release. Base-outfit PNG request failed with connection EOF; retained separate original-art activity outfit."
+}

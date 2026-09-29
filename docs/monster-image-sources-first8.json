@@ -1,0 +1,114 @@
+[
+  {
+    "id": "woodLupus",
+    "url": "https://img.game8.co/3738115/14ba97d6c3db9dc734908fbe115ccd73.png/show",
+    "sourcePage": "https://game8.co/games/Honkai-Star-Rail/archives/417819",
+    "sourceKind": "original-game-image-community-guide",
+    "dimensions": [
+      437,
+      437
+    ],
+    "mode": "RGBA",
+    "bytes": 155028,
+    "sha256": "69b9f143aa39a9ef31ae590cde5a310c9f763667d442a07f7b73276d506b5866",
+    "originalPath": "public/assets/characters/woodLupus.png"
+  },
+  {
+    "id": "goldenHound",
+    "url": "https://img.game8.co/3738131/27f3e3777cc2786afc450a42472bbaaa.png/show",
+    "sourcePage": "https://game8.co/games/Honkai-Star-Rail/archives/417819",
+    "sourceKind": "original-game-image-community-guide",
+    "dimensions": [
+      437,
+      437
+    ],
+    "mode": "RGBA",
+    "bytes": 179425,
+    "sha256": "6a4af1b6148a976ef5b82c4e9b57e7af5fdd0e16ab3e6230b7a95116995d0dad",
+    "originalPath": "public/assets/characters/goldenHound.png"
+  },
+  {
+    "id": "maraSoldier",
+    "url": "https://img.game8.co/3660335/df6a5c5416a513c644eadf84520cb5f4.png/show",
+    "sourcePage": "https://game8.co/games/Honkai-Star-Rail/archives/417819",
+    "sourceKind": "original-game-image-community-guide",
+    "dimensions": [
+      437,
+      437
+    ],
+    "mode": "RGBA",
+    "bytes": 173588,
+    "sha256": "675bc3ee6a5b73fc623ab2259aa0e36a05e80c0564068bea312a2ecbba78ce9b",
+    "originalPath": "public/assets/characters/maraSoldier.png"
+  },
+  {
+    "id": "reaver",
+    "url": "https://img.game8.co/3660339/7775ee99957bc5ce90602edb12d4c548.png/show",
+    "sourcePage": "https://game8.co/games/Honkai-Star-Rail/archives/417819",
+    "sourceKind": "original-game-image-community-guide",
+    "dimensions": [
+      437,
+      437
+    ],
+    "mode": "RGBA",
+    "bytes": 191213,
+    "sha256": "d05241850a4cfd736766154a0f48bfcc2548a02e3e47eecb3f373f25b3f40400",
+    "originalPath": "public/assets/characters/reaver.png"
+  },
+  {
+    "id": "distorter",
+    "url": "https://img.game8.co/3660309/162a624793d3bd0d41acab6188508bf6.png/show",
+    "sourcePage": "https://game8.co/games/Honkai-Star-Rail/archives/417819",
+    "sourceKind": "original-game-image-community-guide",
+    "dimensions": [
+      437,
+      437
+    ],
+    "mode": "RGBA",
+    "bytes": 115450,
+    "sha256": "6d948b92b7d65f6f277c16f5fef9cfc4eb904dba77ac81ba435b79746e7a1270",
+    "originalPath": "public/assets/characters/distorter.png"
+  },
+  {
+    "id": "baryon",
+    "url": "https://img.game8.co/3660310/99387f79f046715e915b3828ec771834.png/show",
+    "sourcePage": "https://game8.co/games/Honkai-Star-Rail/archives/417819",
+    "sourceKind": "original-game-image-community-guide",
+    "dimensions": [
+      437,
+      437
+    ],
+    "mode": "RGBA",
+    "bytes": 130325,
+    "sha256": "0c9a15aa9b0652b8c48d08a80d5478d41db2e538a9a3a06cbbbbf656c7625fa6",
+    "originalPath": "public/assets/characters/baryon.png"
+  },
+  {
+    "id": "antibaryon",
+    "url": "https://img.game8.co/3660291/f953947554df5d2e6d82286aa11f6829.png/show",
+    "sourcePage": "https://game8.co/games/Honkai-Star-Rail/archives/417819",
+    "sourceKind": "original-game-image-community-guide",
+    "dimensions": [
+      437,
+      437
+    ],
+    "mode": "RGBA",
+    "bytes": 149766,
+    "sha256": "6f573448268216ed1daad79ad1b9037b224b83ebf1354de0980916e16d04eb6b",
+    "originalPath": "public/assets/characters/antibaryon.png"
+  },
+  {
+    "id": "trampler",
+    "url": "https://img.game8.co/3660334/13a8a7506611fcc9574c7ffde766edf8.png/show",
+    "sourcePage": "https://game8.co/games/Honkai-Star-Rail/archives/410314",
+    "sourceKind": "original-game-image-community-guide",
+    "dimensions": [
+      437,
+      437
+    ],
+    "mode": "RGBA",
+    "bytes": 169043,
+    "sha256": "eace2c55c898286acde0d9ee0e24c3e5a20348c3ef905440a23aa0253e0a4903",
+    "originalPath": "public/assets/characters/trampler.png"
+  }
+]

@@ -1,0 +1,1939 @@
+[
+  {
+    "id": "pompom",
+    "key": "pompom",
+    "name": "帕姆",
+    "folder": "1MIwsoXxJzppWaULqVpGJngXWF9W231_W",
+    "pmx": "帕姆3.0.pmx",
+    "source": "https://drive.google.com/drive/folders/1MIwsoXxJzppWaULqVpGJngXWF9W231_W",
+    "sourceKind": "public-community-mirror",
+    "status": "converted",
+    "bundlePath": "public/assets/models/pompom/bundle.json",
+    "pmxSha256": "d7540717a0b85317afbb41efe31d16987a5c7cbf6344298b871d8967fa131120",
+    "vertices": 10783,
+    "triangles": 15266,
+    "bones": 302,
+    "textureCount": 2,
+    "maxTexture": 256,
+    "originalComment": "\r\n允许改造，优化骨骼和刚体，重制UV\r\n\r\n===================\r\n请勿二次配布\r\n\r\n请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等\r\n\r\n请勿用于商业用途\r\n\r\n他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任\r\n\r\n模型编辑：神帝宇\r\n\r\n模型版权所属miHoYo",
+    "files": [
+      {
+        "fileId": "1ekbORL9b8Bry3FXKktBzsmLZq4qtIuX-",
+        "name": "toon3.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1ekbORL9b8Bry3FXKktBzsmLZq4qtIuX-&export=download",
+        "path": "public/assets/models/pompom/mirror-original/toon3.png",
+        "sha256": "dad85338aa2800ef4cfeaab41b3767318441630163ec078a64ce0f0da87ad695",
+        "bytes": 5628
+      },
+      {
+        "fileId": "1UdZJVl9qxGF5bMUNS4UKUBxFuHHGFw5b",
+        "name": "toon2.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1UdZJVl9qxGF5bMUNS4UKUBxFuHHGFw5b&export=download",
+        "path": "public/assets/models/pompom/mirror-original/toon2.png",
+        "sha256": "9498ddbcb2e57a67e932deadf72d1001238a3f85f6aa58e4b8e4307ce2a47720",
+        "bytes": 5586
+      },
+      {
+        "fileId": "1wNxxjGr_rei38zusKO8GOqu-B2es0LCh",
+        "name": "mc3.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1wNxxjGr_rei38zusKO8GOqu-B2es0LCh&export=download",
+        "path": "public/assets/models/pompom/mirror-original/mc3.png",
+        "sha256": "988d8189318072892936e5cf90582c6edfa8dea026c611ec2dcdde84279c1535",
+        "bytes": 33861
+      },
+      {
+        "fileId": "18JRWljRxwJFyPFDo2kDqM2qgcWxZHh9p",
+        "name": "mc1.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=18JRWljRxwJFyPFDo2kDqM2qgcWxZHh9p&export=download",
+        "path": "public/assets/models/pompom/mirror-original/mc1.png",
+        "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16",
+        "bytes": 64509
+      },
+      {
+        "fileId": "12G4vOk8-vquw_GJvgwuPK8FcTOpmX_mu",
+        "name": "使用规则.txt",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=12G4vOk8-vquw_GJvgwuPK8FcTOpmX_mu&export=download",
+        "path": "public/assets/models/pompom/mirror-original/使用规则.txt",
+        "sha256": "7aaceed25c4aeee2db86e49d66d740a4c491e7b8c87db8b297d2947d5f3208b3",
+        "bytes": 399
+      },
+      {
+        "fileId": "1Hh_ZvFXNUBbswrB3RgGyVbvWD6KcMQoN",
+        "name": "表情.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1Hh_ZvFXNUBbswrB3RgGyVbvWD6KcMQoN&export=download",
+        "path": "public/assets/models/pompom/mirror-original/表情.png",
+        "sha256": "fbd77c78e95fbb9e149e969705548017fabc3a169647385acedfdecc38605136",
+        "bytes": 136533
+      },
+      {
+        "fileId": "1DjnpYddqsRgvdmhMGsNoUN5sz-QWzOK8",
+        "name": "帕姆3.0.pmx",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1DjnpYddqsRgvdmhMGsNoUN5sz-QWzOK8&export=download",
+        "path": "public/assets/models/pompom/mirror-original/帕姆3.0.pmx",
+        "sha256": "d7540717a0b85317afbb41efe31d16987a5c7cbf6344298b871d8967fa131120",
+        "bytes": 2224286
+      },
+      {
+        "fileId": "1eORcI0nMIJZK2U1TzL0Yx_JiU6YEqdJq",
+        "name": "身体.png",
+        "model": "pompom",
+        "source": "https://drive.usercontent.google.com/download?id=1eORcI0nMIJZK2U1TzL0Yx_JiU6YEqdJq&export=download",
+        "path": "public/assets/models/pompom/mirror-original/身体.png",
+        "sha256": "112870763d00237c2a7ef3932fbe101614ca57c794633beac08d38224f117efa",
+        "bytes": 947457
+      }
+    ],
+    "validation": {
+      "pmxHashMatches": true,
+      "allTexturesDecode": true,
+      "maxTextureDimension": 256
+    },
+    "modelName": "新帕姆",
+    "rules": [
+      "public/assets/models/pompom/mirror-original/使用规则.txt"
+    ],
+    "checkedAt": "2026-09-29",
+    "format": "wulong-pmx-bundle-v1",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "boss_doomsday",
+    "name": "末日兽",
+    "status": "converted",
+    "format": "wulong-glb-bundle-v1",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=2002020",
+    "sourceKind": "public-community-game-asset-catalog",
+    "bundlePath": "public/assets/models/boss_doomsday/bundle.json",
+    "sourceFile": "public/assets/models/boss_doomsday/hoyotoon-original/Art_AML_Boss_00.fbx",
+    "sourceSha256": "d01db2803af54344084ac79edb1f12ef9803ef075a7b9814c08342d22871ac00",
+    "glbSha256": "acc75e24e13cb6e3523030e0982e0258f3d8a332d60b2ef79648f39437f4c924",
+    "pmxSha256": null,
+    "vertices": 46949,
+    "triangles": 42072,
+    "bones": 200,
+    "sourceBones": 199,
+    "textureCount": 5,
+    "maxTexture": 256,
+    "animations": [],
+    "originalComment": "",
+    "credits": "Game assets © miHoYo / HoYoverse. Public game-asset catalogue provided by HoyoToon; not an official MMD distribution.",
+    "conversion": {
+      "tool": "Blender 5.2.1 LTS",
+      "maxTextureDimension": 256,
+      "geometry": "Original FBX meshes, UVs, skeletons and weights imported without mesh simplification or replacement.",
+      "animations": "All original FBX actions exported when present; none synthesized. Progressive morph geometry is retained as independent targets; original FBX progressive channel timing is not used when no source animation exists.",
+      "materials": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+      "coordinateSystem": "Blender FBX importer to glTF Y-up exporter; source object hierarchy and local transforms preserved."
+    },
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": [],
+      "sourceFileSha256Matches": true,
+      "convertedSha256Matches": true,
+      "allImagesDecode": true,
+      "maxEmbeddedTextureDimension": 256,
+      "catalogueFileHashesMatch": true
+    },
+    "files": [
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Materials/Monster_AML_Boss_00_3_Mat.json",
+        "remotePath": "Monsters/Flying Sword/Default/Materials/Monster_AML_Boss_00_3_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FMaterials%2FMonster_AML_Boss_00_3_Mat.json&v=f29ab8a1aeaa9ffdb127f916ac56772f",
+        "size": 4702,
+        "sha256": "6698b184cd8cd8e3f4349da6fafd78fc7ed058fe712aa702683ac05aeab8f428",
+        "etag": "f29ab8a1aeaa9ffdb127f916ac56772f",
+        "catalogueSha256": "6698b184cd8cd8e3f4349da6fafd78fc7ed058fe712aa702683ac05aeab8f428"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Materials/Monster_AML_Boss_00_1_Mat.json",
+        "remotePath": "Monsters/Flying Sword/Default/Materials/Monster_AML_Boss_00_1_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FMaterials%2FMonster_AML_Boss_00_1_Mat.json&v=98b27a8f209e93ce957de851da38d7b5",
+        "size": 7006,
+        "sha256": "f35224504f86701b921a1a9d77020b300b876b16cb41e74fbefbeb11f9621612",
+        "etag": "98b27a8f209e93ce957de851da38d7b5",
+        "catalogueSha256": "f35224504f86701b921a1a9d77020b300b876b16cb41e74fbefbeb11f9621612"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Materials/Monster_AML_Boss_00_2_Mat.json",
+        "remotePath": "Monsters/Flying Sword/Default/Materials/Monster_AML_Boss_00_2_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FMaterials%2FMonster_AML_Boss_00_2_Mat.json&v=bd1af87112e8bb7e4996d92547363a85",
+        "size": 6663,
+        "sha256": "1fd4af8d9552821fbed4a9a19863821fb19b36ea05690b8bbb1444c3d9138fc4",
+        "etag": "bd1af87112e8bb7e4996d92547363a85",
+        "catalogueSha256": "1fd4af8d9552821fbed4a9a19863821fb19b36ea05690b8bbb1444c3d9138fc4"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Art_AML_Boss_00.fbx",
+        "remotePath": "Monsters/Flying Sword/Default/Art_AML_Boss_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FArt_AML_Boss_00.fbx&v=681d943a18f59ff779fc5a28a11d09bf",
+        "size": 4461524,
+        "sha256": "d01db2803af54344084ac79edb1f12ef9803ef075a7b9814c08342d22871ac00",
+        "etag": "681d943a18f59ff779fc5a28a11d09bf",
+        "catalogueSha256": "d01db2803af54344084ac79edb1f12ef9803ef075a7b9814c08342d22871ac00"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Materials/Monster_AML_Boss_00_4_Mat.json",
+        "remotePath": "Monsters/Flying Sword/Default/Materials/Monster_AML_Boss_00_4_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FMaterials%2FMonster_AML_Boss_00_4_Mat.json&v=1f93adb4d0c88551db3558ccbba51f2b",
+        "size": 7352,
+        "sha256": "9bb0d418694460d7747686fd620d36eb7c1ee1b3a39af96bcd6197920f7791ec",
+        "etag": "1f93adb4d0c88551db3558ccbba51f2b",
+        "catalogueSha256": "9bb0d418694460d7747686fd620d36eb7c1ee1b3a39af96bcd6197920f7791ec"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Materials/Monster_AML_Boss_00_6_Mat.json",
+        "remotePath": "Monsters/Flying Sword/Default/Materials/Monster_AML_Boss_00_6_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FMaterials%2FMonster_AML_Boss_00_6_Mat.json&v=0a0401cb92f2c85bc2000e21dd25f000",
+        "size": 4830,
+        "sha256": "efe0861aa6ab9afd72106735563c61cf256ff03f0357d8b62a128ef3933b0c77",
+        "etag": "0a0401cb92f2c85bc2000e21dd25f000",
+        "catalogueSha256": "efe0861aa6ab9afd72106735563c61cf256ff03f0357d8b62a128ef3933b0c77"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Materials/Monster_AML_Boss_00_5_Mat.json",
+        "remotePath": "Monsters/Flying Sword/Default/Materials/Monster_AML_Boss_00_5_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FMaterials%2FMonster_AML_Boss_00_5_Mat.json&v=5cfc40c67dd83c3cd28b4a112d57134b",
+        "size": 4720,
+        "sha256": "72001d0b7af34c7daad5d3512ae7ad8ca1b29e6e8ed6ecd731b329bf4e478fbe",
+        "etag": "5cfc40c67dd83c3cd28b4a112d57134b",
+        "catalogueSha256": "72001d0b7af34c7daad5d3512ae7ad8ca1b29e6e8ed6ecd731b329bf4e478fbe"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Materials/Monster_AML_Boss_00_Weapon_Mat.json",
+        "remotePath": "Monsters/Flying Sword/Default/Materials/Monster_AML_Boss_00_Weapon_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FMaterials%2FMonster_AML_Boss_00_Weapon_Mat.json&v=42f6c799e703ddffa73962955b48446e",
+        "size": 7313,
+        "sha256": "398e3e6a97b606ffa5b10ea73e731c6dbcdc051d608d63bc12ddcf86a109c05b",
+        "etag": "42f6c799e703ddffa73962955b48446e",
+        "catalogueSha256": "398e3e6a97b606ffa5b10ea73e731c6dbcdc051d608d63bc12ddcf86a109c05b"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_2_Mat.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_2_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Boss_00_2_Mat.png&v=ed36089af18a9ab873bb1b7c66431ddb",
+        "size": 257,
+        "sha256": "6818a5b83d06f74c491bc3462047fe5c84d5696f8c16facdf9fac08fa4b8e959",
+        "etag": "ed36089af18a9ab873bb1b7c66431ddb",
+        "catalogueSha256": "6818a5b83d06f74c491bc3462047fe5c84d5696f8c16facdf9fac08fa4b8e959"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_1_Mat.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_1_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Boss_00_1_Mat.png&v=d2aba252bcc33a62ffd7d2392a8ac6af",
+        "size": 268,
+        "sha256": "f8888ebc2f2272c990abfe9a2edcf43c1e06a5f43e03db677bedee2e7335cdb4",
+        "etag": "d2aba252bcc33a62ffd7d2392a8ac6af",
+        "catalogueSha256": "f8888ebc2f2272c990abfe9a2edcf43c1e06a5f43e03db677bedee2e7335cdb4"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_3_Mat.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_3_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Boss_00_3_Mat.png&v=d7c189b5ae92e975b3437f188207be04",
+        "size": 232,
+        "sha256": "72e644671e586a300eab44df812a5c3a38d4d6f45b40d932ff281e10c4f583a6",
+        "etag": "d7c189b5ae92e975b3437f188207be04",
+        "catalogueSha256": "72e644671e586a300eab44df812a5c3a38d4d6f45b40d932ff281e10c4f583a6"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_5_Mat.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_5_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Boss_00_5_Mat.png&v=cd570acb31904c87581a66a849ad5d46",
+        "size": 237,
+        "sha256": "1170657efc40261cbe8f7667298d4d7163b8b783e8fa1f9cfaa960e7ef5cbdc7",
+        "etag": "cd570acb31904c87581a66a849ad5d46",
+        "catalogueSha256": "1170657efc40261cbe8f7667298d4d7163b8b783e8fa1f9cfaa960e7ef5cbdc7"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_4_Mat.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_4_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Boss_00_4_Mat.png&v=1ebd8d950777e82a627e4f35d580de59",
+        "size": 237,
+        "sha256": "c269ea41eb7be84830b11f74194f5bbff4dcdeb13c245b046a284c607c0fa073",
+        "etag": "1ebd8d950777e82a627e4f35d580de59",
+        "catalogueSha256": "c269ea41eb7be84830b11f74194f5bbff4dcdeb13c245b046a284c607c0fa073"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_6_Mat.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_6_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Boss_00_6_Mat.png&v=3cdb3ebb51dc4488eca8d0d3473b3bda",
+        "size": 236,
+        "sha256": "195e6b7ad97863c221d3c50b1db4f16389e13318fba161072d2f3d0391781186",
+        "etag": "3cdb3ebb51dc4488eca8d0d3473b3bda",
+        "catalogueSha256": "195e6b7ad97863c221d3c50b1db4f16389e13318fba161072d2f3d0391781186"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_Weapon_Mat.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/MaterialIDValuesLUTMonster_AML_Boss_00_Weapon_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMaterialIDValuesLUTMonster_AML_Boss_00_Weapon_Mat.png&v=deb66f627cbf6005dd3b9784bb2a20ec",
+        "size": 242,
+        "sha256": "c2b649b9747a860528281d7a3c6d0e157394dd9eaf7f93e777271d0210fcb883",
+        "etag": "deb66f627cbf6005dd3b9784bb2a20ec",
+        "catalogueSha256": "c2b649b9747a860528281d7a3c6d0e157394dd9eaf7f93e777271d0210fcb883"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_01_Mask.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_01_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_01_Mask.png&v=45ffaa0f8d45cc78da0f21a8d4535a72",
+        "size": 124810,
+        "sha256": "c651e98a7a8286690353165a7127c9adc1b3093ccdce15a3e8a429bb0607eb66",
+        "etag": "45ffaa0f8d45cc78da0f21a8d4535a72",
+        "catalogueSha256": "c651e98a7a8286690353165a7127c9adc1b3093ccdce15a3e8a429bb0607eb66"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_01_Color.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_01_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_01_Color.png&v=64993a63fc846680e8ba6e6d578b99b4",
+        "size": 5127220,
+        "sha256": "a9b2cf6b2166af1e9b28db36914dc09581e239a038b1fd35fdb7be4ada3413cd",
+        "etag": "64993a63fc846680e8ba6e6d578b99b4",
+        "catalogueSha256": "a9b2cf6b2166af1e9b28db36914dc09581e239a038b1fd35fdb7be4ada3413cd"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_01_LightMap.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_01_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_01_LightMap.png&v=240475f7b0473dff6f3246be1479281d",
+        "size": 2882077,
+        "sha256": "1aa4ff598e768a9de9baf93a58df0107aab4f404fa76e7b3bbbfa8f03825b731",
+        "etag": "240475f7b0473dff6f3246be1479281d",
+        "catalogueSha256": "1aa4ff598e768a9de9baf93a58df0107aab4f404fa76e7b3bbbfa8f03825b731"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_02_Color.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_02_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_02_Color.png&v=ac51ef14d85fec07e7881d89a5bc0426",
+        "size": 3698991,
+        "sha256": "fbefb31b40619067ecd70c584dbb88de271ebde66c694feea8ac9d9d298ece74",
+        "etag": "ac51ef14d85fec07e7881d89a5bc0426",
+        "catalogueSha256": "fbefb31b40619067ecd70c584dbb88de271ebde66c694feea8ac9d9d298ece74"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_02_LightMap.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_02_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_02_LightMap.png&v=e9f5de5a9a8c5585dae7a7f25ba1bc5a",
+        "size": 1909924,
+        "sha256": "78e4585135be82db99627d4ecb5a060b63d1a9c6ffbe5960020243a8be7a19e5",
+        "etag": "e9f5de5a9a8c5585dae7a7f25ba1bc5a",
+        "catalogueSha256": "78e4585135be82db99627d4ecb5a060b63d1a9c6ffbe5960020243a8be7a19e5"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_03_Color.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_03_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_03_Color.png&v=23de3eda4c3f990fb76efc379a898b49",
+        "size": 3606152,
+        "sha256": "203e3f6af47c867a5886343116b4fe26a487e4567cc32a5220c66eee0551cad2",
+        "etag": "23de3eda4c3f990fb76efc379a898b49",
+        "catalogueSha256": "203e3f6af47c867a5886343116b4fe26a487e4567cc32a5220c66eee0551cad2"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_04_Color.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_04_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_04_Color.png&v=31c9912ff44aa17a17ec24a9e45aa116",
+        "size": 252316,
+        "sha256": "d6100c67fe18686fe259399832cf97558fc88e1927535616326488ea2ad8f793",
+        "etag": "31c9912ff44aa17a17ec24a9e45aa116",
+        "catalogueSha256": "d6100c67fe18686fe259399832cf97558fc88e1927535616326488ea2ad8f793"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_03_LightMap.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_03_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_03_LightMap.png&v=8c7ca2c97a674af7b25b4482d12bf2b3",
+        "size": 1678965,
+        "sha256": "4cab31dd66d65e053213d97435c00e122e5caf35f750517d33ce04944faa451b",
+        "etag": "8c7ca2c97a674af7b25b4482d12bf2b3",
+        "catalogueSha256": "4cab31dd66d65e053213d97435c00e122e5caf35f750517d33ce04944faa451b"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_02_Mask.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_02_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_02_Mask.png&v=15dd8d04a3d8071983051ff889b606fd",
+        "size": 1534867,
+        "sha256": "5f31337a6d466a844821559f1158c7cf6d7e8c8147f507ad8f8f60cbbd15a465",
+        "etag": "15dd8d04a3d8071983051ff889b606fd",
+        "catalogueSha256": "5f31337a6d466a844821559f1158c7cf6d7e8c8147f507ad8f8f60cbbd15a465"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_04_LightMap.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_04_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_04_LightMap.png&v=3b8b8ade789baf87903db75ff8bcbc3e",
+        "size": 134373,
+        "sha256": "669c9d8a3c95a48b8e92e128cffed235362f50612603a3b026b42dffe21c8ed2",
+        "etag": "3b8b8ade789baf87903db75ff8bcbc3e",
+        "catalogueSha256": "669c9d8a3c95a48b8e92e128cffed235362f50612603a3b026b42dffe21c8ed2"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_04_Mask.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_04_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_04_Mask.png&v=05d5d7b72dff5353546fa96e42f3285e",
+        "size": 2284,
+        "sha256": "7c183c553d52bf8dc4b857d0cd271b318174d58734e5b4a473093dc83a5360ea",
+        "etag": "05d5d7b72dff5353546fa96e42f3285e",
+        "catalogueSha256": "7c183c553d52bf8dc4b857d0cd271b318174d58734e5b4a473093dc83a5360ea"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_Cool_Ramp.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_Cool_Ramp.png&v=de9d10f85ceea16323908af176999454",
+        "size": 825,
+        "sha256": "f1ae97912b1a084d60982ef02497c1677204ae1ddcbe7cd2b9f77ab8bfec46f5",
+        "etag": "de9d10f85ceea16323908af176999454",
+        "catalogueSha256": "f1ae97912b1a084d60982ef02497c1677204ae1ddcbe7cd2b9f77ab8bfec46f5"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_Warm_Ramp.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_Warm_Ramp.png&v=1132dacfa2caaa2a466cec6338f6c4cb",
+        "size": 822,
+        "sha256": "850afcf4f6ac88834331d247ab3c685f97daaaf2218a68f68df74d19a5bba686",
+        "etag": "1132dacfa2caaa2a466cec6338f6c4cb",
+        "catalogueSha256": "850afcf4f6ac88834331d247ab3c685f97daaaf2218a68f68df74d19a5bba686"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_Weapon_Mask.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_Weapon_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_Weapon_Mask.png&v=c3f257f7c25c1d7fca8f13029bac4ef3",
+        "size": 7602,
+        "sha256": "044fbf3c8bdd41defc963be8053cab5484133b27102eaecec3df541ce7d4c2b4",
+        "etag": "c3f257f7c25c1d7fca8f13029bac4ef3",
+        "catalogueSha256": "044fbf3c8bdd41defc963be8053cab5484133b27102eaecec3df541ce7d4c2b4"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_Weapon_LightMap.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_Weapon_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_Weapon_LightMap.png&v=098595cd33fa7b42656c3f1e60f42b50",
+        "size": 409609,
+        "sha256": "61da17a304e40fd76c8a92fd0e29dda7eb11e961b0a347cc05662c7492f03df7",
+        "etag": "098595cd33fa7b42656c3f1e60f42b50",
+        "catalogueSha256": "61da17a304e40fd76c8a92fd0e29dda7eb11e961b0a347cc05662c7492f03df7"
+      },
+      {
+        "id": "boss_doomsday",
+        "path": "public/assets/models/boss_doomsday/hoyotoon-original/Textures/Monster_AML_Boss_00_Weapon_Color.png",
+        "remotePath": "Monsters/Flying Sword/Default/Textures/Monster_AML_Boss_00_Weapon_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FFlying+Sword%2FDefault%2FTextures%2FMonster_AML_Boss_00_Weapon_Color.png&v=287b75e8ccad7a934727c2318f747ad7",
+        "size": 431326,
+        "sha256": "43fd305f74234fb2aaa743f1f1463fc4dc856d5fe02bf41b117b571023f11fe3",
+        "etag": "287b75e8ccad7a934727c2318f747ad7",
+        "catalogueSha256": "43fd305f74234fb2aaa743f1f1463fc4dc856d5fe02bf41b117b571023f11fe3"
+      }
+    ],
+    "checkedAt": "2026-09-29",
+    "identityEvidence": {
+      "sourceInternalName": "Art_AML_Boss_00",
+      "sourceCatalogueFolderIsMisclassified": "Flying Sword",
+      "visualCheck": "Original white-purple winged Doomsday Beast with separate hands, long tail and four wings verified from converted source geometry.",
+      "screenshots": [
+        ".cache/modern-models/doomsday-qa-front.png",
+        ".cache/modern-models/doomsday-qa-side.png"
+      ]
+    },
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "boss_phantylia",
+    "name": "幻胧",
+    "status": "converted",
+    "format": "wulong-glb-bundle-v1",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8015020",
+    "sourceKind": "public-community-game-asset-catalog",
+    "bundlePath": "public/assets/models/boss_phantylia/bundle.json",
+    "sourceFile": "public/assets/models/boss_phantylia/hoyotoon-original/Art_W2_Huanlong_00.fbx",
+    "sourceSha256": "5fec52d10fe36eb3923603b2e6f366fc5df8e0a3b22c4cb0f248532e09750fb1",
+    "glbSha256": "db5eb45a00e5ed90d102a42eacca40905a2dc5ab19fb5910de4f011bb380ce3c",
+    "pmxSha256": null,
+    "vertices": 47992,
+    "triangles": 56778,
+    "bones": 327,
+    "sourceBones": 326,
+    "textureCount": 4,
+    "maxTexture": 256,
+    "animations": [],
+    "originalComment": "",
+    "credits": "Game assets © miHoYo / HoYoverse. Public game-asset catalogue provided by HoyoToon; not an official MMD distribution.",
+    "conversion": {
+      "tool": "Blender 5.2.1 LTS",
+      "maxTextureDimension": 256,
+      "geometry": "Original FBX meshes, UVs, skeletons and weights imported without mesh simplification or replacement.",
+      "animations": "All original FBX actions exported when present; none synthesized. Progressive morph geometry is retained as independent targets; original FBX progressive channel timing is not used when no source animation exists.",
+      "materials": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+      "coordinateSystem": "Blender FBX importer to glTF Y-up exporter; source object hierarchy and local transforms preserved."
+    },
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": [],
+      "sourceFileSha256Matches": true,
+      "convertedSha256Matches": true,
+      "allImagesDecode": true,
+      "maxEmbeddedTextureDimension": 256,
+      "catalogueFileHashesMatch": true
+    },
+    "files": [
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Materials/Mat_FaceMask.json",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Materials/Mat_FaceMask.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FMaterials%2FMat_FaceMask.json&v=e1c5b77384bac2b89281c9834c0a6d62",
+        "size": 533,
+        "sha256": "f7de5b66576bd310603999cdb89a538bc6d8e39a5cb57bff21da2f4e2f8cbd82",
+        "etag": "e1c5b77384bac2b89281c9834c0a6d62",
+        "catalogueSha256": "f7de5b66576bd310603999cdb89a538bc6d8e39a5cb57bff21da2f4e2f8cbd82"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Materials/W2_Huanlong_00_Body_Mat_D.json",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Materials/W2_Huanlong_00_Body_Mat_D.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FMaterials%2FW2_Huanlong_00_Body_Mat_D.json&v=eea5bc8d73ddc19f341bd4f050c8819b",
+        "size": 7693,
+        "sha256": "79dc1ba9f429ebbef87ef4159876c572a383825655152455978add39821d8194",
+        "etag": "eea5bc8d73ddc19f341bd4f050c8819b",
+        "catalogueSha256": "79dc1ba9f429ebbef87ef4159876c572a383825655152455978add39821d8194"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Art_W2_Huanlong_00.fbx",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Art_W2_Huanlong_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FArt_W2_Huanlong_00.fbx&v=8bb0f837aa05f1be111c4ab0c8dec403",
+        "size": 5446436,
+        "sha256": "5fec52d10fe36eb3923603b2e6f366fc5df8e0a3b22c4cb0f248532e09750fb1",
+        "etag": "8bb0f837aa05f1be111c4ab0c8dec403",
+        "catalogueSha256": "5fec52d10fe36eb3923603b2e6f366fc5df8e0a3b22c4cb0f248532e09750fb1"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Materials/W2_Huanlong_00_Face_Mat.json",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Materials/W2_Huanlong_00_Face_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FMaterials%2FW2_Huanlong_00_Face_Mat.json&v=f522ca0c26b2965ff8a21acb05506e4e",
+        "size": 2859,
+        "sha256": "568617c6b9f93d77dea0490c0b6fe3136120d2b0a3c1b1c688a56b230308fecd",
+        "etag": "f522ca0c26b2965ff8a21acb05506e4e",
+        "catalogueSha256": "568617c6b9f93d77dea0490c0b6fe3136120d2b0a3c1b1c688a56b230308fecd"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Materials/W2_Huanlong_00_Body_Mat_S.json",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Materials/W2_Huanlong_00_Body_Mat_S.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FMaterials%2FW2_Huanlong_00_Body_Mat_S.json&v=42515b17b384578867b1461d6a896f6c",
+        "size": 7665,
+        "sha256": "1b56cc97b6f017103b90b5cb33d6959a954ecdbfd44b792f42271d749d12206e",
+        "etag": "42515b17b384578867b1461d6a896f6c",
+        "catalogueSha256": "1b56cc97b6f017103b90b5cb33d6959a954ecdbfd44b792f42271d749d12206e"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/MaterialIDValuesLUTW2_Huanlong_00_Body_Mat_S.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/MaterialIDValuesLUTW2_Huanlong_00_Body_Mat_S.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Huanlong_00_Body_Mat_S.png&v=3b484d76dc4be63244864a1fe006490b",
+        "size": 348,
+        "sha256": "a31efc66d37b01c899e732f88957ab88090b3d696dbf5f43551256f6ccf768fe",
+        "etag": "3b484d76dc4be63244864a1fe006490b",
+        "catalogueSha256": "a31efc66d37b01c899e732f88957ab88090b3d696dbf5f43551256f6ccf768fe"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/MaterialIDValuesLUTW2_Huanlong_00_Body_Mat_D.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/MaterialIDValuesLUTW2_Huanlong_00_Body_Mat_D.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Huanlong_00_Body_Mat_D.png&v=3b484d76dc4be63244864a1fe006490b",
+        "size": 348,
+        "sha256": "a31efc66d37b01c899e732f88957ab88090b3d696dbf5f43551256f6ccf768fe",
+        "etag": "3b484d76dc4be63244864a1fe006490b",
+        "catalogueSha256": "a31efc66d37b01c899e732f88957ab88090b3d696dbf5f43551256f6ccf768fe"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Materials/W2_Huanlong_00_Weapon_Mat.json",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Materials/W2_Huanlong_00_Weapon_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FMaterials%2FW2_Huanlong_00_Weapon_Mat.json&v=c48a2401a85599fe6aab2dbf1d16f91c",
+        "size": 6287,
+        "sha256": "b7f7d4ca230b70b8229d4e74ce7c70a81182f33e701c9fedb066d28675ab783f",
+        "etag": "c48a2401a85599fe6aab2dbf1d16f91c",
+        "catalogueSha256": "b7f7d4ca230b70b8229d4e74ce7c70a81182f33e701c9fedb066d28675ab783f"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Materials/W2_Huanlong_00_Hair_Mat.json",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Materials/W2_Huanlong_00_Hair_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FMaterials%2FW2_Huanlong_00_Hair_Mat.json&v=98eb7b370e59f6a353ed34d487a1cd6f",
+        "size": 3137,
+        "sha256": "0119631021580a2adb47c23f8feb7e52d3c95d1b22c90448f06ab1f97274c165",
+        "etag": "98eb7b370e59f6a353ed34d487a1cd6f",
+        "catalogueSha256": "0119631021580a2adb47c23f8feb7e52d3c95d1b22c90448f06ab1f97274c165"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/MaterialIDValuesLUTW2_Huanlong_00_Weapon_Mat.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/MaterialIDValuesLUTW2_Huanlong_00_Weapon_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMaterialIDValuesLUTW2_Huanlong_00_Weapon_Mat.png&v=f62e9bc9ca8c347aa2b4a5a346cd25f4",
+        "size": 289,
+        "sha256": "ce5bc17446e25e4ed2749c1846dbfb26b837ece9d34a142a744da7231be4e3eb",
+        "etag": "f62e9bc9ca8c347aa2b4a5a346cd25f4",
+        "catalogueSha256": "ce5bc17446e25e4ed2749c1846dbfb26b837ece9d34a142a744da7231be4e3eb"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/Monster_W2_Huanlong_00_Body_Ramp.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/Monster_W2_Huanlong_00_Body_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMonster_W2_Huanlong_00_Body_Ramp.png&v=fcc5f533ed2abc99d38008e144cc2cff",
+        "size": 661,
+        "sha256": "6f6dd064e19acae656ee7bf8e60c87316fe832a3d9131d34d9bebd1ee9710ff7",
+        "etag": "fcc5f533ed2abc99d38008e144cc2cff",
+        "catalogueSha256": "6f6dd064e19acae656ee7bf8e60c87316fe832a3d9131d34d9bebd1ee9710ff7"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/Monster_W2_Huanlong_00_Face_Color.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/Monster_W2_Huanlong_00_Face_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMonster_W2_Huanlong_00_Face_Color.png&v=5fba208af4e6333df266e1b31e4cf501",
+        "size": 364450,
+        "sha256": "bc5f2a0d7c2a3c76ccdbc6649eebf71b2afdfd6f94cdc220b7b167d9cc31f0f3",
+        "etag": "5fba208af4e6333df266e1b31e4cf501",
+        "catalogueSha256": "bc5f2a0d7c2a3c76ccdbc6649eebf71b2afdfd6f94cdc220b7b167d9cc31f0f3"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/Monster_W2_Huanlong_00_FaceMap.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/Monster_W2_Huanlong_00_FaceMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMonster_W2_Huanlong_00_FaceMap.png&v=6e4465b8391f4616f82674f2c275c9e7",
+        "size": 86165,
+        "sha256": "07957d16a08c858d600e0277e6895ec44d8c94baa6cfb6be6977ef6b08e4a944",
+        "etag": "6e4465b8391f4616f82674f2c275c9e7",
+        "catalogueSha256": "07957d16a08c858d600e0277e6895ec44d8c94baa6cfb6be6977ef6b08e4a944"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/Monster_W2_Huanlong_00_Body_Color_A_L.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/Monster_W2_Huanlong_00_Body_Color_A_L.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMonster_W2_Huanlong_00_Body_Color_A_L.png&v=f6c0923700e5f2f2cad763c0fff6af03",
+        "size": 4758677,
+        "sha256": "20e252675faf3a99d838a06c7df40025709a3e03501f0afa9af43431d09bb21d",
+        "etag": "f6c0923700e5f2f2cad763c0fff6af03",
+        "catalogueSha256": "20e252675faf3a99d838a06c7df40025709a3e03501f0afa9af43431d09bb21d"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/Monster_W2_Huanlong_00_Body_LightMap_L.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/Monster_W2_Huanlong_00_Body_LightMap_L.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMonster_W2_Huanlong_00_Body_LightMap_L.png&v=ab6b9b746bc84744bcf9b075e894bf8d",
+        "size": 2690735,
+        "sha256": "dc8d066d423aec079a2b7b1c3e0e3653fcc835ccbedc18597b5a9a9484eb0e7b",
+        "etag": "ab6b9b746bc84744bcf9b075e894bf8d",
+        "catalogueSha256": "dc8d066d423aec079a2b7b1c3e0e3653fcc835ccbedc18597b5a9a9484eb0e7b"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/Monster_W2_Huanlong_00_Hair_Ramp.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/Monster_W2_Huanlong_00_Hair_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMonster_W2_Huanlong_00_Hair_Ramp.png&v=6f5e7e02989c5016fc10a1920401b3ec",
+        "size": 295,
+        "sha256": "ff731a98f5854bdb71db08e9e685f5196ddef419dcd52b1d7de1037ddf619849",
+        "etag": "6f5e7e02989c5016fc10a1920401b3ec",
+        "catalogueSha256": "ff731a98f5854bdb71db08e9e685f5196ddef419dcd52b1d7de1037ddf619849"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/Monster_W2_Huanlong_00_Hair_LightMap.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/Monster_W2_Huanlong_00_Hair_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMonster_W2_Huanlong_00_Hair_LightMap.png&v=8bf1ec82dc38ae4226ea75cb4486ee60",
+        "size": 658060,
+        "sha256": "41a5b089825258e4a2cfbfabe3ce4c79b9a13110e3bab0472a01c534d93a52c6",
+        "etag": "8bf1ec82dc38ae4226ea75cb4486ee60",
+        "catalogueSha256": "41a5b089825258e4a2cfbfabe3ce4c79b9a13110e3bab0472a01c534d93a52c6"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/Monster_W2_Huanlong_00_Hair_Color.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/Monster_W2_Huanlong_00_Hair_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMonster_W2_Huanlong_00_Hair_Color.png&v=afdc5a2fd0ba66ee70c94924d247798d",
+        "size": 1055525,
+        "sha256": "a5c843b8e8a773feb800e30caab1790e168069d5f36ae6f6af5fd327f123bf94",
+        "etag": "afdc5a2fd0ba66ee70c94924d247798d",
+        "catalogueSha256": "a5c843b8e8a773feb800e30caab1790e168069d5f36ae6f6af5fd327f123bf94"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/Monster_W2_Huanlong_00_Weapon_Color_A.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/Monster_W2_Huanlong_00_Weapon_Color_A.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMonster_W2_Huanlong_00_Weapon_Color_A.png&v=6e47d5da8d01292723860986481df4c6",
+        "size": 1517456,
+        "sha256": "56f5f317d02878dc244bea05132a0654f231b9c5ed5c1c05e45be9643a421340",
+        "etag": "6e47d5da8d01292723860986481df4c6",
+        "catalogueSha256": "56f5f317d02878dc244bea05132a0654f231b9c5ed5c1c05e45be9643a421340"
+      },
+      {
+        "id": "boss_phantylia",
+        "path": "public/assets/models/boss_phantylia/hoyotoon-original/Textures/Monster_W2_Huanlong_00_Weapon_LightMap.png",
+        "remotePath": "Monsters/Phantylia the Undying/Default/Textures/Monster_W2_Huanlong_00_Weapon_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FPhantylia+the+Undying%2FDefault%2FTextures%2FMonster_W2_Huanlong_00_Weapon_LightMap.png&v=58864297074230cec4553a17cf243ff9",
+        "size": 1550167,
+        "sha256": "8c18903ae5d6ff3965d6754485246756328a100400e556c514a06acc3fca15d4",
+        "etag": "58864297074230cec4553a17cf243ff9",
+        "catalogueSha256": "8c18903ae5d6ff3965d6754485246756328a100400e556c514a06acc3fca15d4"
+      }
+    ],
+    "checkedAt": "2026-09-29",
+    "morphNote": "All progressive FBX shape geometries retained as independent glTF targets; source has no animation actions. Empty Mat_FaceMask stencil helper preserved as transparent geometry.",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "boss_dominicus",
+    "name": "神主日",
+    "status": "converted",
+    "format": "wulong-glb-bundle-v1",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=3025010",
+    "sourceKind": "public-community-game-asset-catalog",
+    "bundlePath": "public/assets/models/boss_dominicus/bundle.json",
+    "sourceFile": "public/assets/models/boss_dominicus/hoyotoon-original/Art_W3_Sunday_00.fbx",
+    "sourceSha256": "1bf1fbd3a82964d818432e0d8ab055380951358f9bfa6e67b36dfdfa24997782",
+    "glbSha256": "383a8c46b21b9dcbeee3fad4af5e01e88576f6d9d8b441baa161268325ef642f",
+    "pmxSha256": null,
+    "vertices": 50625,
+    "triangles": 46457,
+    "bones": 98,
+    "sourceBones": 97,
+    "textureCount": 5,
+    "maxTexture": 256,
+    "animations": [],
+    "originalComment": "",
+    "credits": "Game assets © miHoYo / HoYoverse. Public game-asset catalogue provided by HoyoToon; not an official MMD distribution.",
+    "conversion": {
+      "tool": "Blender 5.2.1 LTS",
+      "maxTextureDimension": 256,
+      "geometry": "Original FBX meshes, UVs, skeletons and weights imported without mesh simplification or replacement.",
+      "animations": "All original FBX actions exported when present; none synthesized.",
+      "materials": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+      "coordinateSystem": "Blender FBX importer to glTF Y-up exporter; source object hierarchy and local transforms preserved."
+    },
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": [],
+      "sourceFileSha256Matches": true,
+      "convertedSha256Matches": true,
+      "allImagesDecode": true,
+      "maxEmbeddedTextureDimension": 256,
+      "catalogueFileHashesMatch": true
+    },
+    "files": [
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Materials/W3_Sunday_00_Body1_Mat.json",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Materials/W3_Sunday_00_Body1_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FMaterials%2FW3_Sunday_00_Body1_Mat.json&v=8217c7f2d819333c3d0969a68a92066d",
+        "size": 4822,
+        "sha256": "8d3d0f40a07742595e94fbeb4f04b69139b1c824cfac04e403d459bc1cea9c92",
+        "etag": "8217c7f2d819333c3d0969a68a92066d",
+        "catalogueSha256": "8d3d0f40a07742595e94fbeb4f04b69139b1c824cfac04e403d459bc1cea9c92"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Materials/W3_Sunday_00_Body3_Mat.json",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Materials/W3_Sunday_00_Body3_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FMaterials%2FW3_Sunday_00_Body3_Mat.json&v=948af01b318d85ae13b1df7029834283",
+        "size": 4733,
+        "sha256": "501372ebf15e34fb50ec18635428b5235ec4a6d7a4f318769ade36b1e80f4679",
+        "etag": "948af01b318d85ae13b1df7029834283",
+        "catalogueSha256": "501372ebf15e34fb50ec18635428b5235ec4a6d7a4f318769ade36b1e80f4679"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Art_W3_Sunday_00.fbx",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Art_W3_Sunday_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FArt_W3_Sunday_00.fbx&v=e069f05c94be7dbe47e8210b0a08118e",
+        "size": 4140388,
+        "sha256": "1bf1fbd3a82964d818432e0d8ab055380951358f9bfa6e67b36dfdfa24997782",
+        "etag": "e069f05c94be7dbe47e8210b0a08118e",
+        "catalogueSha256": "1bf1fbd3a82964d818432e0d8ab055380951358f9bfa6e67b36dfdfa24997782"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Materials/W3_Sunday_00_Body2_Mat.json",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Materials/W3_Sunday_00_Body2_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FMaterials%2FW3_Sunday_00_Body2_Mat.json&v=7da836d755b95d02ab756bc7415d2c86",
+        "size": 4634,
+        "sha256": "db24f329ad0874df634f2437649249978ba4dee63fa94389982b52882179a57c",
+        "etag": "7da836d755b95d02ab756bc7415d2c86",
+        "catalogueSha256": "db24f329ad0874df634f2437649249978ba4dee63fa94389982b52882179a57c"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Materials/W3_Sunday_00_Weapon_Mat.json",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Materials/W3_Sunday_00_Weapon_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FMaterials%2FW3_Sunday_00_Weapon_Mat.json&v=9f370defbcd8262d97b0bd96b9fbd8e6",
+        "size": 4332,
+        "sha256": "2ad6ce2e2fddef316420e27600b9e81a01e71c5c1ed593652bbde2afe8ae0688",
+        "etag": "9f370defbcd8262d97b0bd96b9fbd8e6",
+        "catalogueSha256": "2ad6ce2e2fddef316420e27600b9e81a01e71c5c1ed593652bbde2afe8ae0688"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Materials/W3_Sunday_00_Body4_Mat.json",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Materials/W3_Sunday_00_Body4_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FMaterials%2FW3_Sunday_00_Body4_Mat.json&v=2a6d5eff452d5c5906df398e884d3b15",
+        "size": 4639,
+        "sha256": "058ed0c628ec69a19fa7eb02f3d27050115687c074d3877de405d0a241e754a3",
+        "etag": "2a6d5eff452d5c5906df398e884d3b15",
+        "catalogueSha256": "058ed0c628ec69a19fa7eb02f3d27050115687c074d3877de405d0a241e754a3"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/MaterialIDValuesLUTW3_Sunday_00_Body1_Mat.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/MaterialIDValuesLUTW3_Sunday_00_Body1_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMaterialIDValuesLUTW3_Sunday_00_Body1_Mat.png&v=dc70437c5bf65dafe97b1163cfd21162",
+        "size": 239,
+        "sha256": "ab79e721ed19df45949f139fae6468c4b8ed194f259ed2593addf6e0c839a8da",
+        "etag": "dc70437c5bf65dafe97b1163cfd21162",
+        "catalogueSha256": "ab79e721ed19df45949f139fae6468c4b8ed194f259ed2593addf6e0c839a8da"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/MaterialIDValuesLUTW3_Sunday_00_Body2_Mat.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/MaterialIDValuesLUTW3_Sunday_00_Body2_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMaterialIDValuesLUTW3_Sunday_00_Body2_Mat.png&v=dc70437c5bf65dafe97b1163cfd21162",
+        "size": 239,
+        "sha256": "ab79e721ed19df45949f139fae6468c4b8ed194f259ed2593addf6e0c839a8da",
+        "etag": "dc70437c5bf65dafe97b1163cfd21162",
+        "catalogueSha256": "ab79e721ed19df45949f139fae6468c4b8ed194f259ed2593addf6e0c839a8da"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/MaterialIDValuesLUTW3_Sunday_00_Body4_Mat.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/MaterialIDValuesLUTW3_Sunday_00_Body4_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMaterialIDValuesLUTW3_Sunday_00_Body4_Mat.png&v=dc70437c5bf65dafe97b1163cfd21162",
+        "size": 239,
+        "sha256": "ab79e721ed19df45949f139fae6468c4b8ed194f259ed2593addf6e0c839a8da",
+        "etag": "dc70437c5bf65dafe97b1163cfd21162",
+        "catalogueSha256": "ab79e721ed19df45949f139fae6468c4b8ed194f259ed2593addf6e0c839a8da"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/MaterialIDValuesLUTW3_Sunday_00_Body3_Mat.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/MaterialIDValuesLUTW3_Sunday_00_Body3_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMaterialIDValuesLUTW3_Sunday_00_Body3_Mat.png&v=dc70437c5bf65dafe97b1163cfd21162",
+        "size": 239,
+        "sha256": "ab79e721ed19df45949f139fae6468c4b8ed194f259ed2593addf6e0c839a8da",
+        "etag": "dc70437c5bf65dafe97b1163cfd21162",
+        "catalogueSha256": "ab79e721ed19df45949f139fae6468c4b8ed194f259ed2593addf6e0c839a8da"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/MaterialIDValuesLUTW3_Sunday_00_Weapon_Mat.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/MaterialIDValuesLUTW3_Sunday_00_Weapon_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMaterialIDValuesLUTW3_Sunday_00_Weapon_Mat.png&v=44345d5af3cfb76c4a4065e2ddd1d3c3",
+        "size": 204,
+        "sha256": "3dc7bfb67815f740e3bd772e3cf259cc69a199b88d783bc3b337af54e2d2e179",
+        "etag": "44345d5af3cfb76c4a4065e2ddd1d3c3",
+        "catalogueSha256": "3dc7bfb67815f740e3bd772e3cf259cc69a199b88d783bc3b337af54e2d2e179"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Body1_Color.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Body1_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Body1_Color.png&v=86568279bf31ba3ffd4820ecd889c99b",
+        "size": 2167288,
+        "sha256": "b86063abbb90935e150f7216a2a364e71981d862a7043ed726d488a73b810665",
+        "etag": "86568279bf31ba3ffd4820ecd889c99b",
+        "catalogueSha256": "b86063abbb90935e150f7216a2a364e71981d862a7043ed726d488a73b810665"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Body2_Color.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Body2_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Body2_Color.png&v=982fa9eb432aef7d0f98e5ec9e082867",
+        "size": 1647095,
+        "sha256": "782e97fb5a6842f2fb230ed551460643f6d0094fd4510de3f9d2f0695ccc8c0a",
+        "etag": "982fa9eb432aef7d0f98e5ec9e082867",
+        "catalogueSha256": "782e97fb5a6842f2fb230ed551460643f6d0094fd4510de3f9d2f0695ccc8c0a"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Body2_LightMap.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Body2_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Body2_LightMap.png&v=c945892c68a963e20068e60e37d83a9d",
+        "size": 1629441,
+        "sha256": "194105245157c325569c0472d1aff4c74c5d4674e5598d18b5e35a55ad2bc2b1",
+        "etag": "c945892c68a963e20068e60e37d83a9d",
+        "catalogueSha256": "194105245157c325569c0472d1aff4c74c5d4674e5598d18b5e35a55ad2bc2b1"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Body1_LightMap.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Body1_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Body1_LightMap.png&v=7b487121e6247da8f26ad433055fbdc0",
+        "size": 2072313,
+        "sha256": "a4989db00cd377fa18847847d326813cd2debc0dc926ed00072c37dda6ee6637",
+        "etag": "7b487121e6247da8f26ad433055fbdc0",
+        "catalogueSha256": "a4989db00cd377fa18847847d326813cd2debc0dc926ed00072c37dda6ee6637"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Body3_Color.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Body3_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Body3_Color.png&v=e2806632567199be291b735b1fbdd8bf",
+        "size": 1865720,
+        "sha256": "2c61feff988cebe82d4a3f4b46fde8cf5a4cec11c498f8ba6004436c66eaa1e1",
+        "etag": "e2806632567199be291b735b1fbdd8bf",
+        "catalogueSha256": "2c61feff988cebe82d4a3f4b46fde8cf5a4cec11c498f8ba6004436c66eaa1e1"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Body3_LightMap.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Body3_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Body3_LightMap.png&v=6ac16faf05fee2e151ea0df49b0c6307",
+        "size": 1850321,
+        "sha256": "0193080dd08be1584d974d2f41918a278034b629f8854f7cf51f70382e10f636",
+        "etag": "6ac16faf05fee2e151ea0df49b0c6307",
+        "catalogueSha256": "0193080dd08be1584d974d2f41918a278034b629f8854f7cf51f70382e10f636"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Body4_LightMap.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Body4_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Body4_LightMap.png&v=faaa18b167bf04c7a9c4af533e1f7053",
+        "size": 1592488,
+        "sha256": "1ef1305e2d9243ab4c3169eca75645d4f040d4841dbd1ed4affb2f73226011c2",
+        "etag": "faaa18b167bf04c7a9c4af533e1f7053",
+        "catalogueSha256": "1ef1305e2d9243ab4c3169eca75645d4f040d4841dbd1ed4affb2f73226011c2"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Body4_Color.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Body4_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Body4_Color.png&v=9b7aafda9107e67c4ca830c6faa9b696",
+        "size": 1740136,
+        "sha256": "e93afdadb04d5593666726022ea116756324bbf2a789627c1569fbcf59cb2893",
+        "etag": "9b7aafda9107e67c4ca830c6faa9b696",
+        "catalogueSha256": "e93afdadb04d5593666726022ea116756324bbf2a789627c1569fbcf59cb2893"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Cool_Ramp.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Cool_Ramp.png&v=1dde7cc91e6532369e6594a12117c5b3",
+        "size": 479,
+        "sha256": "9f693fe97e7541f8db6313919dbdfec58e36907a9dc5f27eb180afba26c05f64",
+        "etag": "1dde7cc91e6532369e6594a12117c5b3",
+        "catalogueSha256": "9f693fe97e7541f8db6313919dbdfec58e36907a9dc5f27eb180afba26c05f64"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Warm_Ramp.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Warm_Ramp.png&v=9974b159293f1a5d760f0a809c2c121a",
+        "size": 499,
+        "sha256": "d021aa28f64455c407845262cfbfef8a2aa02e276be35c63062191f440b63ae8",
+        "etag": "9974b159293f1a5d760f0a809c2c121a",
+        "catalogueSha256": "d021aa28f64455c407845262cfbfef8a2aa02e276be35c63062191f440b63ae8"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Weapon_Color.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Weapon_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Weapon_Color.png&v=8909398ec0a58f1944b46d8234cbefe1",
+        "size": 664722,
+        "sha256": "e988567aada3eaad8f34513fa876cfd88a1e3603a7e36915b252c669e6fd5611",
+        "etag": "8909398ec0a58f1944b46d8234cbefe1",
+        "catalogueSha256": "e988567aada3eaad8f34513fa876cfd88a1e3603a7e36915b252c669e6fd5611"
+      },
+      {
+        "id": "boss_dominicus",
+        "path": "public/assets/models/boss_dominicus/hoyotoon-original/Textures/Monster_W3_Sunday_00_Weapon_LightMap.png",
+        "remotePath": "Monsters/Harmonious Choir The Great Septimus/Default/Textures/Monster_W3_Sunday_00_Weapon_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FHarmonious+Choir+The+Great+Septimus%2FDefault%2FTextures%2FMonster_W3_Sunday_00_Weapon_LightMap.png&v=066200db93f6f3bd41e3ae332cbf08bc",
+        "size": 563965,
+        "sha256": "fd22bf496bf7007f8df54c6ab819cf3944d7d7deef4755886aea3cb4ef2045fe",
+        "etag": "066200db93f6f3bd41e3ae332cbf08bc",
+        "catalogueSha256": "fd22bf496bf7007f8df54c6ab819cf3944d7d7deef4755886aea3cb4ef2045fe"
+      }
+    ],
+    "checkedAt": "2026-09-29",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "boss_lycurgus",
+    "name": "来古士",
+    "status": "converted",
+    "source": "https://github.com/Phoshco/hsr/tree/main/chars/Lygus/Lygus_boss",
+    "sourceKind": "public-community-game-model-port",
+    "sourceCommit": "59ed5841039b7e2763cb7d2b56c11951307d6557",
+    "bundlePath": "public/assets/models/boss_lycurgus/bundle.json",
+    "pmxPath": "public/assets/models/boss_lycurgus/repository-original/Lygus.pmx",
+    "pmxSha256": "15ae8cdf5e6bb99949db926b1135f82ced4f9789f7e91001d09e51b643207e77",
+    "modelName": "来古士（boss）",
+    "vertices": 41535,
+    "triangles": 39973,
+    "bones": 244,
+    "textureCount": 1,
+    "maxTexture": 256,
+    "originalComment": "米哈游",
+    "files": [
+      {
+        "source": "https://raw.githubusercontent.com/Phoshco/hsr/59ed5841039b7e2763cb7d2b56c11951307d6557/chars/Lygus/Lygus_boss/Lygus.pmx",
+        "path": "public/assets/models/boss_lycurgus/repository-original/Lygus.pmx",
+        "bytes": 2696199,
+        "sha256": "15ae8cdf5e6bb99949db926b1135f82ced4f9789f7e91001d09e51b643207e77",
+        "gitBlobSha": "e95445ee4d4d981c3830016fc90e42515bd950d8"
+      },
+      {
+        "source": "https://raw.githubusercontent.com/Phoshco/hsr/59ed5841039b7e2763cb7d2b56c11951307d6557/chars/Lygus/Lygus_boss/textures/Monster_W4_Theoroi_00_Color_A_L.png",
+        "path": "public/assets/models/boss_lycurgus/repository-original/textures/Monster_W4_Theoroi_00_Color_A_L.png",
+        "bytes": 12532947,
+        "sha256": "97791ca38bdcf6144d7f86291f7b8e382adeac81056c39bac467abd066331543",
+        "gitBlobSha": "fa7ce439d20668981679302fbfeff9125827a63d"
+      },
+      {
+        "source": "https://raw.githubusercontent.com/Phoshco/hsr/59ed5841039b7e2763cb7d2b56c11951307d6557/chars/Lygus/Lygus_boss/textures/Monster_W4_Theoroi_00_Cool_Ramp.png",
+        "path": "public/assets/models/boss_lycurgus/repository-original/textures/Monster_W4_Theoroi_00_Cool_Ramp.png",
+        "bytes": 1136,
+        "sha256": "577dfaf4e5a619f43bb6966023c6fb8090a5e7393924e9e732a89eea37b59bfd",
+        "gitBlobSha": "b28be1e0ef2fcc31aab344b26f38d06464cd03be"
+      },
+      {
+        "source": "https://raw.githubusercontent.com/Phoshco/hsr/59ed5841039b7e2763cb7d2b56c11951307d6557/chars/Lygus/Lygus_boss/textures/Monster_W4_Theoroi_00_LightMap_L.png",
+        "path": "public/assets/models/boss_lycurgus/repository-original/textures/Monster_W4_Theoroi_00_LightMap_L.png",
+        "bytes": 10426293,
+        "sha256": "4fe3716061166d2612d24eb67bb6522d35eae8baf4f2adc3efc0dae5c5c58205",
+        "gitBlobSha": "e7366029eb1ede842186de08cf0e17d7db38bea2"
+      },
+      {
+        "source": "https://raw.githubusercontent.com/Phoshco/hsr/59ed5841039b7e2763cb7d2b56c11951307d6557/chars/Lygus/Lygus_boss/textures/Monster_W4_Theoroi_00_Mask.png",
+        "path": "public/assets/models/boss_lycurgus/repository-original/textures/Monster_W4_Theoroi_00_Mask.png",
+        "bytes": 7676,
+        "sha256": "35ee87a7599471f32d18454c092cf5a90ed017f97a5b9473c2d12754fa8c6c15",
+        "gitBlobSha": "c36fb860e90d133ba9d0bbceb572df90671128d9"
+      },
+      {
+        "source": "https://raw.githubusercontent.com/Phoshco/hsr/59ed5841039b7e2763cb7d2b56c11951307d6557/chars/Lygus/Lygus_boss/textures/Monster_W4_Theoroi_00_Warm_Ramp.png",
+        "path": "public/assets/models/boss_lycurgus/repository-original/textures/Monster_W4_Theoroi_00_Warm_Ramp.png",
+        "bytes": 1236,
+        "sha256": "a198ccf95cb157dddd18c649a371f6c0c3384720fca0b115c2a34f7dae4f31e8",
+        "gitBlobSha": "510310b009b362e256095718a09d360ccc6e02a6"
+      },
+      {
+        "source": "https://raw.githubusercontent.com/Phoshco/hsr/59ed5841039b7e2763cb7d2b56c11951307d6557/chars/Lygus/Lygus_boss/%E5%90%8E%E6%89%8B%E8%87%82%E6%98%AF%E5%8D%95%E7%8B%AC%E9%AA%A8%E9%AA%BC%EF%BC%8C%E5%8A%A8%E4%BD%9C%E5%8F%AF%E8%83%BD%E9%9C%80%E8%A6%81%E8%87%AA%E5%B7%B1K.txt",
+        "path": "public/assets/models/boss_lycurgus/repository-original/后手臂是单独骨骼，动作可能需要自己K.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "gitBlobSha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+      },
+      {
+        "source": "https://raw.githubusercontent.com/Phoshco/hsr/59ed5841039b7e2763cb7d2b56c11951307d6557/chars/Lygus/Lygus_boss/%E9%9A%8F%E4%BE%BF%E7%BB%99%E7%AE%A1%E5%AD%90%E5%8A%A0%E4%B8%AA%E7%89%A9%E7%90%86%EF%BC%88%E9%9D%9E%E5%B8%B8%E4%B8%91%EF%BC%89.pmx",
+        "path": "public/assets/models/boss_lycurgus/repository-original/随便给管子加个物理（非常丑）.pmx",
+        "bytes": 2709223,
+        "sha256": "c8d3b24c6b82d598aa4228e757e13f0649d03d596f24d691610935bcce5a2016",
+        "gitBlobSha": "145c0e1e841813e08930b5fee6412e855ec53c8d"
+      }
+    ],
+    "validation": {
+      "pmxHashMatches": true,
+      "allTexturesDecode": true,
+      "maxTextureDimension": 256
+    },
+    "rules": [
+      "public/assets/models/boss_lycurgus/repository-original/后手臂是单独骨骼，动作可能需要自己K.txt"
+    ],
+    "checkedAt": "2026-09-29",
+    "format": "wulong-pmx-bundle-v1",
+    "additionalOriginalFbx": {
+      "path": "public/assets/models/boss_lycurgus/hoyotoon-original/Art_W4_Theoroi_00.fbx",
+      "sha256": "8d9a6480dcdb68f1a3d69309f0cb1c4395a794f637ea90bc3085bbe8701e5edc",
+      "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=4044010",
+      "note": "Additional original FBX and all original textures retained. Active bundle remains verified matching battle-form PMX."
+    },
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "boss_guiji",
+    "name": "归寂·成",
+    "status": "converted",
+    "format": "wulong-glb-bundle-v1",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8015030",
+    "sourceKind": "public-community-game-asset-catalog",
+    "bundlePath": "public/assets/models/boss_guiji/bundle.json",
+    "sourceFile": "public/assets/models/boss_guiji/hoyotoon-original/Art_W5_AsatPramad_00.fbx",
+    "sourceSha256": "cf1743ec1e7a3d11538807176658ef378a24791b64b514b0056ac5b06d1485e1",
+    "glbSha256": "a364f63ab59b80ac994a982e10e6916c20cf654ce817fa65654ca3e74e020dc3",
+    "pmxSha256": null,
+    "vertices": 61780,
+    "triangles": 57076,
+    "bones": 147,
+    "sourceBones": 147,
+    "textureCount": 3,
+    "maxTexture": 256,
+    "animations": [],
+    "originalComment": "",
+    "credits": "Game assets © miHoYo / HoYoverse. Public game-asset catalogue provided by HoyoToon; not an official MMD distribution.",
+    "conversion": {
+      "tool": "Blender 5.2.1 LTS",
+      "maxTextureDimension": 256,
+      "geometry": "Original FBX meshes, UVs, skeletons and weights imported without mesh simplification or replacement.",
+      "animations": "All original FBX actions exported when present; none synthesized.",
+      "materials": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+      "coordinateSystem": "Blender FBX importer to glTF Y-up exporter; source object hierarchy and local transforms preserved."
+    },
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": [],
+      "sourceFileSha256Matches": true,
+      "convertedSha256Matches": true,
+      "allImagesDecode": true,
+      "maxEmbeddedTextureDimension": 256,
+      "catalogueFileHashesMatch": true
+    },
+    "files": [
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Materials/W5_AsatPramad_00_Body1_Mat.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Materials/W5_AsatPramad_00_Body1_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FMaterials%2FW5_AsatPramad_00_Body1_Mat.json&v=684f7f2ead598591a25bd7492ceb42fa",
+        "size": 8837,
+        "sha256": "86fc544ab457e6c4a2da01cd62233f99de7327e041c180f69187db5138c17744",
+        "etag": "684f7f2ead598591a25bd7492ceb42fa",
+        "catalogueSha256": "86fc544ab457e6c4a2da01cd62233f99de7327e041c180f69187db5138c17744"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Materials/W5_AsatPramad_00_Face_Mat.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Materials/W5_AsatPramad_00_Face_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FMaterials%2FW5_AsatPramad_00_Face_Mat.json&v=1a869bb3decf9c79a0aceaa746da3ffb",
+        "size": 8115,
+        "sha256": "9b5924b3150cebef4b3afd6ed23309cad2b65e1ec277359dcf64b97eed10c2b5",
+        "etag": "1a869bb3decf9c79a0aceaa746da3ffb",
+        "catalogueSha256": "9b5924b3150cebef4b3afd6ed23309cad2b65e1ec277359dcf64b97eed10c2b5"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Materials/W5_AsatPramad_00_Body2_Mat.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Materials/W5_AsatPramad_00_Body2_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FMaterials%2FW5_AsatPramad_00_Body2_Mat.json&v=f353c9a158512ab210cba65ee4825b0e",
+        "size": 8443,
+        "sha256": "437bb66ec33b09d1ccb9f5a0eef6a29df1efd1288d3cf9103906d48f157a9d23",
+        "etag": "f353c9a158512ab210cba65ee4825b0e",
+        "catalogueSha256": "437bb66ec33b09d1ccb9f5a0eef6a29df1efd1288d3cf9103906d48f157a9d23"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Art_W5_AsatPramad_00.fbx",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Art_W5_AsatPramad_00.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FArt_W5_AsatPramad_00.fbx&v=04c4881809f3c5bdc4c5a8af2946ecbe",
+        "size": 5396164,
+        "sha256": "cf1743ec1e7a3d11538807176658ef378a24791b64b514b0056ac5b06d1485e1",
+        "etag": "04c4881809f3c5bdc4c5a8af2946ecbe",
+        "catalogueSha256": "cf1743ec1e7a3d11538807176658ef378a24791b64b514b0056ac5b06d1485e1"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Matcap_05.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Matcap_05.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMatcap_05.png&v=a045eeade60d4c46532bf3951c88c46c",
+        "size": 606320,
+        "sha256": "f41562adfb4ff1a4bd99c2d4d789f1ecf8867dbe6d8d8fcff529d2a7af4f8fb8",
+        "etag": "a045eeade60d4c46532bf3951c88c46c",
+        "catalogueSha256": "f41562adfb4ff1a4bd99c2d4d789f1ecf8867dbe6d8d8fcff529d2a7af4f8fb8"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Body1_Mat.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Body1_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMaterialIDValuesLUTW5_AsatPramad_00_Body1_Mat.png&v=4671687483e3bcb1c8ce3feef0a66b22",
+        "size": 349,
+        "sha256": "052caf7832f79c203b228d527f09c725abb53b29cd4364c22301c579ecf7a1d7",
+        "etag": "4671687483e3bcb1c8ce3feef0a66b22",
+        "catalogueSha256": "052caf7832f79c203b228d527f09c725abb53b29cd4364c22301c579ecf7a1d7"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Matcap_11.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Matcap_11.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMatcap_11.png&v=ad73f7bdecf0df0071b44b482539688e",
+        "size": 278389,
+        "sha256": "458efbec38454911cc30d3e24bf06d966073883c0c03b961973761ab293ab0b6",
+        "etag": "ad73f7bdecf0df0071b44b482539688e",
+        "catalogueSha256": "458efbec38454911cc30d3e24bf06d966073883c0c03b961973761ab293ab0b6"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Body2_Mat.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Body2_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMaterialIDValuesLUTW5_AsatPramad_00_Body2_Mat.png&v=9f53c2a7e083e616586cc6abdad9d11f",
+        "size": 349,
+        "sha256": "28d27dd25d2f6454642150b2a981996ea2d67acb956c8b173102df48981b9a31",
+        "etag": "9f53c2a7e083e616586cc6abdad9d11f",
+        "catalogueSha256": "28d27dd25d2f6454642150b2a981996ea2d67acb956c8b173102df48981b9a31"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Face_Mat.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Face_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMaterialIDValuesLUTW5_AsatPramad_00_Face_Mat.png&v=2970188d44bf67bcee1ff52c326e8338",
+        "size": 339,
+        "sha256": "9f160a13fe6312b148da54270d9cf0e26daf771111c7e4a171e7bc209babec1b",
+        "etag": "2970188d44bf67bcee1ff52c326e8338",
+        "catalogueSha256": "9f160a13fe6312b148da54270d9cf0e26daf771111c7e4a171e7bc209babec1b"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Monster_W4_Turkey_00_Mask.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Monster_W4_Turkey_00_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMonster_W4_Turkey_00_Mask.png&v=65903c463d6f557e40a6fdd116630fbe",
+        "size": 53345,
+        "sha256": "026a0819369517ed908b6b9c3421c7ee8a837062e279235ad5f50f5d120ebf8f",
+        "etag": "65903c463d6f557e40a6fdd116630fbe",
+        "catalogueSha256": "026a0819369517ed908b6b9c3421c7ee8a837062e279235ad5f50f5d120ebf8f"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Body1_Color.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Monster_W5_AsatPramad_00_Body1_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Body1_Color.png&v=a45a5fbb0bd965440413f241372c082d",
+        "size": 1824996,
+        "sha256": "0c2e61a671af65b37d1aa497c56b9297f3fcd5e58fa5d47b982b853568b2b05d",
+        "etag": "a45a5fbb0bd965440413f241372c082d",
+        "catalogueSha256": "0c2e61a671af65b37d1aa497c56b9297f3fcd5e58fa5d47b982b853568b2b05d"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Body1_LightMap.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Monster_W5_AsatPramad_00_Body1_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Body1_LightMap.png&v=de411ae87911b9b7f2fe37d1b8cc2af5",
+        "size": 2272586,
+        "sha256": "bbfb698e21af136e76be6c452004ce5d2916d5831851c497b9434ad6d20f9614",
+        "etag": "de411ae87911b9b7f2fe37d1b8cc2af5",
+        "catalogueSha256": "bbfb698e21af136e76be6c452004ce5d2916d5831851c497b9434ad6d20f9614"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Body2_Color.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Monster_W5_AsatPramad_00_Body2_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Body2_Color.png&v=65324d5f92a9bcbbca2546644c32615e",
+        "size": 3572014,
+        "sha256": "aaee5f431b2541d58f6b31b11e30a43f558305a56c766536b1aea24dd6c2df34",
+        "etag": "65324d5f92a9bcbbca2546644c32615e",
+        "catalogueSha256": "aaee5f431b2541d58f6b31b11e30a43f558305a56c766536b1aea24dd6c2df34"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Cool_Ramp.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Monster_W5_AsatPramad_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Cool_Ramp.png&v=f3b620dfc0315e5f84935b9dbb4ac38e",
+        "size": 934,
+        "sha256": "607fa0d6a157f79246376a3ab98c3968614af4e47263a29e878c2d255fb8be6f",
+        "etag": "f3b620dfc0315e5f84935b9dbb4ac38e",
+        "catalogueSha256": "607fa0d6a157f79246376a3ab98c3968614af4e47263a29e878c2d255fb8be6f"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Body2_LightMap.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Monster_W5_AsatPramad_00_Body2_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Body2_LightMap.png&v=179710d365a953d952b944deb2db783e",
+        "size": 3959122,
+        "sha256": "6fafbe1e97a0baba49a5cf8e55547364d38f94b7b40047825c17ccfbc5bdabf6",
+        "etag": "179710d365a953d952b944deb2db783e",
+        "catalogueSha256": "6fafbe1e97a0baba49a5cf8e55547364d38f94b7b40047825c17ccfbc5bdabf6"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Body2_Mask.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Monster_W5_AsatPramad_00_Body2_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Body2_Mask.png&v=75ef7cc583e7c9fa461966b2385b3858",
+        "size": 181059,
+        "sha256": "11e112fe35124d92de94aecbe50912a6eefd1b49e387ab5d54f31fbef5ee7841",
+        "etag": "75ef7cc583e7c9fa461966b2385b3858",
+        "catalogueSha256": "11e112fe35124d92de94aecbe50912a6eefd1b49e387ab5d54f31fbef5ee7841"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Face_Color.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Monster_W5_AsatPramad_00_Face_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Face_Color.png&v=e72db7e219c4041b1e6e6127a1737ec3",
+        "size": 2659077,
+        "sha256": "9d0016045b3554aa6d7272aa828275d11d1e7b55f7399591aaee7e4ffe5fdfa3",
+        "etag": "e72db7e219c4041b1e6e6127a1737ec3",
+        "catalogueSha256": "9d0016045b3554aa6d7272aa828275d11d1e7b55f7399591aaee7e4ffe5fdfa3"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Warm_Ramp.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Monster_W5_AsatPramad_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Warm_Ramp.png&v=7a1d48032a1804599d70e6bbd483b443",
+        "size": 856,
+        "sha256": "fbf1bd5bade9e5ac891970d029102381057cac10f45a20e903cf9bb07fe18de6",
+        "etag": "7a1d48032a1804599d70e6bbd483b443",
+        "catalogueSha256": "fbf1bd5bade9e5ac891970d029102381057cac10f45a20e903cf9bb07fe18de6"
+      },
+      {
+        "id": "boss_guiji",
+        "path": "public/assets/models/boss_guiji/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Face_LightMap.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad/Default/Textures/Monster_W5_AsatPramad_00_Face_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Face_LightMap.png&v=f5577d437dd9d42d85a8eeec7b47b316",
+        "size": 3476839,
+        "sha256": "381aa76e0eac4d3d53e16d2168637ff889dec442d31423e1d1fe2588533f08f0",
+        "etag": "f5577d437dd9d42d85a8eeec7b47b316",
+        "catalogueSha256": "381aa76e0eac4d3d53e16d2168637ff889dec442d31423e1d1fe2588533f08f0"
+      }
+    ],
+    "checkedAt": "2026-09-29",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "boss_guiji_existence",
+    "name": "归寂·住",
+    "status": "converted",
+    "format": "wulong-glb-bundle-v1",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8015040",
+    "sourceKind": "public-community-game-asset-catalog",
+    "bundlePath": "public/assets/models/boss_guiji_existence/bundle.json",
+    "sourceFile": "public/assets/models/boss_guiji_existence/hoyotoon-original/Art_W5_AsatPramad_01.fbx",
+    "sourceSha256": "7c5505e27d704a48609f9bb7e6b0aec73b875231d7c311f99e73e3d969d9ec46",
+    "glbSha256": "18de985102d9cdb4029c2d411425bf593efa60701f6d79017d93737eef2058f0",
+    "pmxSha256": null,
+    "vertices": 58808,
+    "triangles": 54063,
+    "bones": 154,
+    "sourceBones": 154,
+    "textureCount": 7,
+    "maxTexture": 256,
+    "animations": [],
+    "originalComment": "",
+    "credits": "Game assets © miHoYo / HoYoverse. Public game-asset catalogue provided by HoyoToon; not an official MMD distribution.",
+    "conversion": {
+      "tool": "Blender 5.2.1 LTS",
+      "maxTextureDimension": 256,
+      "geometry": "Original FBX meshes, UVs, skeletons and weights imported without mesh simplification or replacement.",
+      "animations": "All original FBX actions exported when present; none synthesized. Progressive morph geometry is retained as independent targets; original FBX progressive channel timing is not used when no source animation exists.",
+      "materials": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+      "coordinateSystem": "Blender FBX importer to glTF Y-up exporter; source object hierarchy and local transforms preserved."
+    },
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": [],
+      "sourceFileSha256Matches": true,
+      "convertedSha256Matches": true,
+      "allImagesDecode": true,
+      "maxEmbeddedTextureDimension": 256,
+      "catalogueFileHashesMatch": true
+    },
+    "files": [
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Materials/Eff_Ring_50_OneChannel_551.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Materials/Eff_Ring_50_OneChannel_551.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FMaterials%2FEff_Ring_50_OneChannel_551.json&v=7001b4499e77d99fd85396fd8e898428",
+        "size": 3089,
+        "sha256": "8015cf6a50fb7586f3143e71bd14ee7222e7739ee6f6f10f56dbad9cdbf9d5ad",
+        "etag": "7001b4499e77d99fd85396fd8e898428",
+        "catalogueSha256": "8015cf6a50fb7586f3143e71bd14ee7222e7739ee6f6f10f56dbad9cdbf9d5ad"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Art_W5_AsatPramad_01.fbx",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Art_W5_AsatPramad_01.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FArt_W5_AsatPramad_01.fbx&v=84bae7711ebf139f3183df9ccfd78fb2",
+        "size": 5201332,
+        "sha256": "7c5505e27d704a48609f9bb7e6b0aec73b875231d7c311f99e73e3d969d9ec46",
+        "etag": "84bae7711ebf139f3183df9ccfd78fb2",
+        "catalogueSha256": "7c5505e27d704a48609f9bb7e6b0aec73b875231d7c311f99e73e3d969d9ec46"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Materials/Eff_Ring_50_OneChannel_552.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Materials/Eff_Ring_50_OneChannel_552.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FMaterials%2FEff_Ring_50_OneChannel_552.json&v=03f436281fe238836702bbab5bfe81d9",
+        "size": 1357,
+        "sha256": "9590b3f551642439e325ffb0c3fae4639c82e2fd152e2cd99033c12d2bab27b5",
+        "etag": "03f436281fe238836702bbab5bfe81d9",
+        "catalogueSha256": "9590b3f551642439e325ffb0c3fae4639c82e2fd152e2cd99033c12d2bab27b5"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Materials/Eff_Ring_50_OneChannel_553.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Materials/Eff_Ring_50_OneChannel_553.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FMaterials%2FEff_Ring_50_OneChannel_553.json&v=bd300416dab0f8cf61fb42c32790beaa",
+        "size": 3117,
+        "sha256": "a18557d6b295528efe08b78b63effaec2787f8f55fe09dc799a089fa6f67b1f6",
+        "etag": "bd300416dab0f8cf61fb42c32790beaa",
+        "catalogueSha256": "a18557d6b295528efe08b78b63effaec2787f8f55fe09dc799a089fa6f67b1f6"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Materials/W5_AsatPramad_01_Body2_Mat.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Materials/W5_AsatPramad_01_Body2_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FMaterials%2FW5_AsatPramad_01_Body2_Mat.json&v=9ae1ffdad68744719db3dec45a0fd654",
+        "size": 8125,
+        "sha256": "fb5e5e29ef8917749cf51c07f8c750290f181325caa9b0646b89cefaeec5fe28",
+        "etag": "9ae1ffdad68744719db3dec45a0fd654",
+        "catalogueSha256": "fb5e5e29ef8917749cf51c07f8c750290f181325caa9b0646b89cefaeec5fe28"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Materials/W5_AsatPramad_00_Face_Mat.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Materials/W5_AsatPramad_00_Face_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FMaterials%2FW5_AsatPramad_00_Face_Mat.json&v=1a869bb3decf9c79a0aceaa746da3ffb",
+        "size": 8115,
+        "sha256": "9b5924b3150cebef4b3afd6ed23309cad2b65e1ec277359dcf64b97eed10c2b5",
+        "etag": "1a869bb3decf9c79a0aceaa746da3ffb",
+        "catalogueSha256": "9b5924b3150cebef4b3afd6ed23309cad2b65e1ec277359dcf64b97eed10c2b5"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Materials/W5_AsatPramad_00_Body1_Mat.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Materials/W5_AsatPramad_00_Body1_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FMaterials%2FW5_AsatPramad_00_Body1_Mat.json&v=684f7f2ead598591a25bd7492ceb42fa",
+        "size": 8837,
+        "sha256": "86fc544ab457e6c4a2da01cd62233f99de7327e041c180f69187db5138c17744",
+        "etag": "684f7f2ead598591a25bd7492ceb42fa",
+        "catalogueSha256": "86fc544ab457e6c4a2da01cd62233f99de7327e041c180f69187db5138c17744"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Materials/Eff_Ring_50_OneChannel_554.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Materials/Eff_Ring_50_OneChannel_554.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FMaterials%2FEff_Ring_50_OneChannel_554.json&v=7dd91c318631557b68aeebd053cdcbbe",
+        "size": 2921,
+        "sha256": "fcb5fda8f72801a7b8c983033d890a417dedcc71c1a240abf4abfbe818e96464",
+        "etag": "7dd91c318631557b68aeebd053cdcbbe",
+        "catalogueSha256": "fcb5fda8f72801a7b8c983033d890a417dedcc71c1a240abf4abfbe818e96464"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Eff_Mask_235_289.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Eff_Mask_235_289.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FEff_Mask_235_289.png&v=b895af24534c4202a9ef7238003c9912",
+        "size": 539,
+        "sha256": "59f66980360c5de52cde9c6e29178dc38e92ca5a17fb4bf03181e79e3f26beb3",
+        "etag": "b895af24534c4202a9ef7238003c9912",
+        "catalogueSha256": "59f66980360c5de52cde9c6e29178dc38e92ca5a17fb4bf03181e79e3f26beb3"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Eff_Mask_235_6666.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Eff_Mask_235_6666.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FEff_Mask_235_6666.png&v=5ee1f3f4f4fbea47f4d2ffb6cc44b336",
+        "size": 512,
+        "sha256": "7769ad926cf70ae68eb28c4785f1b5e195f800d2d439d9ff3a9fa10ec8d58057",
+        "etag": "5ee1f3f4f4fbea47f4d2ffb6cc44b336",
+        "catalogueSha256": "7769ad926cf70ae68eb28c4785f1b5e195f800d2d439d9ff3a9fa10ec8d58057"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Eff_Mask_07_09.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Eff_Mask_07_09.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FEff_Mask_07_09.png&v=ddd928c0f78a9c048d3cdd1a0ef5de61",
+        "size": 1068,
+        "sha256": "be8b968426978b0913c41cbd3ebe912af5532199e853ab765751c5b4915396a9",
+        "etag": "ddd928c0f78a9c048d3cdd1a0ef5de61",
+        "catalogueSha256": "be8b968426978b0913c41cbd3ebe912af5532199e853ab765751c5b4915396a9"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Eff_Mask_402_02.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Eff_Mask_402_02.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FEff_Mask_402_02.png&v=0e50d0d4dd0fbddcc3c5afa8c017b0b8",
+        "size": 2470,
+        "sha256": "678c88eb34755517fc86d78d911a621128a321d8d952f216a926eccbb7925536",
+        "etag": "0e50d0d4dd0fbddcc3c5afa8c017b0b8",
+        "catalogueSha256": "678c88eb34755517fc86d78d911a621128a321d8d952f216a926eccbb7925536"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Eff_noise_40_03.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Eff_noise_40_03.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FEff_noise_40_03.png&v=abc215ccc60a899c4ac90f32d87307a6",
+        "size": 166029,
+        "sha256": "b84b439525f196223afd5f8ff1d8c5a04fe1ab4aa1a6fbd7b028e29a94cda15d",
+        "etag": "abc215ccc60a899c4ac90f32d87307a6",
+        "catalogueSha256": "b84b439525f196223afd5f8ff1d8c5a04fe1ab4aa1a6fbd7b028e29a94cda15d"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Eff_Nosie_254.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Eff_Nosie_254.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FEff_Nosie_254.png&v=0a1f0f32d0a444d6f41e382810019367",
+        "size": 263162,
+        "sha256": "f69210fa2b8af713741b12ff3b0ccca67979442779e68c868fe91f8b85cb3600",
+        "etag": "0a1f0f32d0a444d6f41e382810019367",
+        "catalogueSha256": "f69210fa2b8af713741b12ff3b0ccca67979442779e68c868fe91f8b85cb3600"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Eff_Noise_45.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Eff_Noise_45.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FEff_Noise_45.png&v=edc78bebedfcf5a7184e1488baaff9d0",
+        "size": 242543,
+        "sha256": "9c4f1d0622349127f146eb8a3003f0f44678b3475c61664fc9153b67a023d71b",
+        "etag": "edc78bebedfcf5a7184e1488baaff9d0",
+        "catalogueSha256": "9c4f1d0622349127f146eb8a3003f0f44678b3475c61664fc9153b67a023d71b"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Eff_Nosie_88.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Eff_Nosie_88.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FEff_Nosie_88.png&v=8e5d1aaa6333e747b713aa878e84ecf8",
+        "size": 57777,
+        "sha256": "1037dbc5c837dafd90caf0265a35eae33ae9df366d3c07daeec666ab4f742fb1",
+        "etag": "8e5d1aaa6333e747b713aa878e84ecf8",
+        "catalogueSha256": "1037dbc5c837dafd90caf0265a35eae33ae9df366d3c07daeec666ab4f742fb1"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Eff_Nosie_251_03.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Eff_Nosie_251_03.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FEff_Nosie_251_03.png&v=ec290a1756d10b0c876296a8ec2bf629",
+        "size": 923619,
+        "sha256": "e4916d454056f23b2d8a4578da979635694de7f7193df0959e48b47cef4f3a64",
+        "etag": "ec290a1756d10b0c876296a8ec2bf629",
+        "catalogueSha256": "e4916d454056f23b2d8a4578da979635694de7f7193df0959e48b47cef4f3a64"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Matcap_11.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Matcap_11.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMatcap_11.png&v=ad73f7bdecf0df0071b44b482539688e",
+        "size": 278389,
+        "sha256": "458efbec38454911cc30d3e24bf06d966073883c0c03b961973761ab293ab0b6",
+        "etag": "ad73f7bdecf0df0071b44b482539688e",
+        "catalogueSha256": "458efbec38454911cc30d3e24bf06d966073883c0c03b961973761ab293ab0b6"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Matcap_14.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Matcap_14.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMatcap_14.png&v=8c5a2a1569f46fdc9788854f3b40d55b",
+        "size": 189298,
+        "sha256": "549f91cc899fd667593d737a85064b36da2885edfb2d59b452ee924d6b63510d",
+        "etag": "8c5a2a1569f46fdc9788854f3b40d55b",
+        "catalogueSha256": "549f91cc899fd667593d737a85064b36da2885edfb2d59b452ee924d6b63510d"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Body1_Mat.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Body1_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMaterialIDValuesLUTW5_AsatPramad_00_Body1_Mat.png&v=4671687483e3bcb1c8ce3feef0a66b22",
+        "size": 349,
+        "sha256": "052caf7832f79c203b228d527f09c725abb53b29cd4364c22301c579ecf7a1d7",
+        "etag": "4671687483e3bcb1c8ce3feef0a66b22",
+        "catalogueSha256": "052caf7832f79c203b228d527f09c725abb53b29cd4364c22301c579ecf7a1d7"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Face_Mat.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Face_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMaterialIDValuesLUTW5_AsatPramad_00_Face_Mat.png&v=2970188d44bf67bcee1ff52c326e8338",
+        "size": 339,
+        "sha256": "9f160a13fe6312b148da54270d9cf0e26daf771111c7e4a171e7bc209babec1b",
+        "etag": "2970188d44bf67bcee1ff52c326e8338",
+        "catalogueSha256": "9f160a13fe6312b148da54270d9cf0e26daf771111c7e4a171e7bc209babec1b"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/MaterialIDValuesLUTW5_AsatPramad_01_Body2_Mat.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/MaterialIDValuesLUTW5_AsatPramad_01_Body2_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMaterialIDValuesLUTW5_AsatPramad_01_Body2_Mat.png&v=90eb956e6f633d61578dd44cd2743a7a",
+        "size": 340,
+        "sha256": "2439bed4f076786e35dc28f78f83a2e9e12ce94ec0c6b2c00e1b91ae228beefe",
+        "etag": "90eb956e6f633d61578dd44cd2743a7a",
+        "catalogueSha256": "2439bed4f076786e35dc28f78f83a2e9e12ce94ec0c6b2c00e1b91ae228beefe"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Monster_W4_Turkey_00_Mask.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Monster_W4_Turkey_00_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMonster_W4_Turkey_00_Mask.png&v=65903c463d6f557e40a6fdd116630fbe",
+        "size": 53345,
+        "sha256": "026a0819369517ed908b6b9c3421c7ee8a837062e279235ad5f50f5d120ebf8f",
+        "etag": "65903c463d6f557e40a6fdd116630fbe",
+        "catalogueSha256": "026a0819369517ed908b6b9c3421c7ee8a837062e279235ad5f50f5d120ebf8f"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Body1_LightMap.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Monster_W5_AsatPramad_00_Body1_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Body1_LightMap.png&v=de411ae87911b9b7f2fe37d1b8cc2af5",
+        "size": 2272586,
+        "sha256": "bbfb698e21af136e76be6c452004ce5d2916d5831851c497b9434ad6d20f9614",
+        "etag": "de411ae87911b9b7f2fe37d1b8cc2af5",
+        "catalogueSha256": "bbfb698e21af136e76be6c452004ce5d2916d5831851c497b9434ad6d20f9614"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Body1_Color.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Monster_W5_AsatPramad_00_Body1_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Body1_Color.png&v=a45a5fbb0bd965440413f241372c082d",
+        "size": 1824996,
+        "sha256": "0c2e61a671af65b37d1aa497c56b9297f3fcd5e58fa5d47b982b853568b2b05d",
+        "etag": "a45a5fbb0bd965440413f241372c082d",
+        "catalogueSha256": "0c2e61a671af65b37d1aa497c56b9297f3fcd5e58fa5d47b982b853568b2b05d"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Cool_Ramp.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Monster_W5_AsatPramad_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Cool_Ramp.png&v=f3b620dfc0315e5f84935b9dbb4ac38e",
+        "size": 934,
+        "sha256": "607fa0d6a157f79246376a3ab98c3968614af4e47263a29e878c2d255fb8be6f",
+        "etag": "f3b620dfc0315e5f84935b9dbb4ac38e",
+        "catalogueSha256": "607fa0d6a157f79246376a3ab98c3968614af4e47263a29e878c2d255fb8be6f"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Warm_Ramp.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Monster_W5_AsatPramad_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Warm_Ramp.png&v=7a1d48032a1804599d70e6bbd483b443",
+        "size": 856,
+        "sha256": "fbf1bd5bade9e5ac891970d029102381057cac10f45a20e903cf9bb07fe18de6",
+        "etag": "7a1d48032a1804599d70e6bbd483b443",
+        "catalogueSha256": "fbf1bd5bade9e5ac891970d029102381057cac10f45a20e903cf9bb07fe18de6"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Face_Color.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Monster_W5_AsatPramad_00_Face_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Face_Color.png&v=e72db7e219c4041b1e6e6127a1737ec3",
+        "size": 2659077,
+        "sha256": "9d0016045b3554aa6d7272aa828275d11d1e7b55f7399591aaee7e4ffe5fdfa3",
+        "etag": "e72db7e219c4041b1e6e6127a1737ec3",
+        "catalogueSha256": "9d0016045b3554aa6d7272aa828275d11d1e7b55f7399591aaee7e4ffe5fdfa3"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Monster_W5_AsatPramad_01_Body2_Color.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Monster_W5_AsatPramad_01_Body2_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMonster_W5_AsatPramad_01_Body2_Color.png&v=713fe51fd53f625810a334d71a5bf342",
+        "size": 3296803,
+        "sha256": "ed3b8e22d8025f344a5fc4e3c8fb94dd9868d43d0435f5791a8d1dec27929ced",
+        "etag": "713fe51fd53f625810a334d71a5bf342",
+        "catalogueSha256": "ed3b8e22d8025f344a5fc4e3c8fb94dd9868d43d0435f5791a8d1dec27929ced"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Face_LightMap.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Monster_W5_AsatPramad_00_Face_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Face_LightMap.png&v=f5577d437dd9d42d85a8eeec7b47b316",
+        "size": 3476839,
+        "sha256": "381aa76e0eac4d3d53e16d2168637ff889dec442d31423e1d1fe2588533f08f0",
+        "etag": "f5577d437dd9d42d85a8eeec7b47b316",
+        "catalogueSha256": "381aa76e0eac4d3d53e16d2168637ff889dec442d31423e1d1fe2588533f08f0"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Monster_W5_AsatPramad_01_Body2_Mask.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Monster_W5_AsatPramad_01_Body2_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMonster_W5_AsatPramad_01_Body2_Mask.png&v=6e7e682c99b41f077ff1b33fde2b94f8",
+        "size": 193987,
+        "sha256": "41ff996091e1711c890f1e477c90c2d36d584f9c94bf9f9c742d287b19e4e0b6",
+        "etag": "6e7e682c99b41f077ff1b33fde2b94f8",
+        "catalogueSha256": "41ff996091e1711c890f1e477c90c2d36d584f9c94bf9f9c742d287b19e4e0b6"
+      },
+      {
+        "id": "boss_guiji_existence",
+        "path": "public/assets/models/boss_guiji_existence/hoyotoon-original/Textures/Monster_W5_AsatPramad_01_Body2_LightMap.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Existence/Default/Textures/Monster_W5_AsatPramad_01_Body2_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Existence%2FDefault%2FTextures%2FMonster_W5_AsatPramad_01_Body2_LightMap.png&v=2a52f24e11560842e40cd0b130d9c24b",
+        "size": 3702683,
+        "sha256": "15cd3b9a726c42da8d398b57d4074081360476a6e59d0326fbfedb2c73c869a3",
+        "etag": "2a52f24e11560842e40cd0b130d9c24b",
+        "catalogueSha256": "15cd3b9a726c42da8d398b57d4074081360476a6e59d0326fbfedb2c73c869a3"
+      }
+    ],
+    "checkedAt": "2026-09-29",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  },
+  {
+    "id": "boss_guiji_decay",
+    "name": "归寂·坏",
+    "status": "converted",
+    "format": "wulong-glb-bundle-v1",
+    "source": "https://assets.hoyotoon.com/api/remote-assets?game=hsr&type=monsters&ids=8015050",
+    "sourceKind": "public-community-game-asset-catalog",
+    "bundlePath": "public/assets/models/boss_guiji_decay/bundle.json",
+    "sourceFile": "public/assets/models/boss_guiji_decay/hoyotoon-original/Art_W5_AsatPramad_02.fbx",
+    "sourceSha256": "32c1c663c4d841106b64bcd7496a7de3c813739c157cc366f90446076304d10b",
+    "glbSha256": "a7c9959b05feb544f3ee224640d22b2533c5b4a7ce6102da5a7edb35bd5b5e5d",
+    "pmxSha256": null,
+    "vertices": 57461,
+    "triangles": 53391,
+    "bones": 147,
+    "sourceBones": 147,
+    "textureCount": 3,
+    "maxTexture": 256,
+    "animations": [],
+    "originalComment": "",
+    "credits": "Game assets © miHoYo / HoYoverse. Public game-asset catalogue provided by HoyoToon; not an official MMD distribution.",
+    "conversion": {
+      "tool": "Blender 5.2.1 LTS",
+      "maxTextureDimension": 256,
+      "geometry": "Original FBX meshes, UVs, skeletons and weights imported without mesh simplification or replacement.",
+      "animations": "All original FBX actions exported when present; none synthesized. Progressive morph geometry is retained as independent targets; original FBX progressive channel timing is not used when no source animation exists.",
+      "materials": "Original material JSON binds exact diffuse files. Unity game-specific toon/ramp/lighting shaders are approximated by standard GLTF materials; original shaders/textures are preserved beside the FBX.",
+      "coordinateSystem": "Blender FBX importer to glTF Y-up exporter; source object hierarchy and local transforms preserved."
+    },
+    "validation": {
+      "embeddedBuffers": true,
+      "embeddedImages": true,
+      "noMissingDiffuseTextures": true,
+      "sourceTrianglesPreserved": true,
+      "sourceBonesPreserved": true,
+      "missingSourceBones": [],
+      "sourceFileSha256Matches": true,
+      "convertedSha256Matches": true,
+      "allImagesDecode": true,
+      "maxEmbeddedTextureDimension": 256,
+      "catalogueFileHashesMatch": true
+    },
+    "files": [
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Materials/W5_AsatPramad_00_Body1_Mat.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Materials/W5_AsatPramad_00_Body1_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FMaterials%2FW5_AsatPramad_00_Body1_Mat.json&v=684f7f2ead598591a25bd7492ceb42fa",
+        "size": 8837,
+        "sha256": "86fc544ab457e6c4a2da01cd62233f99de7327e041c180f69187db5138c17744",
+        "etag": "684f7f2ead598591a25bd7492ceb42fa",
+        "catalogueSha256": "86fc544ab457e6c4a2da01cd62233f99de7327e041c180f69187db5138c17744"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Art_W5_AsatPramad_02.fbx",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Art_W5_AsatPramad_02.fbx",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FArt_W5_AsatPramad_02.fbx&v=34b792c20428e7a1db1573f3239a4cee",
+        "size": 5077092,
+        "sha256": "32c1c663c4d841106b64bcd7496a7de3c813739c157cc366f90446076304d10b",
+        "etag": "34b792c20428e7a1db1573f3239a4cee",
+        "catalogueSha256": "32c1c663c4d841106b64bcd7496a7de3c813739c157cc366f90446076304d10b"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Materials/W5_AsatPramad_00_Face_Mat.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Materials/W5_AsatPramad_00_Face_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FMaterials%2FW5_AsatPramad_00_Face_Mat.json&v=1a869bb3decf9c79a0aceaa746da3ffb",
+        "size": 8115,
+        "sha256": "9b5924b3150cebef4b3afd6ed23309cad2b65e1ec277359dcf64b97eed10c2b5",
+        "etag": "1a869bb3decf9c79a0aceaa746da3ffb",
+        "catalogueSha256": "9b5924b3150cebef4b3afd6ed23309cad2b65e1ec277359dcf64b97eed10c2b5"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Materials/W5_AsatPramad_02_Body2_Mat.json",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Materials/W5_AsatPramad_02_Body2_Mat.json",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FMaterials%2FW5_AsatPramad_02_Body2_Mat.json&v=7ee1b9b2a3f7bdd1f8258d23d34c488e",
+        "size": 8245,
+        "sha256": "12775792b70d7f7245e0cffc95c0633daab7dc7d65a211eb10513ff2d49e6970",
+        "etag": "7ee1b9b2a3f7bdd1f8258d23d34c488e",
+        "catalogueSha256": "12775792b70d7f7245e0cffc95c0633daab7dc7d65a211eb10513ff2d49e6970"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Matcap_11.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Matcap_11.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMatcap_11.png&v=ad73f7bdecf0df0071b44b482539688e",
+        "size": 278389,
+        "sha256": "458efbec38454911cc30d3e24bf06d966073883c0c03b961973761ab293ab0b6",
+        "etag": "ad73f7bdecf0df0071b44b482539688e",
+        "catalogueSha256": "458efbec38454911cc30d3e24bf06d966073883c0c03b961973761ab293ab0b6"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Matcap_27.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Matcap_27.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMatcap_27.png&v=282458c4f6978a658cee8139784f0b62",
+        "size": 133848,
+        "sha256": "dc8ed01004c17a227786f0302755aa349b67007e8139d3755d17fe88cf446220",
+        "etag": "282458c4f6978a658cee8139784f0b62",
+        "catalogueSha256": "dc8ed01004c17a227786f0302755aa349b67007e8139d3755d17fe88cf446220"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Body1_Mat.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Body1_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMaterialIDValuesLUTW5_AsatPramad_00_Body1_Mat.png&v=4671687483e3bcb1c8ce3feef0a66b22",
+        "size": 349,
+        "sha256": "052caf7832f79c203b228d527f09c725abb53b29cd4364c22301c579ecf7a1d7",
+        "etag": "4671687483e3bcb1c8ce3feef0a66b22",
+        "catalogueSha256": "052caf7832f79c203b228d527f09c725abb53b29cd4364c22301c579ecf7a1d7"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Face_Mat.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/MaterialIDValuesLUTW5_AsatPramad_00_Face_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMaterialIDValuesLUTW5_AsatPramad_00_Face_Mat.png&v=2970188d44bf67bcee1ff52c326e8338",
+        "size": 339,
+        "sha256": "9f160a13fe6312b148da54270d9cf0e26daf771111c7e4a171e7bc209babec1b",
+        "etag": "2970188d44bf67bcee1ff52c326e8338",
+        "catalogueSha256": "9f160a13fe6312b148da54270d9cf0e26daf771111c7e4a171e7bc209babec1b"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/MaterialIDValuesLUTW5_AsatPramad_02_Body2_Mat.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/MaterialIDValuesLUTW5_AsatPramad_02_Body2_Mat.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMaterialIDValuesLUTW5_AsatPramad_02_Body2_Mat.png&v=df5603405cf8a63340068eb49303433c",
+        "size": 338,
+        "sha256": "d178755f9a37b7522e3f5a356036563541fdf640fec911a263536fe71821f098",
+        "etag": "df5603405cf8a63340068eb49303433c",
+        "catalogueSha256": "d178755f9a37b7522e3f5a356036563541fdf640fec911a263536fe71821f098"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Monster_W4_Turkey_00_Mask.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Monster_W4_Turkey_00_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMonster_W4_Turkey_00_Mask.png&v=65903c463d6f557e40a6fdd116630fbe",
+        "size": 53345,
+        "sha256": "026a0819369517ed908b6b9c3421c7ee8a837062e279235ad5f50f5d120ebf8f",
+        "etag": "65903c463d6f557e40a6fdd116630fbe",
+        "catalogueSha256": "026a0819369517ed908b6b9c3421c7ee8a837062e279235ad5f50f5d120ebf8f"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Cool_Ramp.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Monster_W5_AsatPramad_00_Cool_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Cool_Ramp.png&v=f3b620dfc0315e5f84935b9dbb4ac38e",
+        "size": 934,
+        "sha256": "607fa0d6a157f79246376a3ab98c3968614af4e47263a29e878c2d255fb8be6f",
+        "etag": "f3b620dfc0315e5f84935b9dbb4ac38e",
+        "catalogueSha256": "607fa0d6a157f79246376a3ab98c3968614af4e47263a29e878c2d255fb8be6f"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Body1_LightMap.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Monster_W5_AsatPramad_00_Body1_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Body1_LightMap.png&v=de411ae87911b9b7f2fe37d1b8cc2af5",
+        "size": 2272586,
+        "sha256": "bbfb698e21af136e76be6c452004ce5d2916d5831851c497b9434ad6d20f9614",
+        "etag": "de411ae87911b9b7f2fe37d1b8cc2af5",
+        "catalogueSha256": "bbfb698e21af136e76be6c452004ce5d2916d5831851c497b9434ad6d20f9614"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Body1_Color.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Monster_W5_AsatPramad_00_Body1_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Body1_Color.png&v=a45a5fbb0bd965440413f241372c082d",
+        "size": 1824996,
+        "sha256": "0c2e61a671af65b37d1aa497c56b9297f3fcd5e58fa5d47b982b853568b2b05d",
+        "etag": "a45a5fbb0bd965440413f241372c082d",
+        "catalogueSha256": "0c2e61a671af65b37d1aa497c56b9297f3fcd5e58fa5d47b982b853568b2b05d"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Face_Color.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Monster_W5_AsatPramad_00_Face_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Face_Color.png&v=e72db7e219c4041b1e6e6127a1737ec3",
+        "size": 2659077,
+        "sha256": "9d0016045b3554aa6d7272aa828275d11d1e7b55f7399591aaee7e4ffe5fdfa3",
+        "etag": "e72db7e219c4041b1e6e6127a1737ec3",
+        "catalogueSha256": "9d0016045b3554aa6d7272aa828275d11d1e7b55f7399591aaee7e4ffe5fdfa3"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Warm_Ramp.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Monster_W5_AsatPramad_00_Warm_Ramp.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Warm_Ramp.png&v=7a1d48032a1804599d70e6bbd483b443",
+        "size": 856,
+        "sha256": "fbf1bd5bade9e5ac891970d029102381057cac10f45a20e903cf9bb07fe18de6",
+        "etag": "7a1d48032a1804599d70e6bbd483b443",
+        "catalogueSha256": "fbf1bd5bade9e5ac891970d029102381057cac10f45a20e903cf9bb07fe18de6"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Monster_W5_AsatPramad_00_Face_LightMap.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Monster_W5_AsatPramad_00_Face_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMonster_W5_AsatPramad_00_Face_LightMap.png&v=f5577d437dd9d42d85a8eeec7b47b316",
+        "size": 3476839,
+        "sha256": "381aa76e0eac4d3d53e16d2168637ff889dec442d31423e1d1fe2588533f08f0",
+        "etag": "f5577d437dd9d42d85a8eeec7b47b316",
+        "catalogueSha256": "381aa76e0eac4d3d53e16d2168637ff889dec442d31423e1d1fe2588533f08f0"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Monster_W5_AsatPramad_02_Body2_Color.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Monster_W5_AsatPramad_02_Body2_Color.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMonster_W5_AsatPramad_02_Body2_Color.png&v=f40a299c12c267a5674ae642208cab9f",
+        "size": 2452748,
+        "sha256": "93c2e3aff15e4d0f4d0182ee418cb065303b357f787e64cfd6f4367dbe73dcc4",
+        "etag": "f40a299c12c267a5674ae642208cab9f",
+        "catalogueSha256": "93c2e3aff15e4d0f4d0182ee418cb065303b357f787e64cfd6f4367dbe73dcc4"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Monster_W5_AsatPramad_02_Body2_Mask.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Monster_W5_AsatPramad_02_Body2_Mask.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMonster_W5_AsatPramad_02_Body2_Mask.png&v=56496f7e0892959ccd2b2e7c4f7b6a07",
+        "size": 366104,
+        "sha256": "dea76da6a0fdd211ae605bbbe92b602f625ad7fe18da3d3771b6883e832563c1",
+        "etag": "56496f7e0892959ccd2b2e7c4f7b6a07",
+        "catalogueSha256": "dea76da6a0fdd211ae605bbbe92b602f625ad7fe18da3d3771b6883e832563c1"
+      },
+      {
+        "id": "boss_guiji_decay",
+        "path": "public/assets/models/boss_guiji_decay/hoyotoon-original/Textures/Monster_W5_AsatPramad_02_Body2_LightMap.png",
+        "remotePath": "Monsters/Lord of Saṃvartasthāyi, Asat Pramad Decay/Default/Textures/Monster_W5_AsatPramad_02_Body2_LightMap.png",
+        "source": "https://assets.hoyotoon.com/api/remote-assets/file?path=Honkai+Star+Rail%2FMonsters%2FLord+of+Sa%E1%B9%83vartasth%C4%81yi%2C+Asat+Pramad+Decay%2FDefault%2FTextures%2FMonster_W5_AsatPramad_02_Body2_LightMap.png&v=1e529619b367bebb132d7de7ae227251",
+        "size": 3217558,
+        "sha256": "34590a76565b5642454768c705b09ccedecb0d3cd1036743d4559e1750339cb5",
+        "etag": "1e529619b367bebb132d7de7ae227251",
+        "catalogueSha256": "34590a76565b5642454768c705b09ccedecb0d3cd1036743d4559e1750339cb5"
+      }
+    ],
+    "checkedAt": "2026-09-29",
+    "browserRenderVerified": true,
+    "browserEvidence": "tests/evidence/monster-roster/report.json; tests/evidence/facing-pompom/report.json"
+  }
+]
